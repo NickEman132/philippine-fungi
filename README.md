@@ -28,9 +28,7 @@ kabutingsaging
 
 kabutingsungsong
 
-kaupas
-
-kidlat 
+kaupas 
 
 kulat
 
@@ -48,6 +46,8 @@ mashrum -
 
 oong -
 
+owong 
+
 pandongʼahas
 
 payongʼahas
@@ -56,6 +56,13 @@ payongʼayas -
 
 reishi -
 
+tabyok (tabiak)
+
 taingang dagaʼ
 
 uhong
+
+
+## words related to fungi
+
+kidlat
