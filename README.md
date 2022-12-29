@@ -1,5 +1,14 @@
 # philippine-fungi
 
+## abbrevitions used
+
+*Sug* - Sugbuanon
+
+*Tag* - Tagalog
+
+
+## dictionary 
+
 agubʼub 
 
 agupʼup
