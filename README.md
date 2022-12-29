@@ -219,6 +219,9 @@ sources
 
 ## (dictionary)[https://www.github.com/NickEman132/philippine-fungi#contents]
 
+agariko
+
+
 agubʼub 
 
 agupʼup
