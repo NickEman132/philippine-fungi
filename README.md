@@ -16,7 +16,7 @@ sources
 
 ## [abbrevitions used](https://www.github.com/NickEman132/philippine-fungi#contents)
 
-*Abk* - Abaknon
+*abx* - Abaknon
 
 *Aby* - Abyan
 
@@ -249,7 +249,7 @@ kabuting manok
 
 kabuting parang
 
-kabuting parang na putiʼ - *Psalliota compestris*
+kabuting parang na putiʼ - *Psalliota compestris (Fries)*
 
 kabuting punsoʼ
 
@@ -295,9 +295,11 @@ payung na nipay
 
 reishi -
 
-tabyok (tabiak)
+tabiák - Old Taga - 
 
-taingang dagaʼ
+tabyok - -
+
+taingang dagaʼ - 
 
 tainga nang dagaʼ
 
