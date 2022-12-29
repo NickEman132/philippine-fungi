@@ -1,6 +1,20 @@
 # philippine-fungi
 
-## abbrevitions used
+Philippines have fungi wow
+
+## contents
+
+[**abbreviations used**](https://www.github.com/NickEman132/philippine-fungi#abbreviations-used)
+
+[**dictionary**](https://www.github.com/NickEman132/philippine-fungi#dictionary)
+
+道 
+
+meta info
+
+sources
+
+## [abbrevitions used](https://www.github.com/NickEman132/philippine-fungi#contents)
 
 *Abk* - Abaknon
 
@@ -203,7 +217,7 @@
 *Zam* - Zambal
 
 
-## dictionary 
+## (dictionary)[https://www.github.com/NickEman132/philippine-fungi#contents]
 
 agubʼub 
 
@@ -268,6 +282,8 @@ taingang dagaʼ
 uhong
 
 
-## words related to fungi
+## meta info
 
 kidlat
+
+## sources
