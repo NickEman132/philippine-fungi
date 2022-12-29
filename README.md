@@ -217,10 +217,9 @@ sources
 *Zam* - Zambal
 
 
-## (dictionary)[https://www.github.com/NickEman132/philippine-fungi#contents]
+## ([dictionary](https://www.github.com/NickEman132/philippine-fungi#contents)
 
 agariko
-
 
 agubʼub 
 
@@ -230,27 +229,37 @@ amag - mold, mildew
 
 amamakul -
 
+aroy -
+
+balugbug-daguis
+
 butingginiikan - 
 
-ihiʼnangʼaso
+dakdakan
+
+ihiʼ nang aso
 
 kabuti -
 
-kabutingʼahas 
+kabuting ahas 
 
-kabutingginiikan
+kabuting giniikan
 
-kabutingmanok
+kabuting manok
 
-kabutingparang
+kabuting parang
 
-kabutingpunsoʼ
+kabuting parang na putiʼ - *Psalliota compestris*
 
-kabutingsaging
+kabuting punsoʼ
 
-kabutingsungsong
+kabuting saging
+
+kabuting sungsong
 
 kaupas 
+
+kuat
 
 kulat
 
@@ -268,13 +277,21 @@ mashrum -
 
 oong -
 
+oong de lata
+
 owong 
 
-pandongʼahas
+pandong ahas
 
-payongʼahas
+payong ahas
 
-payongʼayas -
+payong ayas -
+
+payong-payungan 
+
+payong-payungan-kulog 
+
+payung na nipay
 
 reishi -
 
@@ -282,8 +299,19 @@ tabyok (tabiak)
 
 taingang dagaʼ
 
+tainga nang dagaʼ
+
+talinga-ti-otot
+
+tubo
+
+tungang-basin
+
 uhong
 
+ulaping
+
+unodʼunod
 
 ## meta info
 
