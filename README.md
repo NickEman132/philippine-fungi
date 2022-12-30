@@ -16,246 +16,60 @@ sources
 
 ## [abbrevitions used](https://www.github.com/NickEman132/philippine-fungi#contents)
 
-*abx* - Abaknon
+Languages:
+	tl. / tag. - Tagalog
+		tl-mdu. - Marinduque Tagalog
+	ceb. - Cebuano, Bisaya/Binisaya, Sinugbuanon
+	pag. - Pangasinan 
+	pam. - Kapampangan, Pampangan
+	mul. - Many languages
+Miscellaneous: 
+	† - possibly obsolete
+	‡ - no search results, cant be found anywhere.
+	😉 - word using spanish orthography
+	等 - definitions telling "a type of mushroom" and such
+	cf. - confer, compare with, see also
 
-*Aby* - Abyan
+## [dictionary](https://www.github.com/NickEman132/philippine-fungi#contents)
 
-*Agt* - Agta
+agubʼub <sub>ceb.</sub> - mushroom
 
-*Agu* - Agutayanen
+agupʼup <sub>ceb.</sub> - cf. *agubʼub*
 
-*Ake* - Akeanon
+amag <sub>tl.</sub> - mold; mildew 
 
-*AM* - Agusanon-Manobo
+amamakul <sub>ceb.</sub> - mushroom
 
-*Ata* - Ata
+aroy <sub>Lanao</sub>  - kabuti? <sup>FPP</sup>
 
-*Apa* - Apayaw
+balugbug-dagis <sub>pam.</sub> - 等 <sup>FPP</sup> *= bukui* <sup>[1]:109</sup>
 
-*Ara* - Arabe
+butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
-*Ayt Mbk* - Ayta-Magbubukun
+dakdakan <sub>Zambaleno</sub> - kabuti? <sup>FPP</sup>, also a banana variant
 
-*Ayt Mgk* - Ayta-Magkunana
+ihiʼ nang aso -
 
-*Bag* - Bagobo
+kabuti <sub>tl.</sub> - 
 
-*Baj* - Bajaw
+kabuting ahas <sub>tl.</sub>
 
-*Bal* - Balangaw
+kabuting giniikan <sub>tl.</sub>
 
-*Ban* - Bantoanan
+kabuting manok <sub>tl.</sub>
 
-*Ben* - Bengali
+kabuting parang <sub>tl.</sub>
 
-*Bgo* - Bago Igorot
+kabuting parang na bulik <sub>tl.</sub> - *Psalliota Merilli* (Copeland) 
+= kabuteng-parang na may singsing
 
-*Bik* - Bikol
+kabuting parang na putiʼ <sub>tl.</sub> - *Psalliota compestris* (Fries)
 
-*Bil* - Bilaan
+kabuting punsoʼ <sub>tl.</sub>
 
-*Bon* - Bontok
+kabuting saging <sub>tl.</sub>
 
-*Btk* - Batak
-
-*Buh* - Buhid
-
-*Buk* - Bukidnon
-
-*Bun* - Buntuanon
-
-*Cha* - Chavacano
-
-*Man* - Mandarin
-
-*Cuy* - Cuyonen
-
-*Esp* - Espanyol
-
-*Fil* - Filipino
-
-*Fre* - French
-
-*Ger* - German
-
-*Gri* - Griyego
-
-*Han* - Hanunuo
-
-*Iby* - Ibaloy
-
-*Heb* - Hebrew
-
-*Hgn* - Higa-onon
-
-*Hil* - Hiligaynon
-
-*Hin* - Hindustani
-
-*Iba* - Ibanag
-
-*Ifu* - Ifugaw
-
-*Igo* - Igorot
-
-*Ilk* - Iloko
-
-*Ilt* - Ilongot
-
-*Ing* - Ingles
-
-*Isn* - Isneg
-
-*Ita* - Italian
-
-*Itn* - Itneg
-
-*Iva* - Ivatan
-
-*Jap* - Japanese
-
-*JM* - Jama Mapun
-
-*Kal* - Kalinga
-
-*Kan* - Kankaney
-
-*Klg* - Kalagan
-
-*Kap* - Kapampangan
-
-*Kar* - Karaw
-
-*Kor* - Koreano
-
-*Lat* - Latin
-
-*Mag* - Maguindanao
-
-*Mal* - Malay
-
-*Man* - Mangyan
-
-*Mex* - Mexican
-
-*Mgn* - Mangguangan
-
-*Mmw* - Mamanwa
-
-*Mnd* - Mandaya
-
-*Mnb Agu* - Manobo Agusan
-
-*Mnb Cot* - Manobo Cotobato
-
-*Mnb* - Manobo
-
-*Mns* - Mansaka
-
-*MOc* - Misamis Occidental
-
-*Mrw* - Maranaw
-
-*Nor* - Norwego
-
-*Pal* - Palawan
-
-*Pan* - Pangasinan
-
-*Por* - Portugese
-
-*Rom* - Rombloanon
-
-*Rus* - Ruso
-
-*San* - Sanskrit
-
-*Sld* - Sulod
-
-*Sma* - Samal
-
-*Snk* - Sanskrit
-
-*Sub* - Subanon
-
-*Sug* - Sugbuanon
-
-*Swa* - Swahili
-
-*Tag* - Tagalog
-
-*ST* - Sinaunang Tagalog
-
-*Tbw* - Tagbanwa
-
-*Tau* - Tausug
-
-*Tbo* - Tboli
-
-*Ted* - Teduray/Tiruray
-
-*Tgk* - Tagakawlo
-
-*Tha* - Thai
-
-*Tib* - Tibetan
-
-*Tin* - Tinggian
-
-*Tir* - Tiruray
-
-*Tsi* - Tsino
-
-*Tua Dus* - Tuaran Dusun
-
-*Tur* - Turkish
-
-*War* - Waray
-
-*Yak* - Yakan
-
-*Zam* - Zambal
-
-
-## ([dictionary](https://www.github.com/NickEman132/philippine-fungi#contents)
-
-agariko
-
-agubʼub 
-
-agupʼup
-
-amag - mold, mildew
-
-amamakul -
-
-aroy -
-
-balugbug-daguis
-
-butingginiikan - 
-
-dakdakan
-
-ihiʼ nang aso
-
-kabuti -
-
-kabuting ahas 
-
-kabuting giniikan
-
-kabuting manok
-
-kabuting parang
-
-kabuting parang na putiʼ - *Psalliota compestris (Fries)*
-
-kabuting punsoʼ
-
-kabuting saging
-
-kabuting sungsong
+kabuting sungsong <sub>tl.</sub>
 
 kaupas 
 
@@ -277,7 +91,6 @@ mashrum -
 
 oong -
 
-oong de lata
 
 owong 
 
@@ -287,7 +100,9 @@ payong ahas
 
 payong ayas -
 
-payong-payungan 
+payong-payungan <sub>tl.</sub>
+
+payong-payungan <sub>pag.</sub>
 
 payong-payungan-kulog 
 
@@ -295,7 +110,9 @@ payung na nipay
 
 reishi -
 
-tabiák - Old Taga - 
+tauge
+
+tabiák<sup>†</sup> tl. - 等<sup> UPDF </sup> *cf.* tabyok 
 
 tabyok - -
 
@@ -317,6 +134,13 @@ unodʼunod
 
 ## meta info
 
+agariko -b
+
 kidlat
 
 ## sources
+h
+	UPDF - UP Diksiyonaryo [diksiyonaryo.ph]
+	FPP - The Food Plants of the Philippines
+	1 - **1920**, William H. Brown, *Minor Products of Philippine Forests*
+ 
