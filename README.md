@@ -67,7 +67,7 @@ dakdakan <sub>Zambaleno</sub> - kabuti? <sup>FPP</sup>, also a banana variant
 
 damdamayan <sub>Kankanaey</sub>
 
-ihiʼ nang aso -
+ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
 
 kabuti <sub>tl.</sub> - 
 
@@ -90,11 +90,17 @@ kabuting saging <sub>tl.</sub>
 
 kabuting sungsong <sub>tl.</sub>
 
+kagaw <sub>hil.</sub> - PROTOZOA?
+
 kapuʼkapuʼ <sub>Tausug</sub> - mold, mildew (syn. baguʼbuʼ)
+
+karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 
 kaupas 
 
 kuat
+
+kuhong <sub>hil.</sub> - cf. uhong
 
 kulat
 
@@ -133,7 +139,7 @@ payong-payungan-kulog
 
 payung na nipay
 
-reishi <sub>eng.</sub>
+reishi <sub>eng.</sub> - *Ganoderma lucidum*, *Ganoderma tsugae*
 
 tauge
 
@@ -153,7 +159,7 @@ tungang-basin
 
 tuputupu <sub>Ivatan</sub>
 
-uhong
+uhong <sub>mul.</sub> - mushroom
 
 ulaping
 
@@ -161,11 +167,17 @@ unodʼunod
 
 ## meta info
 
-agariko -b
+agariko
 
 alipunga <sub>tl.</sub> - *tinea pedis* (Disease)
 
+anʼan
+
+apʼap 
+
 kidlat
+
+singsing
 
 ## sources
 
