@@ -16,18 +16,31 @@ sources
 
 ## [abbrevitions used](https://www.github.com/NickEman132/philippine-fungi#contents)
 
-Languages:
+**Languages:**
+
 	tl. / tag. - Tagalog
+
 		tl-mdu. - Marinduque Tagalog
+
 	ceb. - Cebuano, Bisaya/Binisaya, Sinugbuanon
+
 	pag. - Pangasinan 
+
 	pam. - Kapampangan, Pampangan
+
 	mul. - Many languages
-Miscellaneous: 
+
+
+**Miscellaneous:**
+
 	† - possibly obsolete
+
 	‡ - no search results, cant be found anywhere.
+
 	😉 - word using spanish orthography
+
 	等 - definitions telling "a type of mushroom" and such
+
 	cf. - confer, compare with, see also
 
 ## [dictionary](https://www.github.com/NickEman132/philippine-fungi#contents)
