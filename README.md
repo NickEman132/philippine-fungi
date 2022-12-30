@@ -108,6 +108,8 @@ luyud <sub>Tausug</sub> - mushroom
 
 mamarang
 
+makol <sub>hil.</sub>
+
 mamuso
 
 mushroom
