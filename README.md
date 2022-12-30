@@ -149,6 +149,8 @@ unodʼunod
 
 agariko -b
 
+alipunga <sub>tl.</sub> - *tinea pedis* (Disease)
+
 kidlat
 
 ## sources
