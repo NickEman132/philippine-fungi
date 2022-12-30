@@ -43,6 +43,8 @@ sources
 
 	cf. - confer, compare with, see also
 
+        syn. - synonymous with, synonym
+
 ## [dictionary](https://www.github.com/NickEman132/philippine-fungi#contents)
 
 agubʼub <sub>ceb.</sub> - mushroom
@@ -54,6 +56,8 @@ amag <sub>tl.</sub> - mold; mildew
 amamakul <sub>ceb.</sub> - mushroom
 
 aroy <sub>Lanao</sub>  - kabuti? <sup>FPP</sup>
+
+baguʼbuʼ <sub>Tausug</sub> - mold; fungus
 
 balugbug-dagis <sub>pam.</sub> - 等 <sup>FPP</sup> *= bukui* <sup>[1]:109</sup>
 
@@ -85,6 +89,8 @@ kabuting punsoʼ <sub>tl.</sub>
 kabuting saging <sub>tl.</sub>
 
 kabuting sungsong <sub>tl.</sub>
+
+kapuʼkapuʼ <sub>Tausug</sub> - mold, mildew (syn. baguʼbuʼ)
 
 kaupas 
 
