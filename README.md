@@ -100,7 +100,7 @@ mamarang
 
 mamuso
 
-mashrum -
+mushroom
 
 oong -
 
@@ -121,7 +121,7 @@ payong-payungan-kulog
 
 payung na nipay
 
-reishi -
+reishi <sub>eng.</sub>
 
 tauge
 
@@ -152,8 +152,10 @@ agariko -b
 kidlat
 
 ## sources
-h
+
 	UPDF - UP Diksiyonaryo [diksiyonaryo.ph]
+
 	FPP - The Food Plants of the Philippines
+
 	1 - **1920**, William H. Brown, *Minor Products of Philippine Forests*
  
