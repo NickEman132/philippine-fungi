@@ -61,6 +61,8 @@ butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
 dakdakan <sub>Zambaleno</sub> - kabuti? <sup>FPP</sup>, also a banana variant
 
+damdamayan <sub>Kankanaey</sub>
+
 ihiʼ nang aso -
 
 kabuti <sub>tl.</sub> - 
@@ -138,6 +140,8 @@ talinga-ti-otot
 tubo
 
 tungang-basin
+
+tuputupu <sub>Ivatan</sub>
 
 uhong
 
