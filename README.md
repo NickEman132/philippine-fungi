@@ -104,6 +104,8 @@ ligbos
 
 limalima
 
+luyud <sub>Tausug</sub> - mushroom
+
 mamarang
 
 mamuso
