@@ -93,7 +93,7 @@ inga-n di káiw <sub>Kankanaey</sub> - ear-of-tree
 
 kabuti <sub>tl.</sub> - 
 
-kabuting ahas <sub>tl.</sub>
+kabuting ahas <sub>tl.</sub> - *Boletinus basius* Fries 
 
 kabuting dagaʼ <sub>tl.</sub> - *Amanita vaginata* (Fries) Quel.
 
@@ -129,9 +129,11 @@ karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 
 kaupas 
 
-kóleng si ótot - <sub>Bontok</sub> - a kind of thin, non-edible bracket fungus which grows on trees
+kóleng si ótot <sub>Bontok</sub> - a kind of thin, non-edible bracket fungus which grows on trees
 
 kuat
+
+kudsuan <sub>Iloko</sub> - *Boletus aurantiacus* Sing.
 
 kuhong <sub>hil.</sub> - cf. uhong
 
@@ -212,11 +214,21 @@ tungang-basin
 
 tuputupu <sub>Ivatan</sub>
 
+uddug ni natuudan <sub>Ifugao</sub> - *Boletinus sp.*
+
+ulat an natuudan <sub>Ifugao</sub> - cf. *uddug ni natuudan*
+
 uhong <sub>mul.</sub> - mushroom (cf. *quSuŋ)
 
 ulaping
 
 unodʼunod
+
+uong dalem <sub>Iloko</sub> - *Boletus edulis* Bull. ex Fries
+
+uong galis <sub>Iloko</sub> - *Boletus elegans* Schum. ex Fries
+
+uong tinta <sub>Iloko</sub> - *Boletus tomentosus* Sing.
 
 xanggarát
 
