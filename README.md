@@ -97,12 +97,15 @@ kabuting giniikan <sub>tl.</sub>
 
 kabuting manok <sub>tl.</sub>
 
-kabuting parang <sub>tl.</sub>
+kabuting parang <sub>tl.</sub> - *Agaricus competris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
 
-kabuting parang na bulik <sub>tl.</sub> - *Psalliota Merilli* (Copeland) 
-= kabuteng-parang na may singsing
+kabuting parang na bulik <sub>tl.</sub> - *Psalliota merilli* (Copeland); cf. kabuteng-parang na may singsing
 
-kabuting parang na putiʼ <sub>tl.</sub> - *Psalliota compestris* (Fries)
+kabuting parang na maitimʼitim <sub>tl.</sub> - *Agaricus luzoniensis* Graff. (Syn: *Psalliota luzoniensis* Graff.)
+
+kabuting parang na may singsing <sub>tl.</sub> - *Agaricus perfuscus* Copel. (Syn: *Psalliota perfuscus* Copel.)
+
+kabuting parang na putiʼ <sub>tl.</sub> - *Agaricus compestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.); *Agaricus bisporus* (Lange) Sing.
 
 kabuting punsoʼ <sub>tl.</sub>
 
