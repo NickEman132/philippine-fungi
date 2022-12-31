@@ -65,6 +65,8 @@ baguʼbuʼ <sub>Tausug</sub> - mold; fungus
 
 balugbug-dagis <sub>pam.</sub> - 等 <sup>FPP</sup> *= bukui* <sup>[1]:109</sup>
 
+bátang
+
 butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
 dakdakan <sub>Zambaleno</sub> - kabuti? <sup>FPP</sup>, also a banana variant
@@ -78,6 +80,8 @@ deadly amanita <sub>eng.</sub> - cf. *deadly agaric*
 earth star <sub>eng.</sub> - *Geastrum sp.*
 
 ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
+
+inga-n di káiw <sub>Kankanaey</sub> - ear-of-tree
 
 kabuti <sub>tl.</sub> - 
 
@@ -110,6 +114,8 @@ karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 
 kaupas 
 
+kóleng si ótot - <sub>Bontok</sub> - a kind of thin, non-edible bracket fungus which grows on trees
+
 kuat
 
 kuhong <sub>hil.</sub> - cf. uhong
@@ -117,6 +123,8 @@ kuhong <sub>hil.</sub> - cf. uhong
 kulat
 
 kulatkulat
+
+kuwát-aníto <sub>*Pinatubo Agta*</sub> - non-edible mushroom; ear-fungi of the spirits
 
 ligbos
 
@@ -155,6 +163,8 @@ payung na nipay
 
 poisonous amanita <sub>eng.</sub> - *Amanita muscaria* (Fries) S.F. Gray
 
+*quSuŋ <sub>Proto-Austronesian</sub> - mushroom
+
 reishi <sub>eng.</sub> - *Ganoderma lucidum*, *Ganoderma tsugae*
 
 tauge
@@ -167,9 +177,15 @@ taingandagaʼ <sub>tl.</sub> - *Auricularia sp.*
 
 taingang dagaʼ - 
 
-tainga nang dagaʼ
+tainga nang dagaʼ 
+
+talingabátang <sub>Hanunóo</sub> - ear-log
+
+talínga danāg <sub>Isneg</sub> - ear-spirit; a kind of bracket fungus that resembles *xanggarát* but is much larger
 
 talinga-ti-otot
+
+taliña nu kayuh <sub>Itbayaten</sub> - ear-of-tree
 
 tubo
 
@@ -183,6 +199,8 @@ ulaping
 
 unodʼunod
 
+xanggarát
+
 ## meta info
 
 agariko
@@ -193,7 +211,11 @@ anʼan
 
 apʼap 
 
+batu kulat <sub>Iban</sub> - mushroom stone; noxious talisman
+
 kidlat
+
+sabung
 
 singsing
 
