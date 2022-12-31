@@ -27,7 +27,7 @@ meta info
         eng. - English, Philippine English
         
         hil. - Hiligaynon, Ilonggo
-
+        
 	pag. - Pangasinan 
 
 	pam. - Kapampangan, Pampangan
