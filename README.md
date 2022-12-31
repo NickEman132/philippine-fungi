@@ -71,6 +71,8 @@ balugbug-dagis <sub>pam.</sub> - 等 <sup>FPP</sup> *= bukui* <sup>[1]:109</sup>
 
 bátang
 
+batang an mangmangetet <sub>Ifugao</sub> - *Amauroderma sp.*
+
 butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
 dakdakan <sub>Zambaleno</sub> - kabuti? <sup>FPP</sup>, also a banana variant
@@ -82,6 +84,8 @@ deadly agaric <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
 deadly amanita <sub>eng.</sub> - cf. *deadly agaric*
 
 earth star <sub>eng.</sub> - *Geastrum sp.*
+
+honey-bee mushroom <sub>eng.</sub> - cf. kabuting pulot pukyutan
 
 ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
 
@@ -107,6 +111,8 @@ kabuting parang na may singsing <sub>tl.</sub> - *Agaricus perfuscus* Copel. (Sy
 
 kabuting parang na putiʼ <sub>tl.</sub> - *Agaricus compestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.); *Agaricus bisporus* (Lange) Sing.
 
+kabuting pulot pukyutan <sub>tl.</sub> - *Armellaria mullea* (Fries) Karst.
+
 kabuting punsoʼ <sub>tl.</sub>
 
 kabuting saging <sub>tl.</sub>
@@ -114,6 +120,8 @@ kabuting saging <sub>tl.</sub>
 kabuting sungsong <sub>tl.</sub>
 
 kagaw <sub>hil.</sub> - PROTOZOA?
+
+kamay nang patay <sub>tl.</sub> *Anthurus brownii*
 
 kapuʼkapuʼ <sub>Tausug</sub> - mold, mildew (syn. baguʼbuʼ)
 
