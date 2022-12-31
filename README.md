@@ -16,6 +16,8 @@ meta info
 
 ## [abbreviations used](https://www.github.com/NickEman132/philippine-fungi#contents)
 
+Abbreviations of languages here are based on ISO-639
+
 **Languages:**
 
 	tl. / tag. - Tagalog
@@ -31,6 +33,8 @@ meta info
 	pag. - Pangasinan 
 
 	pam. - Kapampangan, Pampangan
+
+	ilo. - Ilokano, Iloko
 
 	mul. - Many languages
 
@@ -157,6 +161,8 @@ kulat
 
 kulatkulat
 
+kullat <sub>smk.</sub>
+
 kulut tangulu <sub>*Tas*</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
 
 kurakding
@@ -171,7 +177,7 @@ ligat-ligat <sub>Iloko</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricu
 
 ligbos
 
-limalima
+limalima<sup>†</sup> <sub>tl.<sub>
 
 luyud <sub>Tausug</sub> - mushroom
 
@@ -185,8 +191,7 @@ mamuso
 
 mushroom
 
-oong -
-
+oong <sub>smk. pag. ilo.</sub>-
 
 owong 
 
@@ -194,7 +199,7 @@ pandong ahas
 
 panther amanita <sub>eng.</sub> - *Amanita pantherina* (DC.) Fries
 
-payong ahas
+payong ahas - 
 
 payong ayas -
 
