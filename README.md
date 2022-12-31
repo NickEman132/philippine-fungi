@@ -173,7 +173,7 @@ tabiák<sup>†</sup> tl. - 等<sup> UPDF </sup> *cf.* tabyok
 
 tabyok - -
 
-taingandagaʼ <sub>tl.</sub> - *Auricularia sp.*
+taingandagaʼ <sub>tl.</sub> - rat-ear; *Auricularia sp.*
 
 taingang dagaʼ - 
 
@@ -193,7 +193,7 @@ tungang-basin
 
 tuputupu <sub>Ivatan</sub>
 
-uhong <sub>mul.</sub> - mushroom
+uhong <sub>mul.</sub> - mushroom (cf. *quSuŋ)
 
 ulaping
 
