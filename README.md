@@ -22,11 +22,11 @@ sources
 
 		tl-mdu. - Marinduque Tagalog
 
-	ceb. - Cebuano, Bisaya/Binisaya, Sinugbuanon
-
         eng. - English, Philippine English
 
         hil. - Hiligaynon, Ilonggo
+
+	ceb. - Cebuano, Bisaya/Binisaya, Sinugbuanon
 
 	pag. - Pangasinan 
 
