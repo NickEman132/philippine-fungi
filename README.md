@@ -24,6 +24,10 @@ sources
 
 	ceb. - Cebuano, Bisaya/Binisaya, Sinugbuanon
 
+        eng. - English, Philippine English
+
+        hil. - Hiligaynon, Ilonggo
+
 	pag. - Pangasinan 
 
 	pam. - Kapampangan, Pampangan
@@ -67,11 +71,19 @@ dakdakan <sub>Zambaleno</sub> - kabuti? <sup>FPP</sup>, also a banana variant
 
 damdamayan <sub>Kankanaey</sub>
 
+deadly agaric <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
+
+deadly amanita <sub>eng.</sub> - cf. *deadly agaric*
+
+earth star <sub>eng.</sub> - *Geastrum sp.*
+
 ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
 
 kabuti <sub>tl.</sub> - 
 
 kabuting ahas <sub>tl.</sub>
+
+kabuting dagaʼ <sub>tl.</sub> - *Amanita vaginata* (Fries) Quel.
 
 kabuting giniikan <sub>tl.</sub>
 
@@ -127,6 +139,8 @@ owong
 
 pandong ahas
 
+panther amanita <sub>eng.</sub> - *Amanita pantherina* (DC.) Fries
+
 payong ahas
 
 payong ayas -
@@ -139,6 +153,8 @@ payong-payungan-kulog
 
 payung na nipay
 
+poisonous amanita <sub>eng.</sub> - *Amanita muscaria* (Fries) S.F. Gray
+
 reishi <sub>eng.</sub> - *Ganoderma lucidum*, *Ganoderma tsugae*
 
 tauge
@@ -146,6 +162,8 @@ tauge
 tabiák<sup>†</sup> tl. - 等<sup> UPDF </sup> *cf.* tabyok 
 
 tabyok - -
+
+taingandagaʼ <sub>tl.</sub> - *Auricularia sp.*
 
 taingang dagaʼ - 
 
