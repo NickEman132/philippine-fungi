@@ -1,4 +1,4 @@
-# philippine-fungi
+# [philippine-fungi](https://www.github.com/NickEman132/philippine-fungi)
 
 Philippines have fungi wow
 
@@ -12,9 +12,9 @@ Philippines have fungi wow
 
 meta info
 
-sources
+[**sources**](https://www.github.com/NickEman132/philippine-fungi#sources)
 
-## [abbrevitions used](https://www.github.com/NickEman132/philippine-fungi#contents)
+## [abbreviations used](https://www.github.com/NickEman132/philippine-fungi#contents)
 
 **Languages:**
 
@@ -22,11 +22,11 @@ sources
 
 		tl-mdu. - Marinduque Tagalog
 
-       eng. - English, Philippine English
-
-       hil. - Hiligaynon, Ilonggo
-
 	ceb. - Cebuano, Bisaya/Binisaya, Sinugbuanon
+        
+        eng. - English, Philippine English
+        
+        hil. - Hiligaynon, Ilonggo
 
 	pag. - Pangasinan 
 
