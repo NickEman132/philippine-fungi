@@ -55,9 +55,13 @@ agubʼub <sub>ceb.</sub> - mushroom
 
 agupʼup <sub>ceb.</sub> - cf. *agubʼub*
 
+alamag <sub>mul.</sub> - mold
+
 amag <sub>tl.</sub> - mold; mildew 
 
 amamakul <sub>ceb.</sub> - mushroom
+
+apaya <sub>tl.</sub> - bread mold
 
 aroy <sub>Lanao</sub>  - kabuti? <sup>FPP</sup>
 
@@ -132,6 +136,8 @@ limalima
 
 luyud <sub>Tausug</sub> - mushroom
 
+malakmak <sub>Bikol Central</sub> - fungus
+
 mamarang
 
 makol <sub>hil.</sub>
@@ -172,6 +178,8 @@ tauge
 tabiák<sup>†</sup> tl. - 等<sup> UPDF </sup> *cf.* tabyok 
 
 tabyok - -
+
+tagulamín - <sub>tl.</sub> - mildew; mold (especially that formed on dirty clothes left unwashed for a long time)
 
 taingandagaʼ <sub>tl.</sub> - rat-ear; *Auricularia sp.*
 
