@@ -73,6 +73,8 @@ bátang
 
 batang an mangmangetet <sub>Ifugao</sub> - *Amauroderma sp.*
 
+black wood ear <sub>eng.</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+
 butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
 dakdakan <sub>Zambaleno</sub> - kabuti? <sup>FPP</sup>, also a banana variant
@@ -83,11 +85,23 @@ deadly agaric <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
 
 deadly amanita <sub>eng.</sub> - cf. *deadly agaric*
 
+dolongan sang kahoy <sub>BisPn</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. poytricha* (Mont.) Sacc.
+
 earth star <sub>eng.</sub> - *Geastrum sp.*
+
+golgol an iyan di gando
+
+golgol di anablon <sub>Ifugao</sub> - *Auricularia delicata* Lloyd
+
+golgol di kayiw <sub>Ifugao</sub> - *Auricularia mesenterica* (Dick.) Pers.
+
+golgol di lubban <sub>Ifugao</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
 
 honey-bee mushroom <sub>eng.</sub> - cf. kabuting pulot pukyutan
 
 ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
+
+inga-inga <sub>tl.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
 
 inga-n di káiw <sub>Kankanaey</sub> - ear-of-tree
 
@@ -129,6 +143,8 @@ karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 
 kaupas 
 
+kimpat-ton
+
 kóleng si ótot <sub>Bontok</sub> - a kind of thin, non-edible bracket fungus which grows on trees
 
 kuat
@@ -141,7 +157,17 @@ kulat
 
 kulatkulat
 
+kulut tangulu <sub>*Tas*</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+
+kurakding
+
+kurkur <sub>Iloko</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+
 kuwát-aníto <sub>*Pinatubo Agta*</sub> - non-edible mushroom; ear-fungi of the spirits
+
+laplapayag <sub>Iloko</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+
+ligat-ligat <sub>Iloko</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
 
 ligbos
 
@@ -182,6 +208,8 @@ payung na nipay
 
 poisonous amanita <sub>eng.</sub> - *Amanita muscaria* (Fries) S.F. Gray
 
+poisonous mushroom <sub>eng.</sub> - *Amanita manillensis*; cf. *deadly agaric*
+
 *quSuŋ <sub>Proto-Austronesian</sub> - mushroom
 
 reishi <sub>eng.</sub> - *Ganoderma lucidum*, *Ganoderma tsugae*
@@ -194,13 +222,21 @@ tabyok - -
 
 tagulamín - <sub>tl.</sub> - mildew; mold (especially that formed on dirty clothes left unwashed for a long time)
 
-taingandagaʼ <sub>tl.</sub> - rat-ear; *Auricularia sp.*
+taingandagaʼ <sub>tl.</sub> - rat-ear; *Auricularia spp.*
 
-taingang dagaʼ - 
+taingang dagaʼ <sub>tl.</sub> - rat-ear; *A. auricula* (L. ex Hook.) Underw. (Syn: A. auricula-judae L.; *Auricularia spp.*
+
+tengang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
 tainga nang dagaʼ 
 
+talinga <sub>*Bng*</sub> - *A. auricula* (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+
 talingabátang <sub>Hanunóo</sub> - ear-log
+
+talinga nang batang <sub>*BisC*</sub> - *A. auricula* (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+
+talinga na ulak
 
 talínga danāg <sub>Isneg</sub> - ear-spirit; a kind of bracket fungus that resembles *xanggarát* but is much larger
 
@@ -208,7 +244,11 @@ talinga-ti-otot
 
 taliña nu kayuh <sub>Itbayaten</sub> - ear-of-tree
 
+tangolog <sub>*Tas*</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.
+
 tubo
+
+tuli-amu danlakan
 
 tungang-basin
 
