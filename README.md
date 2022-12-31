@@ -1,6 +1,6 @@
 # [philippine-fungi](https://www.github.com/NickEman132/philippine-fungi)
 
-Philippines have fungi wow
+An open source dictionary of Philippine fungi in different languages across the country.
 
 ## contents
 
@@ -77,7 +77,7 @@ bátang
 
 batang an mangmangetet <sub>Ifugao</sub> - *Amauroderma sp.*
 
-black wood ear <sub>eng.</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
@@ -89,7 +89,7 @@ deadly agaric <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
 
 deadly amanita <sub>eng.</sub> - cf. *deadly agaric*
 
-dolongan sang kahoy <sub>BisPn</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. poytricha* (Mont.) Sacc.
+dolongan sang kahoy <sub>hil.</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. poytricha* (Mont.) Sacc.
 
 earth star <sub>eng.</sub> - *Geastrum sp.*
 
@@ -99,13 +99,13 @@ golgol di anablon <sub>Ifugao</sub> - *Auricularia delicata* Lloyd
 
 golgol di kayiw <sub>Ifugao</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
-golgol di lubban <sub>Ifugao</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+golgol di lubban <sub>Ifugao</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 honey-bee mushroom <sub>eng.</sub> - cf. kabuting pulot pukyutan
 
 ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
 
-inga-inga <sub>tl.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+inga-inga <sub>tl.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 inga-n di káiw <sub>Kankanaey</sub> - ear-of-tree
 
@@ -163,17 +163,17 @@ kulatkulat
 
 kullat <sub>smk.</sub>
 
-kulut tangulu <sub>*Tas*</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+kulut tangulu <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 kurakding
 
-kurkur <sub>ilo.</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+kurkur <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 kuwát-aníto <sub>*Pinatubo Agta*</sub> - non-edible mushroom; ear-fungi of the spirits
 
-laplapayag <sub>ilo.</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+laplapayag <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-ligat-ligat <sub>ilo.</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+ligat-ligat <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 ligbos
 
@@ -229,17 +229,17 @@ tagulamín - <sub>tl.</sub> - mildew; mold (especially that formed on dirty clot
 
 taingandagaʼ <sub>tl.</sub> - rat-ear; *Auricularia spp.*
 
-taingang dagaʼ <sub>tl.</sub> - rat-ear; *A. auricula* (L. ex Hook.) Underw. (Syn: A. auricula-judae L.; *Auricularia spp.*
+taingang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.; *Auricularia spp.*
 
 tengang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
 tainga nang dagaʼ 
 
-talinga <sub>*Bng*</sub> - *A. auricula* (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+talinga <sub>*Bng*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 talingabátang <sub>Hanunóo</sub> - ear-log
 
-talinga nang batang <sub>*BisC*</sub> - *A. auricula* (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+talinga nang batang <sub>*BisC*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 talinga na ulak
 
@@ -249,7 +249,7 @@ talinga-ti-otot
 
 taliña nu kayuh <sub>Itbayaten</sub> - ear-of-tree
 
-tangolog <sub>*Tas*</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.
+tangolog <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 tubo
 
