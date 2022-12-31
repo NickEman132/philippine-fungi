@@ -36,7 +36,7 @@ Abbreviations of languages here are based on ISO-639
 
 	ilo. - Ilokano, Iloko
 
-	mul. - Many languages
+	mul. - Many languages, multilingual
 
 
 **Miscellaneous:**
@@ -153,7 +153,7 @@ kóleng si ótot <sub>Bontok</sub> - a kind of thin, non-edible bracket fungus w
 
 kuat
 
-kudsuan <sub>Iloko</sub> - *Boletus aurantiacus* Sing.
+kudsuan <sub>ilo.</sub> - *Boletus aurantiacus* Sing.
 
 kuhong <sub>hil.</sub> - cf. uhong
 
@@ -167,13 +167,13 @@ kulut tangulu <sub>*Tas*</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auri
 
 kurakding
 
-kurkur <sub>Iloko</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+kurkur <sub>ilo.</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
 
 kuwát-aníto <sub>*Pinatubo Agta*</sub> - non-edible mushroom; ear-fungi of the spirits
 
-laplapayag <sub>Iloko</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+laplapayag <sub>ilo.</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
 
-ligat-ligat <sub>Iloko</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
+ligat-ligat <sub>ilo.</sub> - A. auricula (L. ex Hook.) Underw. (Syn: A. auricula-judae L.)
 
 ligbos
 
@@ -269,11 +269,11 @@ ulaping
 
 unodʼunod
 
-uong dalem <sub>Iloko</sub> - *Boletus edulis* Bull. ex Fries
+uong dalem <sub>ilo.</sub> - *Boletus edulis* Bull. ex Fries
 
-uong galis <sub>Iloko</sub> - *Boletus elegans* Schum. ex Fries
+uong galis <sub>ilo.</sub> - *Boletus elegans* Schum. ex Fries
 
-uong tinta <sub>Iloko</sub> - *Boletus tomentosus* Sing.
+uong tinta <sub>ilo.</sub> - *Boletus tomentosus* Sing.
 
 xanggarát
 
