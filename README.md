@@ -22,9 +22,9 @@ sources
 
 		tl-mdu. - Marinduque Tagalog
 
-        eng. - English, Philippine English
+       eng. - English, Philippine English
 
-        hil. - Hiligaynon, Ilonggo
+       hil. - Hiligaynon, Ilonggo
 
 	ceb. - Cebuano, Bisaya/Binisaya, Sinugbuanon
 
