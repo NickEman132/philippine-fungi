@@ -77,9 +77,9 @@ akkádey <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
 
 alamag <sub>mul.</sub> - mold
 
-álan <sub>xnn.</sub> - a type of red mushroom <sup>[3]</sup>
+álan <sub>xnn.</sub> - a type of inedible red mushroom <sup>[3]</sup>
 
-álug <sub>xnn.</sub> - a type of pink mushroom <sup>[3]</sup>
+álug <sub>xnn.</sub> - a type of edible pink mushroom <sup>[3]</sup>
 
 amag <sub>tl.</sub> - mold; mildew 
 
