@@ -133,6 +133,8 @@ dolongan sang kahoy <sub>hil.</sub> - *Auricularia affinis* Lev.; *A. delicata* 
 
 earth star <sub>eng.</sub> - *Geastrum sp.*
 
+gaggaéng <sub>xnn.</sub> - an inedible white *kodi* <sup>[3]</sup>
+
 gamgáma <sub>xnn.</sub> - a type of dark-colored mushroom
 
 gílgilittán <sub>xnn.</sub> - a type of poisonous mushroom that grows on cow dung 
@@ -194,9 +196,10 @@ kaupas
 kimpat-ton
 
 kodi <sub>xnn.</sub> - a type of mushroom that is white on top, brown underneath, and grows on trees
-	kodi di káiw - an inedible brown *kodi*
-	kodi di liwliw - an edible white *kodi*
-	gaggaéng - an inedible white *kodi*
+
+kodi di káiw - an inedible brown *kodi*
+
+kodi di liwliw - an edible white *kodi*
 
 kóleng si ótot <sub>Bontok</sub> - a kind of thin, non-edible bracket fungus which grows on trees
 
