@@ -115,9 +115,17 @@ bátang
 
 batang an mangmangetet <sub>Ifugao</sub> - *Amauroderma sp.*
 
+bell-shaped mushroom <sub>eng.</sub> - *Coprinus comatus*
+
+bird's-nest fungi <sub>eng.</sub> - *Cyathus striatus*
+
 black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
+bola-bola <sub>Iloko</sub> - *Calvatia lilacina* Fries; syn. *parapara*
+
 butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
+
+button mushroom <sub>eng.</sub> - *Agaricus bisporus* (Lange) Sing.
 
 chongo <sub>Bontok</sub> - *Agaricus campestris*
 
@@ -129,7 +137,7 @@ deadly agaric <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
 
 deadly amanita <sub>eng.</sub> - cf. *deadly agaric*
 
-dolongan sang kahoy <sub>hil.</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. poytricha* (Mont.) Sacc.
+dolongan sang kahoy <sub>*Panay*</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. polytricha* (Mont.) Sacc.
 
 earth star <sub>eng.</sub> - *Geastrum sp.*
 
@@ -139,7 +147,13 @@ gamgáma <sub>xnn.</sub> - a type of dark-colored mushroom
 
 gílgilittán <sub>xnn.</sub> - a type of poisonous mushroom that grows on cow dung 
 
-golgol an iyan di gando
+golgol an iyan di gando <sub>Ifugao</sub> - *Auricularia polytricha* (Mont.) Saxx.
+
+golgol an lumabuggut an umahig <sub>Ifugao</sub> - *Calvatia sp.*
+
+golgol an lumamut an umadap <sub>Ifugao</sub> - *Lycoperdon sp.*
+
+golgol an mihda <sub>Ifugao</sub> - *Corticium sp.*
 
 golgol di anablon <sub>Ifugao</sub> - *Auricularia delicata* Lloyd
 
@@ -157,13 +171,33 @@ inga-n di káiw <sub>Kankanaey</sub> - ear-of-tree
 
 kabuti <sub>tl.</sub> - 
 
-kabuting ahas <sub>tl.</sub> - *Boletinus basius* Fries 
+kabuting ahas <sub>tl.</sub> - *Boletinus badius* Fries; 
 
 kabuting dagaʼ <sub>tl.</sub> - *Amanita vaginata* (Fries) Quel.
 
 kabuting giniikan <sub>tl.</sub>
 
+kabuting hugas payong <sub>tl.</sub> - *Lepiota sp.*
+
+kabuting kalawangin <sub>tl.</sub> - *Cortinarius collisteus*
+
+kabuting kampanilya <sub>tl.</sub> - *Coprinus comatus*
+
+kabuting kulay asupre <sub>tl.</sub> - *Lepiota denundata*
+
+kabuting lila <sub>tl.</sub> - *Lepiota lilacea*
+
 kabuting manok <sub>tl.</sub>
+
+kabuting may pandong <sub>tl.</sub> - *Phallus merulinus* (syn: Clautriavia merulina)
+
+kabuting may pileges <sub>tl.</sub> - *Coprinus plicatilis*
+
+kabuting may singsing <sub>tl.</sub> - *Lepiota cepaestipes*
+
+kabuting mukhang tinigkal <sub>tl.</sub> - *Boletus castaneus* Bull
+
+kabuting mulamula <sub>tl.</sub> - *Lepiota americana*
 
 kabuting parang <sub>tl.</sub> - *Agaricus competris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
 
@@ -175,13 +209,23 @@ kabuting parang na may singsing <sub>tl.</sub> - *Agaricus perfuscus* Copel. (Sy
 
 kabuting parang na putiʼ <sub>tl.</sub> - *Agaricus compestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.); *Agaricus bisporus* (Lange) Sing.
 
+kabuting payat ang tangkay <sub>tl.</sub> - *Conocybe tenera*
+
 kabuting pulot pukyutan <sub>tl.</sub> - *Armellaria mullea* (Fries) Karst.
 
 kabuting punsoʼ <sub>tl.</sub>
 
+kabuting putiʼ <sub>tl.</sub> - *Lepiota candida*
+
 kabuting saging <sub>tl.</sub>
 
 kabuting sungsong <sub>tl.</sub>
+
+kabuting taing kabayo <sub>tl.</sub> - *Coprinus confertus* Copel.
+
+kabuting taing kalabaw <sub>tl.</sub> - *Copelandia papilonacea*
+
+kabuting tigre <sub>tl.</sub> - *Lepiota cristata*
 
 kagaw <sub>hil.</sub> - PROTOZOA?
 
@@ -193,7 +237,7 @@ karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 
 kaupas 
 
-kimpat-ton
+kimpat-ton <sub>Gaddang</sub> - *Auricularia spp.*
 
 kodi <sub>xnn.</sub> - a type of mushroom that is white on top, brown underneath, and grows on trees
 
@@ -213,11 +257,13 @@ kulat
 
 kulatkulat
 
+kulat kulat na morado <sub>tl.</sub> - *Panus rudis*
+
 kullat <sub>smk.</sub>
 
 kulut tangulu <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-kurakding
+kurakding <sub>*Bikol*</sub> - *Auricularia spp.*
 
 kurkur <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
@@ -229,7 +275,33 @@ ligat-ligat <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn:
 
 ligbos
 
+ligbus <sub>*Bgb*</sub> - *Coprinus concolor* Copel.
+
+ligfus <sub>*Bng*</sub> - *Agaricus campestris* (L. ex Fries)
+
+lilac-colored mushroom <sub>eng.</sub> - *Panus rudis*
+
+lilac mushroom <sub>eng.</sub> - *Lepiota lilacea*
+
 limalima<sup>†</sup> <sub>tl.<sub>
+
+loblobban <sub>Ifugao</sub> - *Craterellus crispus*
+
+loblobban di banginge <sub>Ifugao</sub> - *Conocybe tenera*
+
+loblobban di gudah di kayiw <sub>Ifugao</sub> - *Hypholoma appendiculatum*
+
+loblobban di inado <sub>Ifugao</sub> - *Lycoperdon pyriforme*
+
+loblobban di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius collisteus*
+
+loblobban di linamʼa <sub>Ifugao</sub> - *Calvatia sp.*; syn. *golgol an lumabuggut an umahig*
+
+loblobban di tubun di palayun <sub>Ifugao</sub> - *Cortinarius glaucopus*
+
+loblobban napadangan <sub>Ifugao</sub> - *Lepiota cristata*; *L. lilacea*
+
+loblobban paddangan <sub>Ifugao</sub> - *Lepiota gracilenta*
 
 luyud <sub>Tausug</sub> - mushroom
 
@@ -245,13 +317,21 @@ mushroom
 
 oong <sub>smk. pag. ilo.</sub>-
 
+oong na tai dueg <sub>*Png.*</sub> - *Lepiota chlorospora*
+
+oong ti takki nuang <sub>Iloko</sub> - *Lepiota chlorospora*
+
+oong ti uleg <sub>Iloko</sub> - *Phallus tenuis*
+
 owong 
 
 pandong ahas
 
 panther amanita <sub>eng.</sub> - *Amanita pantherina* (DC.) Fries
 
-payong ahas - 
+parapara <sub>Iloko</sub> - *Calvatia lilacina* Fries, syn. *bola-bola*; *Lycoperdon pyriform*
+
+payong ahas - <sub>tl.</sub> - *Lepiota chlorospora*
 
 payong ayas -
 
@@ -263,13 +343,19 @@ payong-payungan-kulog
 
 payung na nipay
 
+plicated mushroom <sub>eng.</sub> - *Coprinus plicatilis*
+
 poisonous amanita <sub>eng.</sub> - *Amanita muscaria* (Fries) S.F. Gray
 
 poisonous mushroom <sub>eng.</sub> - *Amanita manillensis*; cf. *deadly agaric*
 
+pugad nang ibon <sub>tl.</sub> - *Cyathus striatus*
+
 *quSuŋ <sub>Proto-Austronesian</sub> - mushroom
 
 reishi <sub>eng.</sub> - *Ganoderma lucidum*, *Ganoderma tsugae*
+
+sulphur-colored mushroom <sub>eng.</sub> - *Lepiota denundata*
 
 tauge
 
@@ -293,7 +379,7 @@ talingabátang <sub>Hanunóo</sub> - ear-log
 
 talinga nang batang <sub>*BisC*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-talinga na ulak
+talinga na ulak <sub>Ibanag</sub> - *Auricularia spp.*
 
 talínga danāg <sub>Isneg</sub> - ear-spirit; a kind of bracket fungus that resembles *xanggarát* but is much larger
 
@@ -303,17 +389,35 @@ taliña nu kayuh <sub>Itbayaten</sub> - ear-of-tree
 
 tangolog <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
+taybo taikabaw <sub>Tausug</sub> - *Chlorophyllum sp.* <sup>*[Citation needed]*</sup>
+
+tayubu-banbanay <sub>Hanunóo</sub> - *Panus sp.*
+
+tiger mushroom <sub>eng.</sub> - *Lepiota cristata*
+
+tombong <sub>*tl.*</sub> - *Calvatia lilacina* Fries; *Lycoperdon pyriforme*
+
 tubo
 
-tuli-amu danlakan
+tuli-amu danlakan <sub>Hanunóo</sub> - *Auricularia spp.*
 
 tungang-basin
 
 tuputupu <sub>Ivatan</sub>
 
+uddug di nadupdupingil an adi mihda <sub>Ifugao</sub> - *Hypholoma fasciculare*
+
 uddug ni natuudan <sub>Ifugao</sub> - *Boletinus sp.*
 
 ulat an natuudan <sub>Ifugao</sub> - cf. *uddug ni natuudan*
+
+ulat di balinghingon <sub>Ifugao</sub> - *Hymenochaete sp.*
+
+ulat di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius cinnamomeus*
+
+ulat di hinaphap <sub>Ifugao</sub> - *Cyathus striatus*
+
+ulat di waal <sub>Ifugao</sub> - *Hygrophorus vigineus*
 
 uhong <sub>mul.</sub> - mushroom (cf. *quSuŋ)
 
@@ -328,6 +432,8 @@ uong galis <sub>ilo.</sub> - *Boletus elegans* Schum. ex Fries
 uong tinta <sub>ilo.</sub> - *Boletus tomentosus* Sing.
 
 xanggarát
+
+yellow foetid mushroom - *Phallus tenuis*
 
 ## meta info
 
