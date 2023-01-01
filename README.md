@@ -119,7 +119,7 @@ black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (S
 
 butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
-chongo <sub>Bontok</sub> - *Agaricus compestris*
+chongo <sub>Bontok</sub> - *Agaricus campestris*
 
 dakdakan <sub>Zambaleno</sub> - kabuti? <sup>FPP</sup>, also a banana variant
 
