@@ -21,53 +21,91 @@ Abbreviations of languages here are based on ISO-639
 **Languages:**
 
 	tl. / tag. - Tagalog
-
+	
 		tl-mdu. - Marinduque Tagalog
-
+	
 	ceb. - Cebuano, Bisaya/Binisaya, Sinugbuanon
-        
-        eng. - English, Philippine English
-        
-        hil. - Hiligaynon, Ilonggo
-        
+	 
+	eng. - English, Philippine English
+	
+	hil. - Hiligaynon, Ilonggo
+	 
 	pag. - Pangasinan 
-
+	
 	pam. - Kapampangan, Pampangan
-
+	
 	ilo. - Ilokano, Iloko
-
+	
+	smk. - Bolinao
+	
+	xnn. - Northern Kankanay, Lepanto Igorot
+	
 	mul. - Many languages, multilingual
-
+	
 
 **Miscellaneous:**
 
 	† - possibly obsolete
-
+	
 	‡ - no search results, cant be found anywhere.
-
+	
 	😉 - word using spanish orthography
-
+	
 	等 - definitions telling "a type of mushroom" and such
-
+	
 	cf. - confer, compare with, see also
-
-        syn. - synonymous with, synonym
+	
+	syn. - synonymous with, synonym
 
 ## [dictionary](https://www.github.com/NickEman132/philippine-fungi#contents)
+
+ab-abó <sub>xnn.</sub> - a type of edible yellow mushroom <sup>[3]</sup>
+
+abkálaw <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+
+adálan <sub>xnn.</sub> - a type of edible, whitish gray mushroom <sup>[3]</sup>
+
+adán <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
 
 agubʼub <sub>ceb.</sub> - mushroom
 
 agupʼup <sub>ceb.</sub> - cf. *agubʼub*
 
+akípan <sub>xnn.</sub> - a type of edible black mushroom <sup>[3]</sup>
+
+akkádey <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+
 alamag <sub>mul.</sub> - mold
+
+álan <sub>xnn.</sub> - a type of red mushroom <sup>[3]</sup>
+
+álug <sub>xnn.</sub> - a type of pink mushroom <sup>[3]</sup>
 
 amag <sub>tl.</sub> - mold; mildew 
 
 amamakul <sub>ceb.</sub> - mushroom
 
+amidalán <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+
+anglóan <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+
+apakáw <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+
+apán <sub>xnn.</sub> - a type of edible white mushroom, with a flat cap or its brim turned up <sup>[3]</sup>
+
+apáwan <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+
 apaya <sub>tl.</sub> - bread mold
 
+apiáng <sub>xnn.</sub> - a type of edible red mushroom <sup>[3]</sup>
+
 aroy <sub>Lanao</sub>  - kabuti? <sup>FPP</sup>
+
+átey di nuáng? <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+
+baan <sub>xnn.</sub> 
+
+bagatáas <sub>xnn.</sub> - an edible white mushrooom <sup>[3]</sup>
 
 baguʼbuʼ <sub>Tausug</sub> - mold; fungus
 
@@ -81,6 +119,8 @@ black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (S
 
 butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
+chongo <sub>Bontok</sub> - *Agaricus compestris*
+
 dakdakan <sub>Zambaleno</sub> - kabuti? <sup>FPP</sup>, also a banana variant
 
 damdamayan <sub>Kankanaey</sub>
@@ -92,6 +132,10 @@ deadly amanita <sub>eng.</sub> - cf. *deadly agaric*
 dolongan sang kahoy <sub>hil.</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. poytricha* (Mont.) Sacc.
 
 earth star <sub>eng.</sub> - *Geastrum sp.*
+
+gamgáma <sub>xnn.</sub> - a type of dark-colored mushroom
+
+gílgilittán <sub>xnn.</sub> - a type of poisonous mushroom that grows on cow dung 
 
 golgol an iyan di gando
 
@@ -148,6 +192,11 @@ karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 kaupas 
 
 kimpat-ton
+
+kodi <sub>xnn.</sub> - a type of mushroom that is white on top, brown underneath, and grows on trees
+	kodi di káiw - an inedible brown *kodi*
+	kodi di liwliw - an edible white *kodi*
+	gaggaéng - an inedible white *kodi*
 
 kóleng si ótot <sub>Bontok</sub> - a kind of thin, non-edible bracket fungus which grows on trees
 
@@ -298,8 +347,12 @@ singsing
 ## sources
 
 	UPDF - UP Diksiyonaryo [diksiyonaryo.ph]
-
+	
 	FPP - The Food Plants of the Philippines
-
+	
 	1 - **1920**, William H. Brown, *Minor Products of Philippine Forests*
+	
+	2 - https://www.webonary.org/northernkankanay/
+	
+	3 - A Dictionary of Lepanto Igorot, or Kankanay
  
