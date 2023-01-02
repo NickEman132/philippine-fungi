@@ -109,6 +109,16 @@ bagatáas <sub>xnn.</sub> - an edible white mushrooom <sup>[3]</sup>
 
 baguʼbuʼ <sub>Tausug</sub> - mold; fungus
 
+bakalán <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+
+bakáw <sub>xnn.</sub> - a type of white mushroom <sup>[3]</sup>
+
+balbalíngeg <sub>xnn.</sub> - a type of edible reddish mushroom <sup>[3]</sup>
+
+balikánaw <sub>xnn.</sub> - a type of edible white mushroom
+
+balikút <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+
 balugbug-dagis <sub>pam.</sub> - 等 <sup>FPP</sup> *= bukui* <sup>[1]:109</sup>
 
 bátang
