@@ -59,27 +59,27 @@ Abbreviations of languages here are based on ISO-639
 
 ## [dictionary](#contents)
 
-ab-abó <sub>xnn.</sub> - a type of edible yellow mushroom <sup>[3]</sup>
+ab-abó <sub>xnn.</sub> - a type of edible yellow mushroom <sup><a href="#3">[3]</a></sup>
 
-abkálaw <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+abkálaw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-adálan <sub>xnn.</sub> - a type of edible, whitish gray mushroom <sup>[3]</sup>
+adálan <sub>xnn.</sub> - a type of edible, whitish gray mushroom <sup><a href="#3">[3]</a></sup>
 
-adán <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+adán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 agubʼub <sub>ceb.</sub> - mushroom
 
 agupʼup <sub>ceb.</sub> - cf. *agubʼub*
 
-akípan <sub>xnn.</sub> - a type of edible black mushroom <sup>[3]</sup>
+akípan <sub>xnn.</sub> - a type of edible black mushroom <sup><a href="#3">[3]</a></sup>
 
-akkádey <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+akkádey <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 alamag <sub>mul.</sub> - mold
 
-álan <sub>xnn.</sub> - a type of inedible red mushroom <sup>[3]</sup>
+álan <sub>xnn.</sub> - a type of inedible red mushroom <sup><a href="#3">[3]</a></sup>
 
-álug <sub>xnn.</sub> - a type of edible pink mushroom <sup>[3]</sup>
+álug <sub>xnn.</sub> - a type of edible pink mushroom <sup><a href="#3">[3]</a></sup>
 
 amag <sub>tl.</sub> - mold; mildew 
 
@@ -87,23 +87,23 @@ amamakol <sub>hil.</sub> - *Volvaria* sp.; *Volvariella volvacea*
 
 amamakul <sub>Hanunóo</sub> - *Pholidota* sp.
 
-amidalán <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+amidalán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-anglóan <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+anglóan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-apakáw <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+apakáw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-apán <sub>xnn.</sub> - a type of edible white mushroom, with a flat cap or its brim turned up <sup>[3]</sup>
+apán <sub>xnn.</sub> - a type of edible white mushroom, with a flat cap or its brim turned up <sup><a href="#3">[3]</a></sup>
 
-apáwan <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+apáwan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 apaya <sub>tl.</sub> - bread mold
 
-apiáng <sub>xnn.</sub> - a type of edible red mushroom <sup>[3]</sup>
+apiáng <sub>xnn.</sub> - a type of edible red mushroom <sup><a href="#3">[3]</a></sup>
 
-aroy <sub>Lanao</sub>  - kabuti? <sup>FPP</sup>
+aroy <sub>Lanao</sub>  - kabuti? <sup><a href="fpp">FPP</a></sup>
 
-átey di nuáng? <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+átey di nuáng? <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 baan <sub>xnn.</sub> 
 
@@ -111,23 +111,23 @@ baen di habutan <sub>Ifugao</sub> - *Mycena elegans*
 
 baen di ulluli an natuudan <sub>Ifugao</sub> - *Mycena galopus*
 
-bagatáas <sub>xnn.</sub> - an edible white mushrooom <sup>[3]</sup>
+bagatáas <sub>xnn.</sub> - an edible white mushrooom <sup><a href="#3">[3]</a></sup>
 
 baguʼbuʼ <sub>Tausug</sub> - mold; fungus
 
-bakalán <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+bakalán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-bakáw <sub>xnn.</sub> - a type of white mushroom <sup>[3]</sup>
+bakáw <sub>xnn.</sub> - a type of white mushroom <sup><a href="#3">[3]</a></sup>
 
-balbalíngeg <sub>xnn.</sub> - a type of edible reddish mushroom <sup>[3]</sup>
+balbalíngeg <sub>xnn.</sub> - a type of edible reddish mushroom <sup><a href="#3">[3]</a></sup>
 
 balikánaw <sub>xnn.</sub> - a type of edible white mushroom
 
-balikút <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+balikút <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 balluta di bongod <sub>Ifugao</sub> - *Claudopus variabilis*
 
-balugbug-dagis <sub>pam.</sub> - 等 <sup>FPP</sup> *= bukui* <sup>[1]:109</sup>
+balugbug-dagis <sub>pam.</sub> - 等 <sup><a href="#fpp">FPP</a></sup> *= bukui* <sup><a href="#1">[1]:109</a></sup>
 
 bátang
 
@@ -157,7 +157,7 @@ chongo <sub>Bontok</sub> - *Agaricus campestris*
 
 dadaakan <sub>Sambali</sub> - mushroom
 
-dakdakan <sub>Sambali</sub> - mushroom <sup>FPP</sup>, also a banana variant
+dakdakan <sub>Sambali</sub> - mushroom <sup><a href="#fpp">FPP</a></sup>, also a banana variant
 
 damdamayan <sub>Kankanaey</sub>
 
@@ -171,7 +171,7 @@ earth star <sub>eng.</sub> - *Geastrum hygrometicus*
 
 funnel shaped mushroom <sub>eng.</sub> - *Clitocybe phyllophylla*
 
-gaggaéng <sub>xnn.</sub> - an inedible white *kodi* <sup>[3]</sup>
+gaggaéng <sub>xnn.</sub> - an inedible white *kodi* <sup><a href="#3">[3]</a></sup>
 
 gamgáma <sub>xnn.</sub> - a type of dark-colored mushroom
 
@@ -465,7 +465,7 @@ sulphur-colored mushroom <sub>eng.</sub> - *Lepiota denundata*
 
 tauge
 
-tabiák<sup>†</sup> tl. - 等<sup> UPDF </sup> *cf.* tabyok 
+tabiák<sup>†</sup> tl. - 等<sup> <a href="#updf">UPDF</a> </sup> *cf.* tabyok 
 
 tabyok - -
 
@@ -592,14 +592,14 @@ sabung
 singsing
 
 ## sources
-
-	UPDF - UP Diksiyonaryo [diksiyonaryo.ph]
+<pre>
+<span id="updf">UPDF - UP Diksiyonaryo [diksiyonaryo.ph]</span>
 	
-	FPP - The Food Plants of the Philippines
+<span id="fpp">FPP - The Food Plants of the Philippines</span>
 	
-	1 - **1920**, William H. Brown, *Minor Products of Philippine Forests*
+<span id="1">1 - **1920**, William H. Brown, *Minor Products of Philippine Forests*</span>
 	
-	2 - https://www.webonary.org/northernkankanay/
+<span id="2">2 - https://www.webonary.org/northernkankanay/</span>
 	
-	3 - A Dictionary of Lepanto Igorot, or Kankanay
- 
+<span id="3">3 - A Dictionary of Lepanto Igorot, or Kankanay</span>
+</pre>
