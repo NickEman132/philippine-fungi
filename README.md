@@ -4,17 +4,17 @@ An open source dictionary of Philippine fungi in different languages across the 
 
 ## contents
 
-[**abbreviations used**](https://www.github.com/NickEman132/philippine-fungi#abbreviations-used)
+[**abbreviations used**](#abbreviations-used)
 
-[**dictionary**](https://www.github.com/NickEman132/philippine-fungi#dictionary)
+[**dictionary**](#dictionary)
 
 道 
 
-meta info
+[meta info](#meta-info)
 
-[**sources**](https://www.github.com/NickEman132/philippine-fungi#sources)
+[**sources**](#sources)
 
-## [abbreviations used](https://www.github.com/NickEman132/philippine-fungi#contents)
+## [abbreviations used](#contents)
 
 Abbreviations of languages here are based on ISO-639
 
@@ -57,7 +57,7 @@ Abbreviations of languages here are based on ISO-639
 	
 	syn. - synonymous with, synonym
 
-## [dictionary](https://www.github.com/NickEman132/philippine-fungi#contents)
+## [dictionary](#contents)
 
 ab-abó <sub>xnn.</sub> - a type of edible yellow mushroom <sup>[3]</sup>
 
