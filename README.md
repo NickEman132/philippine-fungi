@@ -303,6 +303,8 @@ kudsuan <sub>ilo.</sub> - *Boletus aurantiacus* Sing.
 
 kuhong <sub>hil.</sub> - cf. uhong
 
+*kulaC <sub>Proto Austronesian</sub> - bracket fungus, *Polyporus* spp.
+
 kulat
 
 kulatkulat
