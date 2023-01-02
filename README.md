@@ -83,7 +83,7 @@ alamag <sub>mul.</sub> - mold
 
 amag <sub>tl.</sub> - mold; mildew 
 
-amamakol <sub>Hanunóo</sub> - *Volvaria* sp.; *Volvariella volvacea*
+amamakol <sub>hil.</sub> - *Volvaria* sp.; *Volvariella volvacea*
 
 amamakul <sub>Hanunóo</sub> - *Pholidota* sp.
 
