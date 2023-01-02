@@ -105,6 +105,10 @@ aroy <sub>Lanao</sub>  - kabuti? <sup>FPP</sup>
 
 baan <sub>xnn.</sub> 
 
+baen di habutan <sub>Ifugao</sub> - *Mycena elegans*
+
+baen di ulluli an natuudan <sub>Ifugao</sub> - *Mycena galopus*
+
 bagatáas <sub>xnn.</sub> - an edible white mushrooom <sup>[3]</sup>
 
 baguʼbuʼ <sub>Tausug</sub> - mold; fungus
@@ -119,15 +123,23 @@ balikánaw <sub>xnn.</sub> - a type of edible white mushroom
 
 balikút <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
 
+balluta di bongod <sub>Ifugao</sub> - *Claudopus variabilis*
+
 balugbug-dagis <sub>pam.</sub> - 等 <sup>FPP</sup> *= bukui* <sup>[1]:109</sup>
 
 bátang
 
 batang an mangmangetet <sub>Ifugao</sub> - *Amauroderma sp.*
 
+batang an napagatan <sub>Ifugao</sub> - *Ganoderma sp.*
+
+batang di kagiw <sub>Ifugao</sub> - *Ganoderma sp.*
+
 bell-shaped mushroom <sub>eng.</sub> - *Coprinus comatus*
 
 bird's-nest fungi <sub>eng.</sub> - *Cyathus striatus*
+
+bituinglupaʼ <sub>tl.</sub> - *Geastrum hygrometicus*
 
 black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
@@ -137,9 +149,13 @@ butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
 button mushroom <sub>eng.</sub> - *Agaricus bisporus* (Lange) Sing.
 
+cabbage mushroom <sub>eng.</sub> - *Clvaria crispa*
+
 chongo <sub>Bontok</sub> - *Agaricus campestris*
 
-dakdakan <sub>Zambaleno</sub> - kabuti? <sup>FPP</sup>, also a banana variant
+dadaakan <sub>Sambali</sub> - mushroom
+
+dakdakan <sub>Sambali</sub> - mushroom <sup>FPP</sup>, also a banana variant
 
 damdamayan <sub>Kankanaey</sub>
 
@@ -149,11 +165,17 @@ deadly amanita <sub>eng.</sub> - cf. *deadly agaric*
 
 dolongan sang kahoy <sub>*Panay*</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. polytricha* (Mont.) Sacc.
 
-earth star <sub>eng.</sub> - *Geastrum sp.*
+earth star <sub>eng.</sub> - *Geastrum hygrometicus*
+
+funnel shaped mushroom <sub>eng.</sub> - *Clitocybe phyllophylla*
 
 gaggaéng <sub>xnn.</sub> - an inedible white *kodi* <sup>[3]</sup>
 
 gamgáma <sub>xnn.</sub> - a type of dark-colored mushroom
+
+gatad <sub>Mangyan Batangan</sub> - *Gloeoporus sp.*
+
+gibgib ti tabangawon <sub>Ifugao</sub> - *Claudopus variabilis*
 
 gílgilittán <sub>xnn.</sub> - a type of poisonous mushroom that grows on cow dung 
 
@@ -171,6 +193,8 @@ golgol di kayiw <sub>Ifugao</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
 golgol di lubban <sub>Ifugao</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
+golgol di umug <sub>Ifugao</sub> - *Mycena corticola*
+
 honey-bee mushroom <sub>eng.</sub> - cf. kabuting pulot pukyutan
 
 ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
@@ -179,15 +203,23 @@ inga-inga <sub>tl.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A
 
 inga-n di káiw <sub>Kankanaey</sub> - ear-of-tree
 
-kabuti <sub>tl.</sub> - 
+kabuti <sub>tl.</sub> - mushroom
 
 kabuting ahas <sub>tl.</sub> - *Boletinus badius* Fries; 
 
+kabuting bulaklak nang bato <sub>tl.</sub> - *Clavaria stricta* (Syn: *Ramaria stricta*)
+
 kabuting dagaʼ <sub>tl.</sub> - *Amanita vaginata* (Fries) Quel.
+
+kabuting damuhan <sub>tl.</sub> - *Cantarellus aureus*
+
+kabuteng embudo <sub>tl.</sub> - *Clitocybe phyllophylla*
 
 kabuting giniikan <sub>tl.</sub>
 
 kabuting hugas payong <sub>tl.</sub> - *Lepiota sp.*
+
+kabuting kalabaw na may singsing <sub>tl.</sub> - *Stropharia semiglobata*
 
 kabuting kalawangin <sub>tl.</sub> - *Cortinarius collisteus*
 
@@ -202,6 +234,8 @@ kabuting manok <sub>tl.</sub>
 kabuting may pandong <sub>tl.</sub> - *Phallus merulinus* (syn: Clautriavia merulina)
 
 kabuting may pileges <sub>tl.</sub> - *Coprinus plicatilis*
+
+kabuting may sanga sanga <sub>tl.</sub> - *Clavaria zippelii* (syn: Ramaria zippelii)
 
 kabuting may singsing <sub>tl.</sub> - *Lepiota cepaestipes*
 
@@ -237,11 +271,15 @@ kabuting taing kalabaw <sub>tl.</sub> - *Copelandia papilonacea*
 
 kabuting tigre <sub>tl.</sub> - *Lepiota cristata*
 
+kabuti sa punong mangga <sub>tl.</sub> - *Ganoderma mangifirae*
+
 kagaw <sub>hil.</sub> - PROTOZOA?
 
 kamay nang patay <sub>tl.</sub> *Anthurus brownii*
 
 kapuʼkapuʼ <sub>Tausug</sub> - mold, mildew (syn. baguʼbuʼ)
+
+karulu <sub>Ibanag</sub> - mushroom
 
 karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 
@@ -271,6 +309,12 @@ kulat kulat na morado <sub>tl.</sub> - *Panus rudis*
 
 kullat <sub>smk.</sub>
 
+kulot-batang <sub>Tasaday</sub> - *Ganoderma sp.*
+
+kulot-batong <sub>Tboli</sub> - *Ganoderma sp.*
+
+kulot koti <sub>Blit Manobo</sub> - *Ganoderma sp.*
+
 kulut tangulu <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 kurakding <sub>*Bikol*</sub> - *Auricularia spp.*
@@ -278,6 +322,8 @@ kurakding <sub>*Bikol*</sub> - *Auricularia spp.*
 kurkur <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 kuwát-aníto <sub>*Pinatubo Agta*</sub> - non-edible mushroom; ear-fungi of the spirits
+
+kwat <sub>Sambali</sub> - mushroom 
 
 laplapayag <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
@@ -297,21 +343,61 @@ limalima<sup>†</sup> <sub>tl.<sub>
 
 loblobban <sub>Ifugao</sub> - *Craterellus crispus*
 
+loblobban adi mihda <sub>Ifugao</sub> - *Mycena corticola*
+
+loblobban an mumbolah <sub>Ifugao</sub> - *Clitocybe laccata*
+
+loblobban di apatapat <sub>Ifugao</sub> - *Cantarellus aureus*
+
+loblobban di apgod <sub>Ifugao</sub> - *Clitocybe candicans*
+
 loblobban di banginge <sub>Ifugao</sub> - *Conocybe tenera*
 
+loblobban di gando <sub>Ifugao</sub> - *Stropharia semiglobata*
+
 loblobban di gudah di kayiw <sub>Ifugao</sub> - *Hypholoma appendiculatum*
+
+loblobban di gulun <sub>Ifugao</sub> - *Mycena octites*
 
 loblobban di inado <sub>Ifugao</sub> - *Lycoperdon pyriforme*
 
 loblobban di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius collisteus*
 
+loblobban di lampaw <sub>Ifugao</sub> - *Mycena immaculata*
+
 loblobban di linamʼa <sub>Ifugao</sub> - *Calvatia sp.*; syn. *golgol an lumabuggut an umahig*
 
+loblobban di lumuy <sub>Ifugao</sub> - *Mycena epipterygius*
+
+loblobban di natunut an bitan <sub>Ifugao</sub> - *Clavaria zippelii* (syn: Ramaria zippelii)
+
+loblobban di oldap <sub>Ifugao</sub> - *Geastrum sp.*
+
+loblobban di page <sub>Ifugao</sub> - *Clitocybe multiceps*
+
+loblobban di talugtug <sub>Ifugao</sub> - *Mycena galopus*
+
+loblobban di tawayan <sub>Ifugao</sub> - *Clavaria cinerea*
+
 loblobban di tubun di palayun <sub>Ifugao</sub> - *Cortinarius glaucopus*
+
+loblobban e-innunig an iitang <sub>Ifugao</sub> - *Mycena immaculata*
+
+loblobban iitang an mumbola <sub>Ifugao</sub> - *Clavaria fragilis*
+
+loblobban iitang an mumbolah <sub>Ifugao</sub> - *Mycena elegans*
+
+loblobban mumpaha an nadupdupaya <sub>Ifugao</sub> - *Clavaria stricta* (Syn: *Ramaria stricta*)
+
+loblobban nagamgamatan <sub>Ifugao</sub> - *Clavaria stricta* (Syn: *Ramaria stricta*)
+
+loblobban nagaygayut <sub>Ifugao</sub> - *Clavaria zippelii* (syn: Ramaria zippelii)
 
 loblobban napadangan <sub>Ifugao</sub> - *Lepiota cristata*; *L. lilacea*
 
 loblobban paddangan <sub>Ifugao</sub> - *Lepiota gracilenta*
+
+lupik <sub>Hanunóo</sub> - *Geastrum sp.*
 
 luyud <sub>Tausug</sub> - mushroom
 
@@ -325,9 +411,15 @@ mamuso
 
 mushroom
 
-oong <sub>smk. pag. ilo.</sub>-
+nadupdupengel <sub>Ifugao</sub> - Clitocybe laccata
+
+ohong <sub>ceb. hil. Panay</sub> - mushroom
+
+oong <sub>smk. pag. ilo.</sub> - mushroom
 
 oong na tai dueg <sub>*Png.*</sub> - *Lepiota chlorospora*
+
+oong nga repolyo <sub>???</sub> - *Clvaria crispa*
 
 oong ti takki nuang <sub>Iloko</sub> - *Lepiota chlorospora*
 
@@ -365,6 +457,8 @@ pugad nang ibon <sub>tl.</sub> - *Cyathus striatus*
 
 reishi <sub>eng.</sub> - *Ganoderma lucidum*, *Ganoderma tsugae*
 
+sandok laban <sub>Hanunóo</sub> - *Ganoderma lucidum*
+
 sulphur-colored mushroom <sub>eng.</sub> - *Lepiota denundata*
 
 tauge
@@ -374,6 +468,8 @@ tabiák<sup>†</sup> tl. - 等<sup> UPDF </sup> *cf.* tabyok
 tabyok - -
 
 tagulamín - <sub>tl.</sub> - mildew; mold (especially that formed on dirty clothes left unwashed for a long time)
+
+takulaw <sub>Hanunóo</sub> - *Clitocybe sp.*
 
 taingandagaʼ <sub>tl.</sub> - rat-ear; *Auricularia spp.*
 
@@ -391,23 +487,35 @@ talinga nang batang <sub>*BisC*</sub> - *Auricularia auricula* (L. ex Hook.) Und
 
 talinga na ulak <sub>Ibanag</sub> - *Auricularia spp.*
 
+talingan batan lapinyad <sub>Hanunóo</sub> - *Ganoderma sp.*
+
 talínga danāg <sub>Isneg</sub> - ear-spirit; a kind of bracket fungus that resembles *xanggarát* but is much larger
 
 talinga-ti-otot
 
 taliña nu kayuh <sub>Itbayaten</sub> - ear-of-tree
 
+taluro <sub>Ibanag</sub> - mushroom 
+
 tangolog <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+
+taruluk <sub>Gaddang</sub> - mushro
+
+taybo <sub>tl.</sub> - mushroom
 
 taybo taikabaw <sub>Tausug</sub> - *Chlorophyllum sp.* <sup>*[Citation needed]*</sup>
 
 tayubu-banbanay <sub>Hanunóo</sub> - *Panus sp.*
 
+tigbos <sub>Bikol</sub> - mushroom
+
 tiger mushroom <sub>eng.</sub> - *Lepiota cristata*
 
 tombong <sub>*tl.*</sub> - *Calvatia lilacina* Fries; *Lycoperdon pyriforme*
 
-tubo
+tobo <sub>Bikol</sub> - mushroom
+
+tubo <sub>Bikol</sub> - cf. *tobo*
 
 tuli-amu danlakan <sub>Hanunóo</sub> - *Auricularia spp.*
 
@@ -415,15 +523,31 @@ tungang-basin
 
 tuputupu <sub>Ivatan</sub>
 
+uddudin di amu <sub>Ifugao</sub> - *Mycena vulgaris*
+
 uddug di nadupdupingil an adi mihda <sub>Ifugao</sub> - *Hypholoma fasciculare*
 
 uddug ni natuudan <sub>Ifugao</sub> - *Boletinus sp.*
 
+uhong <sub>???</sub> - mushroom
+
+ulapting <sub>Samar-Leyte</sub> - mushroom
+
 ulat an natuudan <sub>Ifugao</sub> - cf. *uddug ni natuudan*
+
+ulat di anablon magaygayut <sub>Ifugao</sub> - *Clavaria stricta* (Syn: *Ramaria stricta*)
+
+ulat di atelba <sub>Ifugao</sub> - *Mycena hiemalis*
 
 ulat di balinghingon <sub>Ifugao</sub> - *Hymenochaete sp.*
 
 ulat di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius cinnamomeus*
+
+ulat di lahaan <sub>Ifugao</sub> - *Mycena hiemalis*
+
+ulat di lapidokan <sub>Ifugao</sub> - *Clitocybe cyathiformis*
+
+ulat di lapidokan an natudan <sub>Ifugao</sub> - *Clitocybe laccata*
 
 ulat di hinaphap <sub>Ifugao</sub> - *Cyathus striatus*
 
@@ -438,6 +562,8 @@ unodʼunod
 uong dalem <sub>ilo.</sub> - *Boletus edulis* Bull. ex Fries
 
 uong galis <sub>ilo.</sub> - *Boletus elegans* Schum. ex Fries
+
+uong kurad <sub>ilo.</sub> - *Strobilomyces strobilaceous*
 
 uong tinta <sub>ilo.</sub> - *Boletus tomentosus* Sing.
 
