@@ -101,7 +101,7 @@ apaya <sub>tl.</sub> - bread mold
 
 apiáng <sub>xnn.</sub> - a type of edible red mushroom <sup><a href="#3">[3]</a></sup>
 
-aroy <sub>Lanao</sub>  - kabuti? <sup><a href="fpp">FPP</a></sup>
+aroy <sub>Lanao</sub>  - kabuti? <sup><a href="#fpp">FPP</a></sup>
 
 átey di nuáng? <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
