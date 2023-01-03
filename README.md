@@ -79,15 +79,23 @@ alamag <sub>mul.</sub> - mold
 
 álan <sub>xnn.</sub> - a type of inedible red mushroom <sup><a href="#3">[3]</a></sup>
 
+alitaptap <sub>tl.</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus ulmarius* Fries)
+
 álug <sub>xnn.</sub> - a type of edible pink mushroom <sup><a href="#3">[3]</a></sup>
 
-amag <sub>tl.</sub> - mold; mildew 
+amag <sub>tl.</sub> - mold; mildew 
 
-amamakol <sub>hil.</sub> - *Volvaria* sp.; *Volvariella volvacea*
+amamakol <sub>hil.</sub> - *Volvaria* sp. Bres.; *Volvariella volvacea* (Bull. ex Fries) Sing. (Syn: *Volvaria esculenta* Bres.)
 
-amamakul <sub>Hanunóo</sub> - *Pholidota* sp.
+amamakul <sub>Hanunóo</sub> - *Pholidota* sp. (E.M. Fries)
+
+amelat an mumpaha <sub>Ifugao</sub> - *Daedalea repanda*
+
+amelat di halepon <sub>Ifugao</sub> - *Daedalea ambigua* Berk.
 
 amidalán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
+
+anandap <sub>Iloko</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus ulmarius* Fries)
 
 anglóan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -101,15 +109,15 @@ apaya <sub>tl.</sub> - bread mold
 
 apiáng <sub>xnn.</sub> - a type of edible red mushroom <sup><a href="#3">[3]</a></sup>
 
-aroy <sub>Lanao</sub>  - kabuti? <sup><a href="#fpp">FPP</a></sup>
+aroy <sub>Lanao</sub> - mushroom? <sup><a href="#fpp">FPP</a></sup>
 
 átey di nuáng? <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-baan <sub>xnn.</sub> 
+baan <sub>xnn.</sub> 
 
-baen di habutan <sub>Ifugao</sub> - *Mycena elegans*
+baen di habutan <sub>Ifugao</sub> - *Mycena elegans* Fries
 
-baen di ulluli an natuudan <sub>Ifugao</sub> - *Mycena galopus*
+baen di ulluli an natuudan <sub>Ifugao</sub> - *Mycena galopus* Pers.
 
 bagatáas <sub>xnn.</sub> - a type of edible white mushrooom <sup><a href="#3">[3]</a></sup>
 
@@ -125,7 +133,11 @@ balikánaw <sub>xnn.</sub> - a type of edible white mushroom
 
 balikút <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-balluta di bongod <sub>Ifugao</sub> - *Claudopus variabilis*
+balluta di bongod <sub>Ifugao</sub> - *Claudopus variabilis* (Pers.) Sm.
+
+balluta di kayiw gumabillog <sub>Ifugao</sub> - *Hydnum* sp. L. ex Fries
+
+balluta di mangalituba <sub>Ifugao</sub> - *Guepinia spathularia* (Schw.) Fries
 
 balugbug-dagis <sub>pam.</sub> - 等 <sup><a href="#fpp">FPP</a></sup> *= bukui* <sup><a href="#1">[1]:109</a></sup>
 
@@ -133,7 +145,7 @@ banágan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]
 
 bánan <sub>xnn.</sub> - a type of edible red mushroom <sup><a href="#3">[3]</a></sup>
 
-banangáan <sub>xnn.</sub> 
+banangáan <sub>xnn.</sub> 
 
 bang-egán <sub>xnn.</sub> - a type of light brown mushroom, maybe edible, but causes nausea <sup><a href="#3">[3]</a></sup>
 
@@ -145,21 +157,35 @@ bangtán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]
 
 bátang
 
-batang an mangmangetet <sub>Ifugao</sub> - *Amauroderma sp.*
+batang an abibillog <sub>Ifugao</sub> - *Daedalea ambigua* Berk.
 
-batang an napagatan <sub>Ifugao</sub> - *Ganoderma sp.*
+batang an mangmangetet <sub>Ifugao</sub> - *Amauroderma* sp. Murr.
 
-batang di kagiw <sub>Ifugao</sub> - *Ganoderma sp.*
+batang an mihda <sub>Ifugao</sub> - *Polystictus versicolor* L. ex Fries
+
+batang an na-ok-okep an adi mihda <sub>Ifugao</sub> - *Hydhum adustum* Schwz.
+
+batang an napagatan <sub>Ifugao</sub> - *Ganoderma* sp. P.A. Karsten
+
+batang di buluh <sub>Ifugao</sub> - *Polystictus affinis* Nees
+
+batang di kagiw <sub>Ifugao</sub> - *Ganoderma* sp. P.A. Karsten
+
+batang di kayiw an namuol <sub>Ifugao</sub> - *Xylaria* sp. Hill. ex Grev.
+
+batang di labu <sub>Ifugao</sub> - *Stereum* sp. Pers.
+
+batang di tuwol <sub>Ifugao</sub> - *Polystictus versicolor* L. ex Fries
 
 bélak <sub>xnn.</sub> - a type of white toadstool <sup><a href="#3">[3]</a></sup>
 
-bell-shaped mushroom <sub>eng.</sub> - *Coprinus comatus*
+bell-shaped mushroom <sub>eng.</sub> - *Coprinus comatus* (Fries) S.F. Gray
 
 bílis <sub>xnn.</sub> - a type of white toadstool <sup><a href="#3">[3]</a></sup>
 
-bird's-nest fungi <sub>eng.</sub> - *Cyathus striatus*
+bird's-nest fungi <sub>eng.</sub> - *Cyathus striatus* Hoffm.
 
-bituinglupaʼ <sub>tl.</sub> - *Geastrum hygrometicus*
+bituinglupaʼ <sub>tl.</sub> - *Geaster hygrometicus* Pers.
 
 black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
@@ -167,7 +193,7 @@ bobbóo (bobbóon di mágan) <sub>xnn.</sub> - a type of small white toadstool <
 
 bobbóong <sub>xnn.</sub> - = *bobbóo* <sup><a href="#3">[3]</a></sup>
 
-bola-bola <sub>Iloko</sub> - *Calvatia lilacina* Fries; syn. *parapara*
+bola-bola <sub>Iloko</sub> - *Calvatia lilacina* Fries
 
 bong <sub>xnn.</sub> - a type of edible grayish white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -189,9 +215,9 @@ bugtán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]<
 
 bulúngan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-búnug <sub>xnn.</sub>  - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
+búnug <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-bunút <sub>xnn.</sub>  - a type of edible brownish mushroom <sup><a href="#3">[3]</a></sup> 
+bunút <sub>xnn.</sub> - a type of edible brownish mushroom <sup><a href="#3">[3]</a></sup> 
 
 bungbungían <sub>xnn.</sub> - a type of white toadstool <sup><a href="#3">[3]</a></sup>
 
@@ -203,43 +229,63 @@ butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
 button mushroom <sub>eng.</sub> - *Agaricus bisporus* (Lange) Sing.
 
-cabbage mushroom <sub>eng.</sub> - *Clvaria crispa*
+cabbage mushroom <sub>eng.</sub> - *Clavaria crispa* Wulf.
 
-chongo <sub>Bontok</sub> - *Agaricus campestris*
+carabao dung mushroom <sub>eng.</sub> - *Copelandia papilonacea* (Bull.) Bres.
+
+chongo <sub>Bontok</sub> - *Agaricus campestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
 
 dadaakan <sub>Sambali</sub> - mushroom
 
 dakdakan <sub>Sambali</sub> - mushroom <sup><a href="#fpp">FPP</a></sup>, also a banana variant
 
+dalugdug <sub>hil.</sub> - *Schizophyllum* sp. Fries ex Fries
+
 damdamayan <sub>Kankanaey</sub>
+
+damminul <sub>Ifugao</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus ulmarius* Fries)
+
+damminul di lotpeng <sub>Ifugao</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus ulmarius* Fries)
 
 deadly agaric <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
 
-deadly amanita <sub>eng.</sub> - cf. *deadly agaric*
+deadly amanita <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
 
 dolongan sang kahoy <sub>*Panay*</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. polytricha* (Mont.) Sacc.
 
-earth star <sub>eng.</sub> - *Geastrum hygrometicus*
+earth star <sub>eng.</sub> - *Geaster hygrometicus* Pers.
 
-funnel shaped mushroom <sub>eng.</sub> - *Clitocybe phyllophylla*
+funnel shaped mushroom <sub>eng.</sub> - *Clitocybe phyllophylla* Fries
 
 gaggaéng <sub>xnn.</sub> - an inedible white *kodi* <sup><a href="#3">[3]</a></sup>
 
 gamgáma <sub>xnn.</sub> - a type of dark-colored mushroom
 
-gatad <sub>Mangyan Batangan</sub> - *Gloeoporus sp.*
+ganga aglame <sub>Mangyan Batangan</sub> - *Fomes* sp. (Fries) Fries
 
-gibgib ti tabangawon <sub>Ifugao</sub> - *Claudopus variabilis*
+ganga lawan <sub>Mangyan Batangan</sub> - *Stereum* sp. Pers.
 
-gílgilittán <sub>xnn.</sub> - a type of poisonous mushroom that grows on cow dung 
+ganga sialud <sub>Mangyan Batangan</sub> - *Polystictus affinis* Nees
 
-golgol an iyan di gando <sub>Ifugao</sub> - *Auricularia polytricha* (Mont.) Saxx.
+ganga udalo <sub>Mangyan Batangan</sub> - *Daedalea repanda* Pers.
 
-golgol an lumabuggut an umahig <sub>Ifugao</sub> - *Calvatia sp.*
+gatad <sub>Mangyan Batangan</sub> - *Gloeoporus* sp. Mont.
 
-golgol an lumamut an umadap <sub>Ifugao</sub> - *Lycoperdon sp.*
+gellobo bau manmangetet <sub>Ifugao</sub> - *Hydnum* sp. L. ex Fries
 
-golgol an mihda <sub>Ifugao</sub> - *Corticium sp.*
+gibgib ti tabangawon <sub>Ifugao</sub> - *Claudopus variabilis* (Pers.) Sm.
+
+giggig <sub>Ifugao</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
+gílgilittán <sub>xnn.</sub> - a type of poisonous mushroom that grows on cow dung 
+
+golgol an iyan di gando <sub>Ifugao</sub> - *Auricularia polytricha* (Mont.) Sacc.
+
+golgol an lumabuggut an umahig <sub>Ifugao</sub> - *Calvatia* sp. Fries
+
+golgol an lumamut an umadap <sub>Ifugao</sub> - *Lycoperdon* sp. Tourn.
+
+golgol an mihda <sub>Ifugao</sub> - *Corticium* sp. Pers. ex Gray
 
 golgol di anablon <sub>Ifugao</sub> - *Auricularia delicata* Lloyd
 
@@ -247,9 +293,13 @@ golgol di kayiw <sub>Ifugao</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
 golgol di lubban <sub>Ifugao</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-golgol di umug <sub>Ifugao</sub> - *Mycena corticola*
+golgol di umug <sub>Ifugao</sub> - *Mycena corticola* Schol.
 
-honey-bee mushroom <sub>eng.</sub> - cf. kabuting pulot pukyutan
+guddug <sub>Polystictus parpagamenus</sub> Fries
+
+gwong <sub>Tboli</sub> *Polystictus* sp. Fries
+
+honey-bee mushroom <sub>eng.</sub> - *Armellaria mullea* (Fries) Karst.
 
 ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
 
@@ -257,49 +307,57 @@ inga-inga <sub>tl.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A
 
 inga-n di káiw <sub>Kankanaey</sub> - ear-of-tree
 
+Jew's ear <sub>eng.</sub> - *Auricularia* spp.
+
 kabuti <sub>tl.</sub> - mushroom
 
-kabuting ahas <sub>tl.</sub> - *Boletinus badius* Fries; 
+kabuting ahas <sub>tl.</sub> - *Boletinus badius* Fries (Syn: Xerocomus badius (Fries) Kuhn)
 
 kabuting bulaklak nang bato <sub>tl.</sub> - *Clavaria stricta* (Syn: *Ramaria stricta*)
 
+kabuting bundok <sub>tl.</sub> - *Lactarius volemus* Fries
+
 kabuting dagaʼ <sub>tl.</sub> - *Amanita vaginata* (Fries) Quel.
 
-kabuting damuhan <sub>tl.</sub> - *Cantarellus aureus*
+kabuting damuhan <sub>tl.</sub> - *Cantarellus aureus* Berk. & Curt.
 
-kabuteng embudo <sub>tl.</sub> - *Clitocybe phyllophylla*
+kabuteng embudo <sub>tl.</sub> - *Clitocybe phyllophylla* Fries
 
 kabuting giniikan <sub>tl.</sub>
 
-kabuting hugas payong <sub>tl.</sub> - *Lepiota sp.*
+kabuting hugis payong <sub>tl.</sub> - *Lepiota* sp. (Pers.) S.F. Gray
 
-kabuting kalabaw na may singsing <sub>tl.</sub> - *Stropharia semiglobata*
+kabuting kalabaw na may singsing <sub>tl.</sub> - *Stropharia semiglobata* (Fries) Quel.
 
-kabuting kalawangin <sub>tl.</sub> - *Cortinarius collisteus*
+kabuting kalawangin <sub>tl.</sub> - *Cortinarius collisteus* Fries
 
-kabuting kampanilya <sub>tl.</sub> - *Coprinus comatus*
+kabuting kampanilya <sub>tl.</sub> - *Coprinus comatus* (Fries) S.F. Gray
 
-kabuting kulay asupre <sub>tl.</sub> - *Lepiota denundata*
+kabuting kulay asupre <sub>tl.</sub> - *Lepiota denundata* Rabenhorst
 
-kabuting lila <sub>tl.</sub> - *Lepiota lilacea*
+kabuting lila <sub>tl.</sub> - *Lepiota lilacea* Bres.
+
+kabuting malantahin <sub>tl.</sub> - *Pseudocoprinus disseminata* (Fries) Kuhn (Syn: *Psathyrella disseminata* Fries)
 
 kabuting manok <sub>tl.</sub>
 
-kabuting may pandong <sub>tl.</sub> - *Phallus merulinus* (syn: Clautriavia merulina)
+kabuting maitim nadaliriʼ <sub>tl.</sub> - *Xylaria pistillaris* Lloyd
 
-kabuting may pileges <sub>tl.</sub> - *Coprinus plicatilis*
+kabuting may pandong <sub>tl.</sub> - *Dictyophora duplicata* (Bosc.) E. Fisch.; *Dictyophora phalloides* Desv.; *Phallus merulinus* Berk. (Syn: *Clautriavia merulina* Lloyd)
 
-kabuting may sanga sanga <sub>tl.</sub> - *Clavaria zippelii* (syn: Ramaria zippelii)
+kabuting may pileges <sub>tl.</sub> - *Coprinus plicatilis* (Fries) Fries
 
-kabuting may singsing <sub>tl.</sub> - *Lepiota cepaestipes*
+kabuting may sanga sanga <sub>tl.</sub> - *Clavaria zippelii* Lev. (syn: Ramaria zippelii (Lev.) Cor.)
 
-kabuting mukhang tinigkal <sub>tl.</sub> - *Boletus castaneus* Bull
+kabuting may singsing <sub>tl.</sub> - *Lepiota cepaestipes* Fries
 
-kabuting mulamula <sub>tl.</sub> - *Lepiota americana*
+kabuting mukhang tinigkal <sub>tl.</sub> - *Boletus castaneus* Bull (Syn: Gyroporous castaneus Kull.)
+
+kabuting mulamula <sub>tl.</sub> - *Lepiota americana* Peck
 
 kabuting parang <sub>tl.</sub> - *Agaricus competris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
 
-kabuting parang na bulik <sub>tl.</sub> - *Psalliota merilli* (Copeland); cf. kabuteng-parang na may singsing
+kabuting parang na bulik <sub>tl.</sub> - *Psalliota merilli* (Copeland); cf. kabuteng-parang na may singsing<sup>*[citation needed]*</sup>
 
 kabuting parang na maitimʼitim <sub>tl.</sub> - *Agaricus luzoniensis* Graff. (Syn: *Psalliota luzoniensis* Graff.)
 
@@ -307,13 +365,13 @@ kabuting parang na may singsing <sub>tl.</sub> - *Agaricus perfuscus* Copel. (Sy
 
 kabuting parang na putiʼ <sub>tl.</sub> - *Agaricus compestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.); *Agaricus bisporus* (Lange) Sing.
 
-kabuting payat ang tangkay <sub>tl.</sub> - *Conocybe tenera*
+kabuting payat ang tangkay <sub>tl.</sub> - *Conocybe tenera* (Fries) Kuhn
 
 kabuting pulot pukyutan <sub>tl.</sub> - *Armellaria mullea* (Fries) Karst.
 
 kabuting punsoʼ <sub>tl.</sub>
 
-kabuting putiʼ <sub>tl.</sub> - *Lepiota candida*
+kabuting putiʼ <sub>tl.</sub> - *Lepiota candida* Copel.
 
 kabuting saging <sub>tl.</sub>
 
@@ -321,15 +379,23 @@ kabuting sungsong <sub>tl.</sub>
 
 kabuting taing kabayo <sub>tl.</sub> - *Coprinus confertus* Copel.
 
-kabuting taing kalabaw <sub>tl.</sub> - *Copelandia papilonacea*
+kabuting taing kalabaw <sub>tl.</sub> - *Copelandia papilonacea* (Bull.) Bres.
 
-kabuting tigre <sub>tl.</sub> - *Lepiota cristata*
+kabuting tigre <sub>tl.</sub> - *Lepiota cristata* (Fries) Quel.
 
-kabuti sa punong mangga <sub>tl.</sub> - *Ganoderma mangifirae*
+kabuti sa punong mangga <sub>tl.</sub> - *Ganoderma mangifirae* Lev.
 
 kagaw <sub>hil.</sub> - PROTOZOA?
 
-kamay nang patay <sub>tl.</sub> *Anthurus brownii*
+kalahipoy di hangadan <sub>Ifugao</sub> - *Polystictus parpagamenus* Fries
+
+kalahipoy di labu <sub>Ifugao</sub> - *Stereum* sp. Pers.
+
+kalutiwas <sub>Tboli</sub> - *Daedalea* sp. Pers. ex Fries
+
+kamay nang patay <sub>tl.</sub> *Anthurus brownii* Mend.
+
+kamiyutan <sub>Samar-Leyte</sub> - *Lentinus sajor-caju*
 
 kapuʼkapuʼ <sub>Tausug</sub> - mold, mildew (syn. baguʼbuʼ)
 
@@ -337,9 +403,11 @@ karulu <sub>Ibanag</sub> - mushroom
 
 karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 
-kaupas 
+kaupas 
 
-kimpat-ton <sub>Gaddang</sub> - *Auricularia spp.*
+kayhom di kayiw <sub>Ifugao</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
+kimpat-ton <sub>Gaddang</sub> - *Auricularia* spp. Bull. ex Merat
 
 kodi <sub>xnn.</sub> - a type of mushroom that is white on top, brown underneath, and grows on trees
 
@@ -347,39 +415,79 @@ kodi di káiw - an inedible brown *kodi*
 
 kodi di liwliw - an edible white *kodi*
 
+kogigi <sub>Samar-Leyte</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
 kóleng si ótot <sub>Bontok</sub> - a kind of thin, non-edible bracket fungus which grows on trees
 
 kuat
 
+kuddug kan natuggudan <sub>Ifugao</sub> - *Lentinus squarrosulus* Berk. & Curt.
+
+kudet <sub>Iloko</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
+kudit-det <sub>Iloko</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
+kuditdet <sub>Iloko</sub> - *Lentinus sajor-caju*
+
+kudkuding di makan <sub>Kankanaey</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
 kudsuan <sub>ilo.</sub> - *Boletus aurantiacus* Sing.
 
-kuhong <sub>hil.</sub> - cf. uhong
+kulot bokay <sub>MboBl</sub> - *Polystictus* sp. Fries
 
-*kulaC <sub>Proto Austronesian</sub> - bracket fungus, *Polyporus* spp.
+kulot hala <sub>Tasaday</sub> - *Polystictus* sp. Fries
+
+kulot sigaf <sub>MboBl</sub> - *Polystictus* sp. Fries
+
+kulot tonok <sub>Tboli</sub> - *Polystictus* sp. Fries
+
+kulot tuliyo <sub>Tasaday</sub> - *Polystictus* sp. Fries
+
+kuhong <sub>hil.</sub> - mushroom
+
+*kulaC <sub>Proto Austronesian</sub> - bracket fungus, *Polyporus* spp. (Mich.) Fries ex Fries
 
 kulat
 
-kulatkulat
+kulat kulat <sub>tl.</sub> - *Lentinus* sp. Fries
+
+kulat kulat bundok <sub>tl.</sub> - *Lentinus auracariae* Har. & Pat.; *L. elmerianus* Lloyd; *L. infundibuliformis* Berk.
+
+kulat kulat kawayan <sub>tl.</sub> - *Lentinus exilis* Klotz
+
+kulat kulat na may balahibo <sub>tl.</sub> - *Lentinus fusco-purpureus* Kalchbr.
+
+kulat kulat na may kaliskis <sub>tl.</sub> - *Lentinus squarrosulus* Berk. & Curt.
+
+kulat kulat na may singsing <sub>tl.</sub> - *Lentinus sajor-caju*
 
 kulat kulat na morado <sub>tl.</sub> - *Panus rudis*
 
 kullat <sub>smk.</sub>
 
-kulot-batang <sub>Tasaday</sub> - *Ganoderma sp.*
+kulot-batang <sub>Tasaday</sub> - *Ganoderma* sp. P.A. Karsten
 
-kulot-batong <sub>Tboli</sub> - *Ganoderma sp.*
+kulot-batong <sub>Tboli</sub> - *Ganoderma* sp. P.A. Karsten
 
-kulot koti <sub>Blit Manobo</sub> - *Ganoderma sp.*
+kulot koti <sub>Blit Manobo</sub> - *Ganoderma* sp. P.A. Karsten
 
-kulut tangulu <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+kulut tangulu <sub>Tasaday</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-kurakding <sub>*Bikol*</sub> - *Auricularia spp.*
+kulut-ubal <sub>Tasaday</sub> - *Daedalea* sp. Pers. ex Fries
+
+kunas <sub>tl.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
+kurakding <sub>*Bikol*</sub> - *Auricularia* spp. Bull. ex Merat
+
+kurapodit <sub>ceb.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
 kurkur <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 kuwát-aníto <sub>*Pinatubo Agta*</sub> - non-edible mushroom; ear-fungi of the spirits
 
-kwat <sub>Sambali</sub> - mushroom 
+kwat <sub>Sambali</sub> - mushroom 
+
+langgot-langgot <sub>hil.</sub> - *Stereum* sp. Pers.
 
 laplapayag <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
@@ -387,73 +495,83 @@ ligat-ligat <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn:
 
 ligbos
 
-ligbus <sub>*Bgb*</sub> - *Coprinus concolor* Copel.
+ligbus <sub>*Bagobo*</sub> - *Coprinus concolor* Copel.
 
-ligfus <sub>*Bng*</sub> - *Agaricus campestris* (L. ex Fries)
+ligfus <sub>*Mangyan Batangan*</sub> - *Agaricus campestris* (L. ex Fries)
 
-lilac-colored mushroom <sub>eng.</sub> - *Panus rudis*
+lilac-colored mushroom <sub>eng.</sub> - *Panus rudis* Fries
 
-lilac mushroom <sub>eng.</sub> - *Lepiota lilacea*
+lilac mushroom <sub>eng.</sub> - *Lepiota lilacea* Bres.
 
 limalima<sup>†</sup> <sub>tl.<sub>
 
-loblobban <sub>Ifugao</sub> - *Craterellus crispus*
+loblobban <sub>Ifugao</sub> - *Craterellus crispus* Fries
 
-loblobban adi mihda <sub>Ifugao</sub> - *Mycena corticola*
+loblobban adi mihda <sub>Ifugao</sub> - *Entoloma procerum* Stevens.; *Mycena corticola* Schol.
 
-loblobban an mumbolah <sub>Ifugao</sub> - *Clitocybe laccata*
+loblobban an mumbolah <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
 
-loblobban di apatapat <sub>Ifugao</sub> - *Cantarellus aureus*
+loblobban di apatapat <sub>Ifugao</sub> - *Cantarellus aureus*  Berk. & Curt.
 
-loblobban di apgod <sub>Ifugao</sub> - *Clitocybe candicans*
+loblobban di apgod <sub>Ifugao</sub> - *Clitocybe candicans* Pers.
 
-loblobban di banginge <sub>Ifugao</sub> - *Conocybe tenera*
+loblobban di baginge <sub>Ifugao</sub> - *Hebeloma crustiliformis* Fries
 
-loblobban di gando <sub>Ifugao</sub> - *Stropharia semiglobata*
+loblobban di banginge <sub>Ifugao</sub> - *Conocybe tenera* (Fries) Kuhn
 
-loblobban di gudah di kayiw <sub>Ifugao</sub> - *Hypholoma appendiculatum*
+loblobban di gando <sub>Ifugao</sub> - *Stropharia semiglobata* (Fries) Quel
 
-loblobban di gulun <sub>Ifugao</sub> - *Mycena octites*
+loblobban di gudah di kayiw <sub>Ifugao</sub> - *Hypholoma appendiculatum* Bull.
 
-loblobban di inado <sub>Ifugao</sub> - *Lycoperdon pyriforme*
+loblobban di gulun <sub>Ifugao</sub> - *Mycena octites* Fries
 
-loblobban di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius collisteus*
+loblobban di inado <sub>Ifugao</sub> - *Lycoperdon pyriforme* Schaeff.
 
-loblobban di lampaw <sub>Ifugao</sub> - *Mycena immaculata*
+loblobban di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius collisteus* Fries
 
-loblobban di linamʼa <sub>Ifugao</sub> - *Calvatia sp.*; syn. *golgol an lumabuggut an umahig*
+loblobban di lampaw <sub>Ifugao</sub> - *Mycena immaculata* Fries
 
-loblobban di lumuy <sub>Ifugao</sub> - *Mycena epipterygius*
+loblobban di lamut di bilan <sub>Ifugao</sub> - *Guepinia spathularia* (Schw.) Fries
 
-loblobban di natunut an bitan <sub>Ifugao</sub> - *Clavaria zippelii* (syn: Ramaria zippelii)
+loblobban di linamʼa <sub>Ifugao</sub> - *Calvatia* sp. Fries
 
-loblobban di oldap <sub>Ifugao</sub> - *Geastrum sp.*
+loblobban di lumuy <sub>Ifugao</sub> - *Mycena epipterygius*Fries
 
-loblobban di page <sub>Ifugao</sub> - *Clitocybe multiceps*
+loblobban di natunut an bitan <sub>Ifugao</sub> - *Clavaria zippelii* Lev. (syn: Ramaria zippelii (Lev.) Cor.)
 
-loblobban di talugtug <sub>Ifugao</sub> - *Mycena galopus*
+loblobban di oldap <sub>Ifugao</sub> - *Geaster* sp. Mich. ex Fries
 
-loblobban di tawayan <sub>Ifugao</sub> - *Clavaria cinerea*
+loblobban di page <sub>Ifugao</sub> - *Clitocybe multiceps* Peck
 
-loblobban di tubun di palayun <sub>Ifugao</sub> - *Cortinarius glaucopus*
+loblobban di palayun <sub>Ifugao</sub> *Lactarius pallidus* Fries
 
-loblobban e-innunig an iitang <sub>Ifugao</sub> - *Mycena immaculata*
+loblobban di talugtug <sub>Ifugao</sub> - *Mycena galopus* Pers.
 
-loblobban iitang an mumbola <sub>Ifugao</sub> - *Clavaria fragilis*
+loblobban di tawayan <sub>Ifugao</sub> - *Clavaria cinerea* Fries
 
-loblobban iitang an mumbolah <sub>Ifugao</sub> - *Mycena elegans*
+loblobban di tubun di palayun <sub>Ifugao</sub> - *Cortinarius glaucopus* Fries
 
-loblobban mumpaha an nadupdupaya <sub>Ifugao</sub> - *Clavaria stricta* (Syn: *Ramaria stricta*)
+loblobban e-innunig an iitang <sub>Ifugao</sub> - *Mycena immaculata* Fries
 
-loblobban nagamgamatan <sub>Ifugao</sub> - *Clavaria stricta* (Syn: *Ramaria stricta*)
+loblobban e potelo <sub>Ifugao</sub> - *Scleroderma* sp. Pers.
 
-loblobban nagaygayut <sub>Ifugao</sub> - *Clavaria zippelii* (syn: Ramaria zippelii)
+loblobban iitang an mumbola <sub>Ifugao</sub> - *Clavaria fragilis* Fries
 
-loblobban napadangan <sub>Ifugao</sub> - *Lepiota cristata*; *L. lilacea*
+loblobban iitang an mumbolah <sub>Ifugao</sub> - *Mycena elegans* Fries
 
-loblobban paddangan <sub>Ifugao</sub> - *Lepiota gracilenta*
+loblobban mumpaha an nadupdupaya <sub>Ifugao</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
 
-lupik <sub>Hanunóo</sub> - *Geastrum sp.*
+loblobban nagamgamatan <sub>Ifugao</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
+
+loblobban nagaygayut <sub>Ifugao</sub> - *Clavaria zippelii* Lev. (syn: Ramaria zippelii (Lev.) Cor.)
+
+loblobban napadangan <sub>Ifugao</sub> - *Lepiota cristata* (Fries) Quel; *L. lilacea* Bres.
+
+loblobban paddangan <sub>Ifugao</sub> - *Lepiota gracilenta* Kromb.
+
+loblobban umahu <sub>Ifugao</sub> - *Scleroderma verrucosum* Bull. ex Pers.
+
+lupik <sub>Hanunóo</sub> - *Geaster sp.*
 
 luyud <sub>Tausug</sub> - mushroom
 
@@ -465,31 +583,33 @@ makol <sub>hil.</sub>
 
 mamuso
 
+minmin <sub>Mangyan Batangan</sub> - *Irpex flavus* Klotz
+
 mushroom
 
-nadupdupengel <sub>Ifugao</sub> - Clitocybe laccata
+nadupdupengel <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
 
 ohong <sub>ceb. hil. Panay</sub> - mushroom
 
 oong <sub>smk. pag. ilo.</sub> - mushroom
 
-oong na tai dueg <sub>pag.</sub> - *Lepiota chlorospora*
+oong na tai dueg <sub>pag.</sub> - *Lepiota chlorospora* Copel.
 
-oong nga repolyo <sub>???</sub> - *Clvaria crispa*
+oong nga repolyo <sub>???</sub> - *Clavaria crispa* Wulf.
 
-oong ti takki nuang <sub>Iloko</sub> - *Lepiota chlorospora*
+oong ti takki nuang <sub>Iloko</sub> - *Lepiota chlorospora* Copel.
 
-oong ti uleg <sub>Iloko</sub> - *Phallus tenuis*
+oong ti uleg <sub>Iloko</sub> - *Dictyophora duplicata* (Bosc.) E. Fisch.; *Dictyophora phalloides* Desv.; *Phallus tenuis* Lloyd
 
-owong 
+owong 
 
 pandong ahas
 
 panther amanita <sub>eng.</sub> - *Amanita pantherina* (DC.) Fries
 
-parapara <sub>Iloko</sub> - *Calvatia lilacina* Fries, syn. *bola-bola*; *Lycoperdon pyriform*
+parapara <sub>Iloko</sub> - *Calvatia lilacina* Fries; *Lycoperdon pyriform* Schaeff.; *Scleroderma geaster* Fries
 
-payong ahas - <sub>tl.</sub> - *Lepiota chlorospora*
+payong ahas - <sub>tl.</sub> - *Lepiota chlorospora* Copel.
 
 payong ayas -
 
@@ -497,51 +617,73 @@ payong-payungan <sub>tl.</sub>
 
 payong-payungan <sub>pag.</sub>
 
-payong-payungan-kulog 
+payong-payungan-kulog 
 
 payung na nipay
 
-plicated mushroom <sub>eng.</sub> - *Coprinus plicatilis*
+piruk-digaw <sub>Hanunóo</sub> - *Lentinus* sp. Fries
+
+plicated mushroom <sub>eng.</sub> - *Coprinus plicatilis* (Fries) Fries
 
 poisonous amanita <sub>eng.</sub> - *Amanita muscaria* (Fries) S.F. Gray
 
-poisonous mushroom <sub>eng.</sub> - *Amanita manillensis*; cf. *deadly agaric*
+poisonous mushroom <sub>eng.</sub> - *Amanita manillensis* Mend. & Leus-Palo
 
-pugad nang ibon <sub>tl.</sub> - *Cyathus striatus*
+pugad nang ibon <sub>tl.</sub> - *Cyathus striatus* Hoffm.
 
 *quSuŋ <sub>Proto-Austronesian</sub> - mushroom
 
-reishi <sub>eng.</sub> - *Ganoderma lucidum*, *Ganoderma tsugae*
+reishi <sub>eng.</sub> - *Ganoderma lucidum* (Leys) P.A. Karsten; *Ganoderma tsugae*
 
-sandok laban <sub>Hanunóo</sub> - *Ganoderma lucidum*
+salʼan <sub>Hanunóo</sub> - *Lentinus* sp. Fries
 
-sulphur-colored mushroom <sub>eng.</sub> - *Lepiota denundata*
+salapia <sub>Mangyan Batangan</sub> - *Polystictus affinis* Nees
 
-tabiák<sup>†</sup> <sub>tl.</sub> - 等<sup> <a href="#updf">UPDF</a> </sup> *cf.* tabyok 
+salapya <sub>Mangyan Batangan</sub> - *Daedalea palisoti* Fries
+
+sandok laban <sub>Hanunóo</sub> - *Ganoderma lucidum* P.A. Karsten
+
+sarumiu <sub>Mangyan Batangan</sub> - *Hydnum* sp. L. ex Fries
+
+sigdot <sub>tl.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
+shell mushroom <sub>eng.</sub> - *Daedalea flavida* Lev.
+
+sikdot <sub>tl.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
+sikdut <sub>Hanunóo</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
+sulphur-colored mushroom <sub>eng.</sub> - *Lepiota denundata* Rabenhorst
+
+tabiák<sup>†</sup> <sub>tl.</sub> - 等<sup> <a href="#updf">UPDF</a> </sup> *cf.* tabyok 
 
 tabyok - -
 
-tagulamín - <sub>tl.</sub> - mildew; mold (especially that formed on dirty clothes left unwashed for a long time)
+tabyus  <sub>Hanunóo</sub> - *Lentinus* sp. Fries
 
-takulaw <sub>Hanunóo</sub> - *Clitocybe sp.*
+tagulamín <sub>tl.</sub> - mildew; mold (especially that formed on dirty clothes left unwashed for a long time)
 
-taingandagaʼ <sub>tl.</sub> - rat-ear; *Auricularia spp.*
+takulaw <sub>Hanunóo</sub> - *Clitocybe* sp. (Fries) Staude
 
-taingang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.; *Auricularia spp.*
+taingandagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-tengang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.) Pers.
+taingang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.); *Auricularia affinis* Lev.; *Auricularia delicata* Lloyd; *Auricularia polytricha* (Mont.) Sacc.; *Auricularia* spp. Bull. ex Merat
 
-tainga nang dagaʼ 
+taingang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
 talinga <sub>*Bng*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+
+talinga batan <sub>Hanunóo</sub> - *Polystictus* sp. Fries
+
+talinga batan bayudʼad <sub>Hanunóo</sub> - *Daedalea repanda* Pers.
 
 talingabátang <sub>Hanunóo</sub> - ear-log
 
 talinga nang batang <sub>*BisC*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-talinga na ulak <sub>Ibanag</sub> - *Auricularia spp.*
+talinga na ulak <sub>Ibanag</sub> - *Auricularia* spp. Bull. ex Merat
 
-talingan batan lapinyad <sub>Hanunóo</sub> - *Ganoderma sp.*
+talingan batan lapinyad <sub>Hanunóo</sub> - *Ganoderma* sp. P.A. Karsten
 
 talínga danāg <sub>Isneg</sub> - ear-spirit; a kind of bracket fungus that resembles *xanggarát* but is much larger
 
@@ -549,63 +691,93 @@ talinga-ti-otot
 
 taliña nu kayuh <sub>Itbayaten</sub> - ear-of-tree
 
-taluro <sub>Ibanag</sub> - mushroom 
+taluro <sub>Ibanag</sub> - mushroom 
 
 tangolog <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-taruluk <sub>Gaddang</sub> - mushro
+taruluk <sub>Gaddang</sub> - mushroom
 
-taybo <sub>tl.</sub> - mushroom
+taybo <sub>tl.</sub> - mushroom; *Schizophyllum* sp. Fries ex Fries
 
-taybo taikabaw <sub>Tausug</sub> - *Chlorophyllum sp.* <sup>*[Citation needed]*</sup>
+taybo taikabaw <sub>Tausug</sub> - *Chlorophyllum* sp. Mass.
 
-tayubu-banbanay <sub>Hanunóo</sub> - *Panus sp.*
+tayubu-banbanay <sub>Hanunóo</sub> - *Panus* sp. Fries
+
+tayubu bang <sub>Mangyan Batangan</sub> - *Dictyophora* sp. Desv.
+
+tengang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.); *Auricularia affinis* Lev.; *Auricularia delicata* Lloyd; *Auricularia polytricha* (Mont.) Sacc.; *Auricularia* spp. Bull. ex Merat
+
+tengang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
 tigbos <sub>Bikol</sub> - mushroom
 
-tiger mushroom <sub>eng.</sub> - *Lepiota cristata*
+tiger mushroom <sub>eng.</sub> - *Lepiota cristata* (Fries) Quel.
 
-tombong <sub>*tl.*</sub> - *Calvatia lilacina* Fries; *Lycoperdon pyriforme*
+tiwtiw saraka <sub>Hanunóo</sub> - *Xylaria* sp. Hill. ex Grev.
 
 tobo <sub>Bikol</sub> - mushroom
 
-tubo <sub>Bikol</sub> - cf. *tobo*
+tombong <sub>tl.</sub> - *Calvatia lilacina* Fries; *Lycoperdon pyriforme* Schaeff.
 
-tuli-amu danlakan <sub>Hanunóo</sub> - *Auricularia spp.*
+tough hairy mushroom <sub>eng.</sub> - *Lentinus fusco-purpureus*
+
+tough scaly mushroom <sub>eng.</sub> - *Lentinus squarrosulus* Berk. & Curt.
+
+tubo <sub>Bikol</sub> - mushroom
+
+tubo <sub>tl.</sub> - *Scleroderma geaster* Fries
+
+tubo-tubo <sub>Samar-Leyte</sub> - *Lentinus sajor-caju*
+
+tuli-amu danlakan <sub>Hanunóo</sub> - *Auricularia* spp. Bull. ex Merat
 
 tungang-basin
 
 tuputupu <sub>Ivatan</sub>
 
-uddudin di amu <sub>Ifugao</sub> - *Mycena vulgaris*
+udalu <sub>Mangyan Batangan</sub> - *Daedalea ambigua*
 
-uddug di nadupdupingil an adi mihda <sub>Ifugao</sub> - *Hypholoma fasciculare*
+uddudin di amu <sub>Ifugao</sub> - *Mycena vulgaris* Fries
 
-uddug ni natuudan <sub>Ifugao</sub> - *Boletinus sp.*
+uddug <sub>Ifugao</sub> - *Polystictus parpagamenus* Fries
+
+uddug di nadupdupingil an adi mihda <sub>Ifugao</sub> - *Hypholoma fasciculare* Fries
+
+uddug ni natuudan <sub>Ifugao</sub> - *Boletinus* sp. Kalchbr.
+
+ugabʼugab <sub>Tausug</sub> - *Stereum* sp. Pers.
 
 uhong <sub>???</sub> - mushroom
 
 ulapting <sub>Samar-Leyte</sub> - mushroom
 
-ulat an natuudan <sub>Ifugao</sub> - cf. *uddug ni natuudan*
+ulat an mihda <sub>Ifugao</sub> - *Lentinus squarrosolus* Berk. & Curt.
 
-ulat di anablon magaygayut <sub>Ifugao</sub> - *Clavaria stricta* (Syn: *Ramaria stricta*)
+ulat an natuudan <sub>Ifugao</sub> - *Boletinus* sp. Kalchbr.; *Lentinus sajor-caju* Fries; *L. squarrosulus* Berk. & Curt.
 
-ulat di atelba <sub>Ifugao</sub> - *Mycena hiemalis*
+ulat di anablon magaygayut <sub>Ifugao</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
 
-ulat di balinghingon <sub>Ifugao</sub> - *Hymenochaete sp.*
+ulat di atelba <sub>Ifugao</sub> - *Mycena hiemalis* Fries
 
-ulat di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius cinnamomeus*
+ulat di balinghingon <sub>Ifugao</sub> - *Hymenochaete* sp. J.H. Lev.
 
-ulat di lahaan <sub>Ifugao</sub> - *Mycena hiemalis*
+ulat di butgi <sub>Ifugao</sub> - *Polystictus affinis* Nees
 
-ulat di lapidokan <sub>Ifugao</sub> - *Clitocybe cyathiformis*
+ulat di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius cinnamomeus* Fries
 
-ulat di lapidokan an natudan <sub>Ifugao</sub> - *Clitocybe laccata*
+ulat di lahaan <sub>Ifugao</sub> - *Mycena hiemalis* Fries
 
-ulat di hinaphap <sub>Ifugao</sub> - *Cyathus striatus*
+ulat di lamut di kayiw an uungal <sub>Ifugao</sub> - *Lentinus exilis*
 
-ulat di waal <sub>Ifugao</sub> - *Hygrophorus vigineus*
+ulat di lapidokan <sub>Ifugao</sub> - *Clitocybe cyathiformis* Fries
+
+ulat di lapidokan an natudan <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
+
+ulat di hinaphap <sub>Ifugao</sub> - *Cyathus striatus* Hoffm.
+
+ulat di talana <sub>Ifugao</sub> - *Stereum* sp. Pers.
+
+ulat di waal <sub>Ifugao</sub> - *Hygrophorus vigineus*  Fries
 
 uhong <sub>mul.</sub> - mushroom (cf. *quSuŋ)
 
@@ -617,13 +789,13 @@ uong dalem <sub>ilo.</sub> - *Boletus edulis* Bull. ex Fries
 
 uong galis <sub>ilo.</sub> - *Boletus elegans* Schum. ex Fries
 
-uong kurad <sub>ilo.</sub> - *Strobilomyces strobilaceous*
+uong kurad <sub>ilo.</sub> - *Strobilomyces strobilaceous* (Scop. ex Fries) Berk.
 
 uong tinta <sub>ilo.</sub> - *Boletus tomentosus* Sing.
 
 xanggarát
 
-yellow foetid mushroom - *Phallus tenuis*
+yellow foetid mushroom - *Phallus tenuis* Lloyd
 
 ## meta info
 
@@ -633,11 +805,13 @@ alipunga <sub>tl.</sub> - *tinea pedis* (Disease)
 
 anʼan
 
-apʼap 
+apʼap 
 
 batu kulat <sub>Iban</sub> - mushroom stone; noxious talisman
 
 kidlat
+
+lumuy di kayiw <sub>Ifugao</sub> - *Pseudocyphellaria* sp. Vainio (Lichen)
 
 sabung
 
