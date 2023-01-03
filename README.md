@@ -38,7 +38,7 @@ Abbreviations of languages here are based on ISO-639
 	
 	smk. - Bolinao
 	
-	xnn. - Northern Kankanay, Lepanto Igorot
+	xnn. - Northern Kankanay, Lepanto Igorot, Sagada Igorot
 	
 	mul. - Many languages, multilingual
 	
@@ -129,11 +129,19 @@ balluta di bongod <sub>Ifugao</sub> - *Claudopus variabilis*
 
 balugbug-dagis <sub>pam.</sub> - 等 <sup><a href="#fpp">FPP</a></sup> *= bukui* <sup><a href="#1">[1]:109</a></sup>
 
-banágan <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+banágan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-bánan <sub>xnn.</sub> - a type of edible red mushroom <sup>[3]</sup>
+bánan <sub>xnn.</sub> - a type of edible red mushroom <sup><a href="#3">[3]</a></sup>
 
 banangáan <sub>xnn.</sub> 
+
+bang-egán <sub>xnn.</sub> - a type of light brown mushroom, maybe edible, but causes nausea <sup><a href="#3">[3]</a></sup>
+
+bang-éyaw <sub>xnn.</sub> - a type of edible mushroom <sup><a href="#3">[3]</a></sup>
+
+banggítan <sub>xnn.</sub> - a type of inedible mushroom <sup><a href="#3">[3]</a></sup>
+
+bangtán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 bátang
 
@@ -143,7 +151,11 @@ batang an napagatan <sub>Ifugao</sub> - *Ganoderma sp.*
 
 batang di kagiw <sub>Ifugao</sub> - *Ganoderma sp.*
 
+bélak <sub>xnn.</sub> - a type of white toadstool <sup><a href="#3">[3]</a></sup>
+
 bell-shaped mushroom <sub>eng.</sub> - *Coprinus comatus*
+
+bílis <sub>xnn.</sub> - a type of white toadstool <sup><a href="#3">[3]</a></sup>
 
 bird's-nest fungi <sub>eng.</sub> - *Cyathus striatus*
 
@@ -151,7 +163,41 @@ bituinglupaʼ <sub>tl.</sub> - *Geastrum hygrometicus*
 
 black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
+bobbóo (bobbóon di mágan) <sub>xnn.</sub> - a type of small white toadstool <sup><a href="#3">[3]</a></sup>
+
+bobbóong <sub>xnn.</sub> - = *bobbóo* <sup><a href="#3">[3]</a></sup>
+
 bola-bola <sub>Iloko</sub> - *Calvatia lilacina* Fries; syn. *parapara*
+
+bong <sub>xnn.</sub> - a type of edible grayish white mushroom <sup><a href="#3">[3]</a></sup>
+
+bong di lubbán <sub>xnn.</sub> - a type of edible reddish mushroom <sup><a href="#3">[3]</a></sup>
+
+bong di taáw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
+
+bong di tallábung <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
+
+bóo <sub>xnn.</sub> - a type of edible, round, white mushroom <sup><a href="#3">[3]</a></sup>
+
+bóo di núang <sub>xnn.</sub> - a type of mushroom bigger than *bóo*, but can't be eaten raw <sup><a href="#3">[3]</a></sup>
+
+bóong <sub>xnn.</sub> - a type of edible pink mushroom <sup><a href="#3">[3]</a></sup>
+
+bugátan <sub>xnn.</sub> - a type of edible reddish mushroom <sup><a href="#3">[3]</a></sup>
+
+bugtán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
+
+bulúngan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
+
+búnug <sub>xnn.</sub>  - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
+
+bunút <sub>xnn.</sub>  - a type of edible brownish mushroom <sup><a href="#3">[3]</a></sup> 
+
+bungbungían <sub>xnn.</sub> - a type of white toadstool <sup><a href="#3">[3]</a></sup>
+
+busáyang <sub>xnn.</sub> - a type of edible reddish mushroom <sup><a href="#3">[3]</a></sup>
+
+buttatáy <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
@@ -607,5 +653,5 @@ singsing
 	
 <span id="2">2 - https://www.webonary.org/northernkankanay/</span>
 	
-<span id="3">3 - A Dictionary of Lepanto Igorot, or Kankanay</span>
+<span id="3">3 - A Dictionary of Lepanto Igorot, or Kankanay</span>hi
 </pre>
