@@ -111,7 +111,7 @@ baen di habutan <sub>Ifugao</sub> - *Mycena elegans*
 
 baen di ulluli an natuudan <sub>Ifugao</sub> - *Mycena galopus*
 
-bagatáas <sub>xnn.</sub> - an edible white mushrooom <sup><a href="#3">[3]</a></sup>
+bagatáas <sub>xnn.</sub> - a type of edible white mushrooom <sup><a href="#3">[3]</a></sup>
 
 baguʼbuʼ <sub>Tausug</sub> - mold; fungus
 
@@ -128,6 +128,12 @@ balikút <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]
 balluta di bongod <sub>Ifugao</sub> - *Claudopus variabilis*
 
 balugbug-dagis <sub>pam.</sub> - 等 <sup><a href="#fpp">FPP</a></sup> *= bukui* <sup><a href="#1">[1]:109</a></sup>
+
+banágan <sub>xnn.</sub> - a type of edible white mushroom <sup>[3]</sup>
+
+bánan <sub>xnn.</sub> - a type of edible red mushroom <sup>[3]</sup>
+
+banangáan <sub>xnn.</sub> 
 
 bátang
 
@@ -421,7 +427,7 @@ ohong <sub>ceb. hil. Panay</sub> - mushroom
 
 oong <sub>smk. pag. ilo.</sub> - mushroom
 
-oong na tai dueg <sub>*Png.*</sub> - *Lepiota chlorospora*
+oong na tai dueg <sub>pag.</sub> - *Lepiota chlorospora*
 
 oong nga repolyo <sub>???</sub> - *Clvaria crispa*
 
@@ -465,9 +471,7 @@ sandok laban <sub>Hanunóo</sub> - *Ganoderma lucidum*
 
 sulphur-colored mushroom <sub>eng.</sub> - *Lepiota denundata*
 
-tauge
-
-tabiák<sup>†</sup> tl. - 等<sup> <a href="#updf">UPDF</a> </sup> *cf.* tabyok 
+tabiák<sup>†</sup> <sub>tl.</sub> - 等<sup> <a href="#updf">UPDF</a> </sup> *cf.* tabyok 
 
 tabyok - -
 
