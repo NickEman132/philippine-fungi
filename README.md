@@ -103,6 +103,8 @@ anandap <sub>Iloko</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus u
 
 anglóan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
+ant-hill mushroom <sub>eng.</sub> - *Collybia albuminosa* (Bres.) Petch.
+
 apakáw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 apán <sub>xnn.</sub> - a type of edible white mushroom, with a flat cap or its brim turned up <sup><a href="#3">[3]</a></sup>
@@ -225,6 +227,8 @@ bong di taáw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3
 
 bong di tallábung <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
+bonghalla <sub>ifugao</sub> - *Collybia* sp. (Fries) Staude
+
 bóo <sub>xnn.</sub> - a type of edible, round, white mushroom <sup><a href="#3">[3]</a></sup>
 
 bóo di núang <sub>xnn.</sub> - a type of mushroom bigger than *bóo*, but can't be eaten raw <sup><a href="#3">[3]</a></sup>
@@ -236,6 +240,10 @@ bugátan <sub>xnn.</sub> - a type of edible reddish mushroom <sup><a href="#3">[
 bugtán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 bulúngan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
+
+bulung an ikkipan <sub>ifugao</sub> - *Collybia* sp. (Fries) Staude
+
+bulung an oongal <sub>Ifugao</sub> - *Collybia albuminosa* (Bres.) Petch.
 
 búnug <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -355,6 +363,8 @@ kabuteng embudo <sub>tl.</sub> - *Clitocybe phyllophylla* Fries
 
 kabuting giniikan <sub>tl.</sub>
 
+kabuting higante <sub>tl.</sub> - *Collybia reineckeana* P. Henn.
+
 kabuting hugis kopa <sub>tl.</sub> - *Peziza postulata* (Hedwig) Pers.
 
 kabuting hugis payong <sub>tl.</sub> - *Lepiota* sp. (Pers.) S.F. Gray
@@ -407,9 +417,11 @@ kabuting parang na putiʼ <sub>tl.</sub> - *Agaricus compestris* L. ex Fries (Sy
 
 kabuting payat ang tangkay <sub>tl.</sub> - *Conocybe tenera* (Fries) Kuhn
 
+kabuting pilipit <sub>tl.</sub> - *Collybia distorta* (Fries) Gillet
+
 kabuting pulot pukyutan <sub>tl.</sub> - *Armellaria mullea* (Fries) Karst.
 
-kabuting punsoʼ <sub>tl.</sub>
+kabuting punsoʼ <sub>tl.</sub> - *Collybia albuminosa* (Bres.) Petch.
 
 kabuting putiʼ <sub>tl.</sub> - *Lepiota candida* Copel.
 
@@ -549,6 +561,8 @@ ligat-ligat <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn:
 
 ligbos <sub>ceb., Samar-Leyte</sub> - *Termitomyces cartilagineus* Heim.
 
+ligbus <sub>Hanunóo</sub> - *Collybia* sp. (Fries) Staude
+
 ligbus <sub>*Bagobo*</sub> - *Coprinus concolor* Copel.
 
 ligfus <sub>*Mangyan Batangan*</sub> - *Agaricus campestris* (L. ex Fries)
@@ -580,6 +594,8 @@ loblobban di gando <sub>Ifugao</sub> - *Stropharia semiglobata* (Fries) Quel
 loblobban di gudah di kayiw <sub>Ifugao</sub> - *Hypholoma appendiculatum* Bull.
 
 loblobban di gulun <sub>Ifugao</sub> - *Mycena octites* Fries
+
+loblobban di halo <sub>Ifugao</sub> - *Collybia* sp. (Fries) Staude
 
 loblobban di inado <sub>Ifugao</sub> - *Lycoperdon pyriforme* Schaeff.
 
@@ -613,6 +629,8 @@ loblobban di tawayan <sub>Ifugao</sub> - *Clavaria cinerea* Fries
 
 loblobban di tubun di palayun <sub>Ifugao</sub> - *Cortinarius glaucopus* Fries
 
+loblobban di unah <sub>Ifugao</sub> - *Collybia confluens* Pers.
+
 loblobban e-innunig an iitang <sub>Ifugao</sub> - *Mycena immaculata* Fries
 
 loblobban e potelo <sub>Ifugao</sub> - *Scleroderma* sp. Pers.
@@ -635,6 +653,8 @@ loblobban paddangan <sub>Ifugao</sub> - *Lepiota gracilenta* Kromb.
 
 loblobban umahu <sub>Ifugao</sub> - *Scleroderma verrucosum* Bull. ex Pers.
 
+lumeng <sub>Ifugao</sub> - *Collybia* sp. (Fries) Staude
+
 lupik <sub>Hanunóo</sub> - *Geaster sp.*
 
 luyud <sub>Tausug</sub> - mushroom
@@ -645,11 +665,13 @@ malaking alitaptap - *Pleurotus ostreatus* (Jacq. ex Fries)
 
 malakmak <sub>Bikol Central</sub> - fungus
 
-mamarang <sub>tl.</sub> - *Termitomyces cartilagineus* Heim.
+mamarang <sub>tl.</sub> - *Collybia* sp. (Fries) Staude; *Termitomyces cartilagineus* Heim.
 
 makol <sub>hil.</sub>
 
 mamuso
+
+mannagado <sub>ilo.</sub> - *Collybia* sp. (Fries) Staude
 
 minmin <sub>Mangyan Batangan</sub> - *Irpex flavus* Klotz
 
@@ -661,9 +683,13 @@ ohong <sub>ceb. hil. Panay</sub> - mushroom
 
 oong <sub>smk. pag. ilo.</sub> - mushroom
 
+oong na pongol <sub>pag.</sub> - *Collybia albuminosa* (Bres.) Petch.
+
 oong na tai dueg <sub>pag.</sub> - *Lepiota chlorospora* Copel.
 
 oong nga repolyo <sub>???</sub> - *Clavaria crispa* Wulf.
+
+oong ti bunton <sub>ilo.</sub> - *Collybia albuminosa* (Bres.) Petch.
 
 oong ti takki nuang <sub>Iloko</sub> - *Lepiota chlorospora* Copel.
 
@@ -687,7 +713,7 @@ payong-payungan <sub>tl.</sub>
 
 payong-payungan <sub>pag.</sub>
 
-payong-payungan-kulog 
+payung-payungan kulog <sub>Kapampangan</sub> - *Collybia albuminosa* (Bres.) Petch.
 
 payung na nipay
 
@@ -774,6 +800,8 @@ tangolog <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *
 taruluk <sub>Gaddang</sub> - mushroom
 
 taybo <sub>tl.</sub> - mushroom; *Schizophyllum* sp. Fries ex Fries
+
+taybo daugdog <sub>Tausug</sub> - *Collybia* sp. (Fries) Staude
 
 taybo taikabaw <sub>Tausug</sub> - *Chlorophyllum* sp. Mass.
 
