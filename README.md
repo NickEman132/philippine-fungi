@@ -95,6 +95,8 @@ amamakul <sub>Hanunóo</sub> - *Pholidota* sp. (E.M. Fries)
 
 amelat an mumpaha <sub>Ifugao</sub> - *Daedalea repanda* Pers.
 
+amelat an natuligongon <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+
 amelat di ameleng <sub>Ifugao</sub> - *Poria* sp. Pers. ex S.F. Gray
 
 amelat di halepon <sub>Ifugao</sub> - *Daedalea ambigua* Berk.
@@ -123,7 +125,11 @@ aroy <sub>Lanao</sub> - mushroom? <sup><a href="#fpp">FPP</a></sup>
 
 baan <sub>xnn.</sub> 
 
+baen di balluta <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+
 baen di habutan <sub>Ifugao</sub> - *Mycena elegans* Fries
+
+baen di ulat <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
 baen di ulluli an natuudan <sub>Ifugao</sub> - *Mycena galopus* Pers.
 
@@ -161,7 +167,7 @@ balluta di kayiw gumabillog <sub>Ifugao</sub> - *Hydnum* sp. L. ex Fries
 
 balluta di lotbang <sub>Ifugao</sub> - *Pleurotus opuntiae* de Durian & Lev.; *P. pulmonaris* Fries; *P.* sp. (Fries) Kummer
 
-balluta di mangalituba <sub>Ifugao</sub> - *Guepinia spathularia* (Schw.) Fries
+balluta di mangalituba <sub>Ifugao</sub> - *Guepinia spathularia* (Schw.) Fries; *Polyporus* sp. (Mich.) Fries ex Fries
 
 balluta di podpod <sub>Ifugao</sub> - *Pleurotus canus* Quel.
 
@@ -189,9 +195,15 @@ batang an mangmangetet <sub>Ifugao</sub> - *Amauroderma* sp. Murr.
 
 batang an mihda <sub>Ifugao</sub> - *Polystictus versicolor* L. ex Fries
 
+batang an mumbolah <sub>Ifugao</sub> - *Polyporus sanguinus* L.
+
+batang an mumpaha <sub>Ifugao</sub> - *Polyporus occidentalis* Klotz; *Polyporus sanguinus* L.
+
 batang an na-ok-okep an adi mihda <sub>Ifugao</sub> - *Hydhum adustum* Schwz.
 
 batang an napagatan <sub>Ifugao</sub> - *Ganoderma* sp. P.A. Karsten
+
+batang di anablon <sub>Ifugao</sub> - *Polyporus megaloporus* Mont.
 
 batang di buluh <sub>Ifugao</sub> - *Polystictus affinis* Nees
 
@@ -199,9 +211,13 @@ batang di kagiw <sub>Ifugao</sub> - *Ganoderma* sp. P.A. Karsten
 
 batang di kayiw an namuol <sub>Ifugao</sub> - *Xylaria* sp. Hill. ex Grev.
 
-batang di labu <sub>Ifugao</sub> - *Stereum* sp. Pers.
+batang di kayiw an tumbal <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+
+batang di labu <sub>Ifugao</sub> - *Stereum* sp. Pers.; *Polyporus* sp. (Mich.) Fries ex Fries
 
 batang di tuwol <sub>Ifugao</sub> - *Polystictus versicolor* L. ex Fries
+
+batung an dunun <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
 beehive-shaped mushroom <sub>eng.</sub> - *Hexagonia apiaria* Pers.
 
@@ -322,6 +338,8 @@ gibgib ti tabangawon <sub>Ifugao</sub> - *Claudopus variabilis* (Pers.) Sm.
 giggig <sub>Ifugao</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
 gigi di baang an mangmangetet <sub>Ifugao</sub> - *Pleurotus* sp. (Fries) Kummer
+
+gigi di panyun <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
 gílgilittán <sub>xnn.</sub> - a type of poisonous mushroom that grows on cow dung 
 
@@ -517,9 +535,21 @@ kudkuding di makan <sub>Kankanaey</sub> - *Schizophyllum commune* Fries (Syn: *S
 
 kudsuan <sub>ilo.</sub> - *Boletus aurantiacus* Sing.
 
+kulot bigtalas <sub>Tasaday</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+
 kulot bokay <sub>MboBl</sub> - *Polystictus* sp. Fries
 
+kulot fala <sub>MboBl</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+
 kulot hala <sub>Tasaday</sub> - *Polystictus* sp. Fries
+
+kulot kofi <sub>Tboli</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+
+kulot koʼko <sub>Tasaday</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+
+kulot kuyuh <sub>Tboli</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+
+kulot ngafang <sub>MboBl</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
 kulot sigaf <sub>MboBl</sub> - *Polystictus* sp. Fries
 
@@ -634,6 +664,8 @@ loblobban di lahaan <sub>Ifugao</sub> - *Marasmius* sp. E.M. Fries
 loblobban di lampaw <sub>Ifugao</sub> - *Mycena immaculata* Fries
 
 loblobban di lamut di bilan <sub>Ifugao</sub> - *Guepinia spathularia* (Schw.) Fries
+
+loblobban di lamut di kayiw <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
 loblobban di linamʼa <sub>Ifugao</sub> - *Calvatia* sp. Fries
 
@@ -767,6 +799,8 @@ pugad nang ibon <sub>tl.</sub> - *Cyathus striatus* Hoffm.
 
 red-cupped mushroom <sub>eng.</sub> - *Peziza tricholoma* mont.
 
+red mushroom <sub>eng.</sub> - *Polyporus sanguinus* L.
+
 reishi <sub>eng.</sub> - *Ganoderma lucidum* (Leys) P.A. Karsten; *Ganoderma tsugae*
 
 salʼan <sub>Hanunóo</sub> - *Lentinus* sp. Fries
@@ -811,9 +845,15 @@ taingang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.)
 
 talinga <sub>*Bng*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-talinga batan <sub>Hanunóo</sub> - *Polystictus* sp. Fries
+talinga batan <sub>Hanunóo</sub> - *Polystictus* sp. Fries; *Polyporus* sp. (Mich.) Fries ex Fries
+
+talinga batan bayu-ad <sub>Hanunóo</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
 talinga batan bayudʼad <sub>Hanunóo</sub> - *Daedalea repanda* Pers.
+
+talinga batan lapinyad <sub>Hanunóo</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+
+talinga batan masiku-un <sub>Hanunóo</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
 talinga batan panlunaw <sub>Hanunóo</sub> - *Hexagonia* sp. Poll. ex Fries
 
@@ -913,11 +953,15 @@ ulat an mihda <sub>Ifugao</sub> - *Lentinus squarrosolus* Berk. & Curt.
 
 ulatan mumpaha <sub>Ifugao</sub> - *Poria* sp. Pers. ex S.F. Gray
 
-ulat an natuudan <sub>Ifugao</sub> - *Boletinus* sp. Kalchbr.; *Lentinus sajor-caju* Fries; *L. squarrosulus* Berk. & Curt.
+ulat an natuudan <sub>Ifugao</sub> - *Boletinus* sp. Kalchbr.; *Lentinus sajor-caju* Fries; *L. squarrosulus* Berk. & Curt.; *Polyporus arcularius* Fries
 
-ulat di anablon <sub>Ifugao</sub> - *Cymatoderma infundibuliformis* (Klotz) Fries
+ulat an ngumitit <sub>Ifugao</sub> - *Polyporus megaloporus* Mont.
+
+ulat di anablon <sub>Ifugao</sub> - *Cymatoderma infundibuliformis* (Klotz) Fries; *Polyporus* sp. (Mich.) Fries ex Fries
 
 ulat di anablon magaygayut <sub>Ifugao</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
+
+ulat di anlatip <sub>Ifugao</sub> - *Polyporus pinsitus* Fries
 
 ulat di atelba <sub>Ifugao</sub> - *Mycena hiemalis* Fries
 
@@ -941,11 +985,17 @@ ulat di lapidokan an natudan <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
 
 ulat di luta <sub>Ifugao</sub> - *Thelophora* sp. Ehrhart ex Fries
 
-ulat di palayun <sub>Ifugao</sub> - *Thelophora laciniata* Pers.
+ulat di mangalituba <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+
+ulat di palayun <sub>Ifugao</sub> - *Thelophora laciniata* Pers.; *Polyporus* sp. (Mich.) Fries ex Fries
 
 ulat di hinaphap <sub>Ifugao</sub> - *Cyathus striatus* Hoffm.
 
 ulat di talana <sub>Ifugao</sub> - *Stereum* sp. Pers.; *Cymatoderma infundibuliformis* (Klotz) Fries
+
+ulat di te-om <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+
+ulat di ulatton <sub>Ifugao</sub> - *Polyporus versicolor* (L.)
 
 ulat di waal <sub>Ifugao</sub> - *Hygrophorus vigineus*  Fries
 
