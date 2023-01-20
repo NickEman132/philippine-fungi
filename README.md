@@ -385,6 +385,8 @@ kabuting kulay asupre <sub>tl.</sub> - *Lepiota denundata* Rabenhorst
 
 kabuting lila <sub>tl.</sub> - *Lepiota lilacea* Bres.
 
+kabuting mahabang ugat <sub>tl.</sub> - *Oudemansiella radicata* (Fries) Sing. (Syn:*Collybia radicata* Relhan)
+
 kabuting malantahin <sub>tl.</sub> - *Pseudocoprinus disseminata* (Fries) Kuhn (Syn: *Psathyrella disseminata* Fries)
 
 kabuting manok <sub>tl.</sub>
@@ -652,6 +654,8 @@ loblobban napadangan <sub>Ifugao</sub> - *Lepiota cristata* (Fries) Quel; *L. li
 loblobban paddangan <sub>Ifugao</sub> - *Lepiota gracilenta* Kromb.
 
 loblobban umahu <sub>Ifugao</sub> - *Scleroderma verrucosum* Bull. ex Pers.
+
+long-rooted mushroom <sub>eng.</sub> - *Oudemansiella radicata* (Fries) Sing. (Syn:*Collybia radicata* Relhan)
 
 lumeng <sub>Ifugao</sub> - *Collybia* sp. (Fries) Staude
 
