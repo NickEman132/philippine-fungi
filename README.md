@@ -137,6 +137,12 @@ balikánaw <sub>xnn.</sub> - a type of edible white mushroom
 
 balikút <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
+balluta an iitang <sub>Ifugao</sub> - *Favolus europaeus* Fries
+
+balluta an mumpaha <sub>Ifugao</sub> - *Favolus* sp. (Beauv. ex Fries) Fries
+
+balluta an ulat di talanag <sub>Ifugao</sub> - - *Favolus europaeus* Fries
+
 balluta di bae <sub>Ifugao</sub> - *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.)
 
 balluta di bangngaan <sub>Ifugao</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
@@ -778,6 +784,8 @@ tayubu bang <sub>Mangyan Batangan</sub> - *Dictyophora* sp. Desv.
 tayubu-laban <sub>Hanunóo</sub> - *Marasmius* sp. E.M. Fries
 
 tayubu lapitak <sub>Hanunóo</sub> - *Pleurotus* sp. (Fries) Kummer
+
+tayubu uli an namuk <sub>Hanunóo</sub> - *Favolus* sp. (Beauv. ex Fries) Fries
 
 tengang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.); *Auricularia affinis* Lev.; *Auricularia delicata* Lloyd; *Auricularia polytricha* (Mont.) Sacc.; *Auricularia* spp. Bull. ex Merat
 
