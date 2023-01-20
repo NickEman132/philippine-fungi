@@ -91,7 +91,7 @@ amamakol <sub>hil.</sub> - *Volvaria* sp. Bres.; *Volvariella volvacea* (Bull. e
 
 amamakul <sub>Hanunóo</sub> - *Pholidota* sp. (E.M. Fries)
 
-amelat an mumpaha <sub>Ifugao</sub> - *Daedalea repanda*
+amelat an mumpaha <sub>Ifugao</sub> - *Daedalea repanda* Pers.
 
 amelat di ameleng <sub>Ifugao</sub> - *Poria* sp. Pers. ex S.F. Gray
 
@@ -201,6 +201,8 @@ batang di labu <sub>Ifugao</sub> - *Stereum* sp. Pers.
 
 batang di tuwol <sub>Ifugao</sub> - *Polystictus versicolor* L. ex Fries
 
+beehive-shaped mushroom <sub>eng.</sub> - *Hexagonia apiaria* Pers.
+
 bélak <sub>xnn.</sub> - a type of white toadstool <sup><a href="#3">[3]</a></sup>
 
 bell-shaped mushroom <sub>eng.</sub> - *Coprinus comatus* (Fries) S.F. Gray
@@ -212,6 +214,8 @@ bird's-nest fungi <sub>eng.</sub> - *Cyathus striatus* Hoffm.
 bituinglupaʼ <sub>tl.</sub> - *Geaster hygrometicus* Pers.
 
 black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+
+blood-red mushroom <sub>eng.</sub> - *Russula sanguinea* Fries
 
 bobbóo (bobbóon di mágan) <sub>xnn.</sub> - a type of small white toadstool <sup><a href="#3">[3]</a></sup>
 
@@ -315,6 +319,8 @@ gigi di baang an mangmangetet <sub>Ifugao</sub> - *Pleurotus* sp. (Fries) Kummer
 
 gílgilittán <sub>xnn.</sub> - a type of poisonous mushroom that grows on cow dung 
 
+gisgis salagang <sub>Mangyan Batangan</sub> - *Hexagonia* sp. Poll. ex Fries
+
 golgol an iyan di gando <sub>Ifugao</sub> - *Auricularia polytricha* (Mont.) Sacc.
 
 golgol an lumabuggut an umahig <sub>Ifugao</sub> - *Calvatia* sp. Fries
@@ -365,6 +371,10 @@ kabuting giniikan <sub>tl.</sub>
 
 kabuting higante <sub>tl.</sub> - *Collybia reineckeana* P. Henn.
 
+kabuting hugis abaniko <sub>tl.</sub> - *Trametes aspera* Jungh.
+
+kabuting hugis bahay bubuyog <sub>tl.</sub> - *Hexagonia apiaria* Pers.
+
 kabuting hugis kopa <sub>tl.</sub> - *Peziza postulata* (Hedwig) Pers.
 
 kabuting hugis payong <sub>tl.</sub> - *Lepiota* sp. (Pers.) S.F. Gray
@@ -382,6 +392,8 @@ kabuting kopang maputiʼputiʼ <sub>tl.</sub> - *Peziza vesiculosa* Fries
 kabuting kopang pula <sub>tl.</sub> - *Peziza tricholoma* Mont.
 
 kabuting kulay asupre <sub>tl.</sub> - *Lepiota denundata* Rabenhorst
+
+kabuting kulay dugoʼ <sub>tl.</sub> - *Russula sanguinea* Fries
 
 kabuting lila <sub>tl.</sub> - *Lepiota lilacea* Bres.
 
@@ -449,7 +461,9 @@ kalalupoy di halinghungon <sub>Ifugao</sub> - *Pleurotus canus* Quel.
 
 kalutiwas <sub>Tboli</sub> - *Daedalea* sp. Pers. ex Fries
 
-kamay nang patay <sub>tl.</sub> *Anthurus brownii* Mend.
+kamay nang patay <sub>tl.</sub> - *Anthurus brownii* Mend.
+
+kamelat an abibillog <sub>Ifugao</sub> - *Trametes corrugata* Pers.
 
 kamiyutan <sub>Samar-Leyte</sub> - *Lentinus sajor-caju*
 
@@ -591,11 +605,15 @@ loblobban di baginge <sub>Ifugao</sub> - *Hebeloma crustiliformis* Fries
 
 loblobban di banginge <sub>Ifugao</sub> - *Conocybe tenera* (Fries) Kuhn
 
+loblobban di bilanun an napadangan <sub>Ifugao</sub> - *Pluteolus copprohilus* Peck
+
 loblobban di gando <sub>Ifugao</sub> - *Stropharia semiglobata* (Fries) Quel
 
 loblobban di gudah di kayiw <sub>Ifugao</sub> - *Hypholoma appendiculatum* Bull.
 
 loblobban di gulun <sub>Ifugao</sub> - *Mycena octites* Fries
+
+loblobban di gulun an oongal <sub>Ifugao</sub> - *Pluteolus copprohilus* Peck
 
 loblobban di halo <sub>Ifugao</sub> - *Collybia* sp. (Fries) Staude
 
@@ -621,7 +639,9 @@ loblobban di oldap <sub>Ifugao</sub> - *Geaster* sp. Mich. ex Fries
 
 loblobban di page <sub>Ifugao</sub> - *Clitocybe multiceps* Peck
 
-loblobban di palayun <sub>Ifugao</sub> *Lactarius pallidus* Fries
+loblobban di palayun <sub>Ifugao</sub> - *Lactarius pallidus* Fries
+
+loblobban di palayun an mihda <sub>Ifugao</sub> - *Russula* sp. Pers. ex S.F. Gray
 
 loblobban di palunge an oongal <sub>Ifugao</sub> - *Pleurotus coprophilus* Peck
 
@@ -640,6 +660,8 @@ loblobban e potelo <sub>Ifugao</sub> - *Scleroderma* sp. Pers.
 loblobban iitang an mumbola <sub>Ifugao</sub> - *Clavaria fragilis* Fries
 
 loblobban iitang an mumbolah <sub>Ifugao</sub> - *Mycena elegans* Fries
+
+loblobban mumbolah <sub>Ifugao</sub> - *Russula nigricans* Fries
 
 loblobban mumpaha <sub>Ifugao</sub> - *Pleurotus* sp. (Fries) Kummer
 
@@ -783,6 +805,8 @@ talinga batan <sub>Hanunóo</sub> - *Polystictus* sp. Fries
 
 talinga batan bayudʼad <sub>Hanunóo</sub> - *Daedalea repanda* Pers.
 
+talinga batan panlunaw <sub>Hanunóo</sub> - *Hexagonia* sp. Poll. ex Fries
+
 talingabátang <sub>Hanunóo</sub> - ear-log
 
 talinga nang batang <sub>*BisC*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
@@ -827,6 +851,8 @@ tigbos <sub>Bikol</sub> - mushroom
 
 tiger mushroom <sub>eng.</sub> - *Lepiota cristata* (Fries) Quel.
 
+tiwtiw diriit <sub>Hanunóo</sub> - *Typhula* sp. (Pers.) Fries
+
 tiwtiw saraka <sub>Hanunóo</sub> - *Xylaria* sp. Hill. ex Grev.
 
 tobo <sub>Bikol</sub> - mushroom
@@ -853,7 +879,7 @@ tungang-basin
 
 tuputupu <sub>Ivatan</sub>
 
-udalu <sub>Mangyan Batangan</sub> - *Daedalea ambigua*
+udalu <sub>Mangyan Batangan</sub> - *Daedalea ambigua* Berk.; *Trametes* sp. Fries
 
 uddudin di amu <sub>Ifugao</sub> - *Mycena vulgaris* Fries
 
