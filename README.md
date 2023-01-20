@@ -93,6 +93,8 @@ amamakul <sub>Hanunóo</sub> - *Pholidota* sp. (E.M. Fries)
 
 amelat an mumpaha <sub>Ifugao</sub> - *Daedalea repanda*
 
+amelat di ameleng <sub>Ifugao</sub> - *Poria* sp. Pers. ex S.F. Gray
+
 amelat di halepon <sub>Ifugao</sub> - *Daedalea ambigua* Berk.
 
 amidalán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
@@ -831,7 +833,11 @@ ulapting <sub>Samar-Leyte</sub> - mushroom
 
 ulat an mihda <sub>Ifugao</sub> - *Lentinus squarrosolus* Berk. & Curt.
 
+ulatan mumpaha <sub>Ifugao</sub> - *Poria* sp. Pers. ex S.F. Gray
+
 ulat an natuudan <sub>Ifugao</sub> - *Boletinus* sp. Kalchbr.; *Lentinus sajor-caju* Fries; *L. squarrosulus* Berk. & Curt.
+
+ulat di anablon <sub>Ifugao</sub> - *Cymatoderma infundibuliformis* (Klotz) Fries
 
 ulat di anablon magaygayut <sub>Ifugao</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
 
@@ -855,7 +861,7 @@ ulat di lapidokan an natudan <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
 
 ulat di hinaphap <sub>Ifugao</sub> - *Cyathus striatus* Hoffm.
 
-ulat di talana <sub>Ifugao</sub> - *Stereum* sp. Pers.
+ulat di talana <sub>Ifugao</sub> - *Stereum* sp. Pers.; *Cymatoderma infundibuliformis* (Klotz) Fries
 
 ulat di waal <sub>Ifugao</sub> - *Hygrophorus vigineus*  Fries
 
