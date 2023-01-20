@@ -235,6 +235,8 @@ carabao dung mushroom <sub>eng.</sub> - *Copelandia papilonacea* (Bull.) Bres.
 
 chongo <sub>Bontok</sub> - *Agaricus campestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
 
+cup-like mushroom <sub>eng.</sub> - *Peziza postulata* (Hedwig) Pers.
+
 dadaakan <sub>Sambali</sub> - mushroom
 
 dakdakan <sub>Sambali</sub> - mushroom <sup><a href="#fpp">FPP</a></sup>, also a banana variant
@@ -325,6 +327,8 @@ kabuteng embudo <sub>tl.</sub> - *Clitocybe phyllophylla* Fries
 
 kabuting giniikan <sub>tl.</sub>
 
+kabuting hugis kopa <sub>tl.</sub> - *Peziza postulata* (Hedwig) Pers.
+
 kabuting hugis payong <sub>tl.</sub> - *Lepiota* sp. (Pers.) S.F. Gray
 
 kabuting kalabaw na may singsing <sub>tl.</sub> - *Stropharia semiglobata* (Fries) Quel.
@@ -332,6 +336,10 @@ kabuting kalabaw na may singsing <sub>tl.</sub> - *Stropharia semiglobata* (Frie
 kabuting kalawangin <sub>tl.</sub> - *Cortinarius collisteus* Fries
 
 kabuting kampanilya <sub>tl.</sub> - *Coprinus comatus* (Fries) S.F. Gray
+
+kabuting kopang maputiʼputiʼ <sub>tl.</sub> - *Peziza vesiculosa* Fries
+
+kabuting kopang pula <sub>tl.</sub> - *Peziza tricholoma* Mont.
 
 kabuting kulay asupre <sub>tl.</sub> - *Lepiota denundata* Rabenhorst
 
@@ -499,6 +507,8 @@ ligbus <sub>*Bagobo*</sub> - *Coprinus concolor* Copel.
 
 ligfus <sub>*Mangyan Batangan*</sub> - *Agaricus campestris* (L. ex Fries)
 
+light-colored cup mushroom <sub>eng.</sub> - *Peziza vesiculosa* Fries
+
 lilac-colored mushroom <sub>eng.</sub> - *Panus rudis* Fries
 
 lilac mushroom <sub>eng.</sub> - *Lepiota lilacea* Bres.
@@ -632,6 +642,8 @@ poisonous mushroom <sub>eng.</sub> - *Amanita manillensis* Mend. & Leus-Palo
 pugad nang ibon <sub>tl.</sub> - *Cyathus striatus* Hoffm.
 
 *quSuŋ <sub>Proto-Austronesian</sub> - mushroom
+
+red-cupped mushroom <sub>eng.</sub> - *Peziza tricholoma* mont.
 
 reishi <sub>eng.</sub> - *Ganoderma lucidum* (Leys) P.A. Karsten; *Ganoderma tsugae*
 
