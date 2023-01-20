@@ -301,6 +301,8 @@ guddug <sub>Polystictus parpagamenus</sub> Fries
 
 gwong <sub>Tboli</sub> *Polystictus* sp. Fries
 
+habutan <sub>Ifugao</sub> - *Marasmius erythropus* Fries
+
 honey-bee mushroom <sub>eng.</sub> - *Armellaria mullea* (Fries) Karst.
 
 ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
@@ -358,6 +360,8 @@ kabuting may pileges <sub>tl.</sub> - *Coprinus plicatilis* (Fries) Fries
 kabuting may sanga sanga <sub>tl.</sub> - *Clavaria zippelii* Lev. (syn: Ramaria zippelii (Lev.) Cor.)
 
 kabuting may singsing <sub>tl.</sub> - *Lepiota cepaestipes* Fries
+
+kabuting mukhang balat <sub>tl.</sub> - *Marasmius haematocephalus* Mont.
 
 kabuting mukhang tinigkal <sub>tl.</sub> - *Boletus castaneus* Bull (Syn: Gyroporous castaneus Kull.)
 
@@ -503,6 +507,8 @@ langgot-langgot <sub>hil.</sub> - *Stereum* sp. Pers.
 
 laplapayag <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
+leather-colored mushroom <sub>eng.</sub> - *Marasmius haematocephalus* Mont.
+
 ligat-ligat <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 ligbos <sub>ceb., Samar-Leyte</sub> - *Termitomyces cartilagineus* Heim.
@@ -543,6 +549,8 @@ loblobban di inado <sub>Ifugao</sub> - *Lycoperdon pyriforme* Schaeff.
 
 loblobban di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius collisteus* Fries
 
+loblobban di lahaan <sub>Ifugao</sub> - *Marasmius* sp. E.M. Fries
+
 loblobban di lampaw <sub>Ifugao</sub> - *Mycena immaculata* Fries
 
 loblobban di lamut di bilan <sub>Ifugao</sub> - *Guepinia spathularia* (Schw.) Fries
@@ -550,6 +558,8 @@ loblobban di lamut di bilan <sub>Ifugao</sub> - *Guepinia spathularia* (Schw.) F
 loblobban di linamʼa <sub>Ifugao</sub> - *Calvatia* sp. Fries
 
 loblobban di lumuy <sub>Ifugao</sub> - *Mycena epipterygius*Fries
+
+loblobban di lumuy an kayiw <sub>Ifugai</sub> - *Marasmius rotula* Fries
 
 loblobban di natunut an bitan <sub>Ifugao</sub> - *Clavaria zippelii* Lev. (syn: Ramaria zippelii (Lev.) Cor.)
 
@@ -723,6 +733,8 @@ tayubu-banbanay <sub>Hanunóo</sub> - *Panus* sp. Fries
 
 tayubu bang <sub>Mangyan Batangan</sub> - *Dictyophora* sp. Desv.
 
+tayubu-laban <sub>Hanunóo</sub> - *Marasmius* sp. E.M. Fries
+
 tengang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.); *Auricularia affinis* Lev.; *Auricularia delicata* Lloyd; *Auricularia polytricha* (Mont.) Sacc.; *Auricularia* spp. Bull. ex Merat
 
 tengang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.) Pers.
@@ -746,6 +758,10 @@ tubo <sub>Bikol</sub> - mushroom
 tubo <sub>tl.</sub> - *Scleroderma geaster* Fries
 
 tubo-tubo <sub>Samar-Leyte</sub> - *Lentinus sajor-caju*
+
+tugud - <sub>Batangan, Mangyan</sub> - *Marasmius* sp. E.M. Fries
+
+tukukan <sub>Ifugao</sub> - *Marasmius nigripes* Schwz.
 
 tuli-amu danlakan <sub>Hanunóo</sub> - *Auricularia* spp. Bull. ex Merat
 
