@@ -65,6 +65,8 @@ abkálaw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]
 
 adálan <sub>xnn.</sub> - a type of edible, whitish gray mushroom <sup><a href="#3">[3]</a></sup>
 
+adalan <sub>ilo.</sub> - *Tricholoma* sp. (Fries) Staude
+
 adán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 agubʼub <sub>ceb.</sub> - mushroom
@@ -269,6 +271,8 @@ carabao dung mushroom <sub>eng.</sub> - *Copelandia papilonacea* (Bull.) Bres.
 
 chongo <sub>Bontok</sub> - *Agaricus campestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
 
+combab <sub>ilo.</sub> - *Tricholoma matsutake* (S. Ito & Mai) Sing.
+
 cup-like mushroom <sub>eng.</sub> - *Peziza postulata* (Hedwig) Pers.
 
 dadaakan <sub>Sambali</sub> - mushroom
@@ -310,6 +314,8 @@ ganga udalo <sub>Mangyan Batangan</sub> - *Daedalea repanda* Pers.
 gatad <sub>Mangyan Batangan</sub> - *Gloeoporus* sp. Mont.
 
 gellobo bau manmangetet <sub>Ifugao</sub> - *Hydnum* sp. L. ex Fries
+
+giant mushroom <sub>eng.</sub> - *Tricholoma* sp. (Fries) Staude
 
 gibgib ti tabangawon <sub>Ifugao</sub> - *Claudopus variabilis* (Pers.) Sm.
 
@@ -369,7 +375,7 @@ kabuteng embudo <sub>tl.</sub> - *Clitocybe phyllophylla* Fries
 
 kabuting giniikan <sub>tl.</sub>
 
-kabuting higante <sub>tl.</sub> - *Collybia reineckeana* P. Henn.
+kabuting higante <sub>tl.</sub> - *Collybia reineckeana* P. Henn.; *Tricholoma* sp. (Fries) Staude
 
 kabuting hugis abaniko <sub>tl.</sub> - *Trametes aspera* Jungh.
 
@@ -396,6 +402,8 @@ kabuting kulay asupre <sub>tl.</sub> - *Lepiota denundata* Rabenhorst
 kabuting kulay dugoʼ <sub>tl.</sub> - *Russula sanguinea* Fries
 
 kabuting lila <sub>tl.</sub> - *Lepiota lilacea* Bres.
+
+kabuting madaling magbago ng ayos - *Tricholoma panacofolum* Fries
 
 kabuting mahabang ugat <sub>tl.</sub> - *Oudemansiella radicata* (Fries) Sing. (Syn:*Collybia radicata* Relhan)
 
@@ -651,6 +659,8 @@ loblobban di tawayan <sub>Ifugao</sub> - *Clavaria cinerea* Fries
 
 loblobban di tubun di palayun <sub>Ifugao</sub> - *Cortinarius glaucopus* Fries
 
+loblobban di tungod di kayiw an e-innunig <sub>Ifugao</sub> - *Pholidota adiposa* Fries
+
 loblobban di unah <sub>Ifugao</sub> - *Collybia confluens* Pers.
 
 loblobban e-innunig an iitang <sub>Ifugao</sub> - *Mycena immaculata* Fries
@@ -831,6 +841,8 @@ taybo <sub>tl.</sub> - mushroom; *Schizophyllum* sp. Fries ex Fries
 
 taybo daugdog <sub>Tausug</sub> - *Collybia* sp. (Fries) Staude
 
+taybo manok <sub>Tausug</sub> - *Tricholoma* sp. (Fries) Staude
+
 taybo taikabaw <sub>Tausug</sub> - *Chlorophyllum* sp. Mass.
 
 tayubu-banbanay <sub>Hanunóo</sub> - *Panus* sp. Fries
@@ -913,6 +925,8 @@ ulat di balinghingon <sub>Ifugao</sub> - *Hymenochaete* sp. J.H. Lev.
 
 ulat di butgi <sub>Ifugao</sub> - *Polystictus affinis* Nees
 
+ulat di kayiw <sub>Ifugao</sub> - *Thelophora* sp. Ehrhart ex Fries
+
 ulat di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius cinnamomeus* Fries
 
 ulat di lahaan <sub>Ifugao</sub> - *Mycena hiemalis* Fries
@@ -924,6 +938,10 @@ ulat di lamut di kayiw an uungal <sub>Ifugao</sub> - *Lentinus exilis*
 ulat di lapidokan <sub>Ifugao</sub> - *Clitocybe cyathiformis* Fries
 
 ulat di lapidokan an natudan <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
+
+ulat di luta <sub>Ifugao</sub> - *Thelophora* sp. Ehrhart ex Fries
+
+ulat di palayun <sub>Ifugao</sub> - *Thelophora laciniata* Pers.
 
 ulat di hinaphap <sub>Ifugao</sub> - *Cyathus striatus* Hoffm.
 
