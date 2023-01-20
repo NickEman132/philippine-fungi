@@ -413,6 +413,8 @@ karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 
 kaupas 
 
+kawkaw manilong <sub>Agta</sub> - *Termitomyces cartilagineus* Heim.
+
 kayhom di kayiw <sub>Ifugao</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
 kimpat-ton <sub>Gaddang</sub> - *Auricularia* spp. Bull. ex Merat
@@ -493,6 +495,8 @@ kurkur <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. 
 
 kuwát-aníto <sub>*Pinatubo Agta*</sub> - non-edible mushroom; ear-fungi of the spirits
 
+kuyog <sub>tl.</sub> - *Termitomyces cartilagineus* Heim.
+
 kwat <sub>Sambali</sub> - mushroom 
 
 langgot-langgot <sub>hil.</sub> - *Stereum* sp. Pers.
@@ -501,7 +505,7 @@ laplapayag <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: 
 
 ligat-ligat <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-ligbos
+ligbos <sub>ceb., Samar-Leyte</sub> - *Termitomyces cartilagineus* Heim.
 
 ligbus <sub>*Bagobo*</sub> - *Coprinus concolor* Copel.
 
@@ -585,9 +589,11 @@ lupik <sub>Hanunóo</sub> - *Geaster sp.*
 
 luyud <sub>Tausug</sub> - mushroom
 
+maapon <sub>tl.</sub> - *Termitomyces striatus* (Beeli) Heim.
+
 malakmak <sub>Bikol Central</sub> - fungus
 
-mamarang
+mamarang <sub>tl.</sub> - *Termitomyces cartilagineus* Heim.
 
 makol <sub>hil.</sub>
 
@@ -797,11 +803,15 @@ ulaping
 
 unodʼunod
 
+uong bunton <sub>ilo.</sub> - *Termitomyces eurhizus* (Berk.) Heim.
+
 uong dalem <sub>ilo.</sub> - *Boletus edulis* Bull. ex Fries
 
 uong galis <sub>ilo.</sub> - *Boletus elegans* Schum. ex Fries
 
 uong kurad <sub>ilo.</sub> - *Strobilomyces strobilaceous* (Scop. ex Fries) Berk.
+
+uong pagay <sub>ilo.</sub> - *Termitomyces cartilagineus* Heim.
 
 uong tinta <sub>ilo.</sub> - *Boletus tomentosus* Sing.
 
