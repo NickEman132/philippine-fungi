@@ -635,7 +635,7 @@ loblobban adi mihda <sub>Ifugao</sub> - *Entoloma procerum* Stevens.; *Mycena co
 
 loblobban an mumbolah <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
 
-loblobban di apatapat <sub>Ifugao</sub> - *Cantarellus aureus*  Berk. & Curt.
+loblobban di apatpat <sub>Ifugao</sub> - *Cantarellus aureus*  Berk. & Curt.
 
 loblobban di apgod <sub>Ifugao</sub> - *Clitocybe candicans* Pers.
 
