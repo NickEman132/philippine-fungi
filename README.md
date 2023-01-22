@@ -723,6 +723,8 @@ long-rooted mushroom <sub>eng.</sub> - *Oudemansiella radicata* (Fries) Sing. (S
 
 lumeng <sub>Ifugao</sub> - *Collybia* sp. (Fries) Staude
 
+lumsek <sub>???</sub> - *Hygrophorus ???*
+
 lupik <sub>Hanunóo</sub> - *Geaster sp.*
 
 luyud <sub>Tausug</sub> - mushroom
