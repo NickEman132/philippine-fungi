@@ -273,6 +273,8 @@ bunút <sub>xnn.</sub> - a type of edible brownish mushroom <sup><a href="#3">[3
 
 bungbungían <sub>xnn.</sub> - a type of white toadstool <sup><a href="#3">[3]</a></sup>
 
+bu-ow <sub>???</sub> - Cordilleran truffle
+
 busáyang <sub>xnn.</sub> - a type of edible reddish mushroom <sup><a href="#3">[3]</a></sup>
 
 buttatáy <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
@@ -305,9 +307,13 @@ damminul <sub>Ifugao</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus
 
 damminul di lotpeng <sub>Ifugao</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus ulmarius* Fries)
 
+dayami <sub>???</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing. (Syn: *Volvaria esculenta* Bres.)
+
 deadly agaric <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
 
 deadly amanita <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
+
+demonyo *Coprinus cinereus*
 
 dolongan sang kahoy <sub>*Panay*</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. polytricha* (Mont.) Sacc.
 
@@ -1043,13 +1049,8 @@ apʼap 
 
 batu kulat <sub>Iban</sub> - mushroom stone; noxious talisman
 
-kidlat
-
 lumuy di kayiw <sub>Ifugao</sub> - *Pseudocyphellaria* sp. Vainio (Lichen)
 
-sabung
-
-singsing
 
 ## sources
 <pre>
