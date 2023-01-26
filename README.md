@@ -1041,7 +1041,7 @@ yellow foetid mushroom - *Phallus tenuis* Lloyd
 
 agariko
 
-alipunga <sub>tl.</sub> - *tinea pedis* (Disease)
+alipunga <sub>tl.</sub> - *tinea pedis* (Disease); *Trichophyton rubrum* (Castell.) Sabour.
 
 anʼan
 
