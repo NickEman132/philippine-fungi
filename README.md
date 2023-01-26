@@ -655,6 +655,8 @@ loblobban di gulun an oongal <sub>Ifugao</sub> - *Pluteolus copprohilus* Peck
 
 loblobban di halo <sub>Ifugao</sub> - *Collybia* sp. (Fries) Staude
 
+loblobban di huhuyung <sub>Ifugao</sub> - *Cortinarius* sp. S.F. Gray
+
 loblobban di inado <sub>Ifugao</sub> - *Lycoperdon pyriforme* Schaeff.
 
 loblobban di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius collisteus* Fries
@@ -773,7 +775,7 @@ pandong ahas
 
 panther amanita <sub>eng.</sub> - *Amanita pantherina* (DC.) Fries
 
-parapara <sub>Iloko</sub> - *Calvatia lilacina* Fries; *Lycoperdon pyriform* Schaeff.; *Scleroderma geaster* Fries
+parapara <sub>Iloko</sub> - *Bovista pila* Berk. & Curt.; *Calvatia lilacina* Fries; *Lycoperdon pyriform* Schaeff.; *Scleroderma geaster* Fries
 
 payong ahas - <sub>tl.</sub> - *Lepiota chlorospora* Copel.
 
@@ -909,9 +911,9 @@ tiwtiw diriit <sub>Hanunóo</sub> - *Typhula* sp. (Pers.) Fries
 
 tiwtiw saraka <sub>Hanunóo</sub> - *Xylaria* sp. Hill. ex Grev.
 
-tobo <sub>Bikol</sub> - mushroom
+tobo <sub>Bikol</sub> - mushroo
 
-tombong <sub>tl.</sub> - *Calvatia lilacina* Fries; *Lycoperdon pyriforme* Schaeff.
+tombong <sub>tl.</sub> - *Bovista pila* Berk. & Curt.; *Calvatia lilacina* Fries; *Lycoperdon pyriforme* Schaeff.
 
 tough hairy mushroom <sub>eng.</sub> - *Lentinus fusco-purpureus*
 
