@@ -103,7 +103,7 @@ amelat di halepon <sub>Ifugao</sub> - *Daedalea ambigua* Berk.
 
 amidalán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-anandap <sub>Iloko</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus ulmarius* Fries); *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.); *Pleurotus canus* Quel.; *P. cornucopiae* (Pers.) Rol.; *P. flabellatus* (Berk. & Br.) Sacc.; *P. opuntiae* de Durian & Lev.; *P. ostreatus* (Jacq. ex Fries) Kummer; *P. pulmonaris* Fries; *P.* sp. (Fries) Kummer
+anandap <sub>ilo.</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus ulmarius* Fries); *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.); *Pleurotus canus* Quel.; *P. cornucopiae* (Pers.) Rol.; *P. flabellatus* (Berk. & Br.) Sacc.; *P. opuntiae* de Durian & Lev.; *P. ostreatus* (Jacq. ex Fries) Kummer; *P. pulmonaris* Fries; *P.* sp. (Fries) Kummer
 
 anglóan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -239,7 +239,7 @@ bobbóo (bobbóon di mágan) <sub>xnn.</sub> - a type of small white toadstool <
 
 bobbóong <sub>xnn.</sub> - = *bobbóo* <sup><a href="#3">[3]</a></sup>
 
-bola-bola <sub>Iloko</sub> - *Calvatia lilacina* Fries
+bola-bola <sub>ilo.</sub> - *Calvatia lilacina* Fries
 
 bong <sub>xnn.</sub> - a type of edible grayish white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -531,11 +531,11 @@ kuat
 
 kuddug kan natuggudan <sub>Ifugao</sub> - *Lentinus squarrosulus* Berk. & Curt.
 
-kudet <sub>Iloko</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+kudet <sub>ilo.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
-kudit-det <sub>Iloko</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+kudit-det <sub>ilo.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
-kuditdet <sub>Iloko</sub> - *Lentinus sajor-caju*
+kuditdet <sub>ilo.</sub> - *Lentinus sajor-caju*
 
 kudkuding di makan <sub>Kankanaey</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
@@ -567,7 +567,7 @@ kuhong <sub>hil.</sub> - mushroom
 
 *kulaC <sub>Proto Austronesian</sub> - bracket fungus, *Polyporus* spp. (Mich.) Fries ex Fries
 
-kulat
+kulat <sub>mul.</sub> - bracket fungus; mushroom
 
 kulat kulat <sub>tl.</sub> - *Lentinus* sp. Fries
 
@@ -769,9 +769,9 @@ oong nga repolyo <sub>???</sub> - *Clavaria crispa* Wulf.
 
 oong ti bunton <sub>ilo.</sub> - *Collybia albuminosa* (Bres.) Petch.
 
-oong ti takki nuang <sub>Iloko</sub> - *Lepiota chlorospora* Copel.
+oong ti takki nuang <sub>ilo.</sub> - *Lepiota chlorospora* Copel.
 
-oong ti uleg <sub>Iloko</sub> - *Dictyophora duplicata* (Bosc.) E. Fisch.; *Dictyophora phalloides* Desv.; *Phallus tenuis* Lloyd
+oong ti uleg <sub>ilo.</sub> - *Dictyophora duplicata* (Bosc.) E. Fisch.; *Dictyophora phalloides* Desv.; *Phallus tenuis* Lloyd
 
 owong 
 
@@ -781,7 +781,7 @@ pandong ahas
 
 panther amanita <sub>eng.</sub> - *Amanita pantherina* (DC.) Fries
 
-parapara <sub>Iloko</sub> - *Bovista pila* Berk. & Curt.; *Calvatia lilacina* Fries; *Lycoperdon pyriform* Schaeff.; *Scleroderma geaster* Fries
+parapara <sub>ilo.</sub> - *Bovista pila* Berk. & Curt.; *Calvatia lilacina* Fries; *Lycoperdon pyriform* Schaeff.; *Scleroderma geaster* Fries
 
 payong ahas - <sub>tl.</sub> - *Lepiota chlorospora* Copel.
 
