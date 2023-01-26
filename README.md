@@ -801,6 +801,8 @@ pugad nang ibon <sub>tl.</sub> - *Cyathus striatus* Hoffm.
 
 *quSuŋ <sub>Proto-Austronesian</sub> - mushroom
 
+rámag <sub>???</sub> - bioluminescent mushroom
+
 red-cupped mushroom <sub>eng.</sub> - *Peziza tricholoma* mont.
 
 red mushroom <sub>eng.</sub> - *Polyporus sanguinus* L.
@@ -824,6 +826,8 @@ shell mushroom <sub>eng.</sub> - *Daedalea flavida* Lev.
 sikdot <sub>tl.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
 sikdut <sub>Hanunóo</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
+sukoy <sub>Asi</sub>
 
 sulphur-colored mushroom <sub>eng.</sub> - *Lepiota denundata* Rabenhorst
 
@@ -862,6 +866,8 @@ talinga batan masiku-un <sub>Hanunóo</sub> - *Polyporus* sp. (Mich.) Fries ex F
 talinga batan panlunaw <sub>Hanunóo</sub> - *Hexagonia* sp. Poll. ex Fries
 
 talingabátang <sub>Hanunóo</sub> - ear-log
+
+talinga et ambo <sub>Asi</sub> - rat ear
 
 talinga nang batang <sub>*BisC*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
