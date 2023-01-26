@@ -1049,8 +1049,11 @@ apʼap 
 
 batu kulat <sub>Iban</sub> - mushroom stone; noxious talisman
 
+lebadura <sub>tl.</sub> - yeast
+
 lumuy di kayiw <sub>Ifugao</sub> - *Pseudocyphellaria* sp. Vainio (Lichen)
 
+pampaalsa <sub>tl.</sub> - yeast
 
 ## sources
 <pre>
