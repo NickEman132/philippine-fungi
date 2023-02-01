@@ -117,7 +117,7 @@ apáwan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]<
 
 apaya <sub>tl.</sub> - bread mold
 
-apiáng <sub>xnn.</sub> - a type of edible red mushroom <sup><a href="#3">[3]</a></sup>
+apiáng <sub>xnn.</sub> - a type of edible red mushroom <sup><a href="#3">[3]</a></sup> (cf. *Amanita sect. Caesareae stirps Hemibapha*)
 
 aroy <sub>Lanao</sub> - mushroom? <sup><a href="#fpp">FPP</a></sup>
 
@@ -251,7 +251,7 @@ bong di tallábung <sub>xnn.</sub> - a type of edible white mushroom <sup><a hre
 
 bonghalla <sub>ifugao</sub> - *Collybia* sp. (Fries) Staude
 
-bóo <sub>xnn.</sub> - a type of edible, round, white mushroom <sup><a href="#3">[3]</a></sup>
+bóo <sub>xnn.</sub> - a type of edible, round, white mushroom <sup><a href="#3">[3]</a></sup> (cf. *Scleroderma* sp.)
 
 bóo di núang <sub>xnn.</sub> - a type of mushroom bigger than *bóo*, but can't be eaten raw <sup><a href="#3">[3]</a></sup>
 
@@ -283,7 +283,7 @@ butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
 button mushroom <sub>eng.</sub> - *Agaricus bisporus* (Lange) Sing.
 
-cabbage mushroom <sub>eng.</sub> - *Clavaria crispa* Wulf.
+cabbage mushroom <sub>eng.</sub> - *Sparassis crispa* Wulf.
 
 carabao dung mushroom <sub>eng.</sub> - *Copelandia papilonacea* (Bull.) Bres.
 
@@ -765,7 +765,7 @@ oong na pongol <sub>pag.</sub> - *Collybia albuminosa* (Bres.) Petch.
 
 oong na tai dueg <sub>pag.</sub> - *Lepiota chlorospora* Copel.
 
-oong nga repolyo <sub>???</sub> - *Clavaria crispa* Wulf.
+oong nga repolyo <sub>???</sub> - *Sparassis crispa* Wulf.
 
 oong ti bunton <sub>ilo.</sub> - *Collybia albuminosa* (Bres.) Petch.
 
