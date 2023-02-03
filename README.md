@@ -317,7 +317,9 @@ demonyo *Coprinus cinereus*
 
 dolongan sang kahoy <sub>*Panay*</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. polytricha* (Mont.) Sacc.
 
-earth star <sub>eng.</sub> - *Geaster hygrometicus* Pers.
+earth star <sub>eng.</sub> - *Geastrum hygrometicus* Pers.
+
+fantutung <sub>Mangyan Batangan</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
 
 funnel shaped mushroom <sub>eng.</sub> - *Clitocybe phyllophylla* Fries
 
@@ -351,6 +353,8 @@ gílgilittán <sub>xnn.</sub> - a type of poisonous mushroom that grows on cow d
 
 gisgis salagang <sub>Mangyan Batangan</sub> - *Hexagonia* sp. Poll. ex Fries
 
+golgolan <sub>Ifugao</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
+
 golgol an iyan di gando <sub>Ifugao</sub> - *Auricularia polytricha* (Mont.) Sacc.
 
 golgol an lumabuggut an umahig <sub>Ifugao</sub> - *Calvatia* sp. Fries
@@ -359,7 +363,11 @@ golgol an lumamut an umadap <sub>Ifugao</sub> - *Lycoperdon* sp. Tourn.
 
 golgol an mihda <sub>Ifugao</sub> - *Corticium* sp. Pers. ex Gray
 
+golgol an umadap <sub>Ifugao</sub> - *Grandinia* sp. Fries
+
 golgol di anablon <sub>Ifugao</sub> - *Auricularia delicata* Lloyd
+
+golgol di ehet <sub>Ifugao</sub> - *Grandinia* sp. Fries
 
 golgol di kayiw <sub>Ifugao</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
@@ -427,6 +435,8 @@ kabuting kulay dugoʼ <sub>tl.</sub> - *Russula sanguinea* Fries
 
 kabuting lila <sub>tl.</sub> - *Lepiota lilacea* Bres.
 
+kabuting mabilog at matigas <sub>tl.</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
+
 kabuting madaling magbago ng ayos - *Tricholoma panacofolum* Fries
 
 kabuting mahabang ugat <sub>tl.</sub> - *Oudemansiella radicata* (Fries) Sing. (Syn:*Collybia radicata* Relhan)
@@ -436,6 +446,8 @@ kabuting malantahin <sub>tl.</sub> - *Pseudocoprinus disseminata* (Fries) Kuhn (
 kabuting manok <sub>tl.</sub>
 
 kabuting maitim nadaliriʼ <sub>tl.</sub> - *Xylaria pistillaris* Lloyd
+
+kabuting may mahabang balahibo <sub>tl.</sub> - *Hericium erinaceum* (Fries) Pers.
 
 kabuting may pandong <sub>tl.</sub> - *Dictyophora duplicata* (Bosc.) E. Fisch.; *Dictyophora phalloides* Desv.; *Phallus merulinus* Berk. (Syn: *Clautriavia merulina* Lloyd)
 
@@ -697,6 +709,8 @@ loblobban di talugtug <sub>Ifugao</sub> - *Mycena galopus* Pers.
 
 loblobban di tawayan <sub>Ifugao</sub> - *Clavaria cinerea* Fries
 
+loblobban di tibbang <sub>Ifugao</sub> - *Galera hyplorum* Fries
+
 loblobban di tubun di palayun <sub>Ifugao</sub> - *Cortinarius glaucopus* Fries
 
 loblobban di tungod di kayiw an e-innunig <sub>Ifugao</sub> - *Pholidota adiposa* Fries
@@ -744,6 +758,8 @@ malaking alitaptap - *Pleurotus ostreatus* (Jacq. ex Fries)
 malakmak <sub>Bikol Central</sub> - fungus
 
 mamarang <sub>tl.</sub> - *Collybia* sp. (Fries) Staude; *Termitomyces cartilagineus* Heim.
+
+mangmangetet <sub>Ifugao</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
 
 makol <sub>hil.</sub>
 
@@ -845,7 +861,9 @@ tabyak <sub>Hanunóo</sub> - *Pleurotus* sp. (Fries) Kummer
 
 tabyok - -
 
-tabyus  <sub>Hanunóo</sub> - *Lentinus* sp. Fries
+tabyus <sub>Hanunóo</sub> - *Lentinus* sp. Fries
+
+taganlit <sub>Hanunóo</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
 
 tagulamín <sub>tl.</sub> - mildew; mold (especially that formed on dirty clothes left unwashed for a long time)
 
@@ -900,6 +918,8 @@ taybo daugdog <sub>Tausug</sub> - *Collybia* sp. (Fries) Staude
 taybo manok <sub>Tausug</sub> - *Tricholoma* sp. (Fries) Staude
 
 taybo taikabaw <sub>Tausug</sub> - *Chlorophyllum* sp. Mass.
+
+tayub-kayukus <sub>Hanunóo</sub> - *Laschia* sp. Jungh.
 
 tayubu-banbanay <sub>Hanunóo</sub> - *Panus* sp. Fries
 
@@ -1047,13 +1067,25 @@ anʼan
 
 apʼap 
 
+bagiw di kayiw <sub>IfugaoBt</sub> - *Usnea endorhodina* Vainio (Lichen)
+
 batu kulat <sub>Iban</sub> - mushroom stone; noxious talisman
+
+beard moss <sub>eng.</sub> - *Usnea* spp. P. Brown ex Adans. (Lichen)
+
+bungut di takangaon <sub>Ifugao</sub> - *Usnea endorhodina* Vainio (Lichen)
 
 lebadura <sub>tl.</sub> - yeast
 
+lumot kahoy <sub>tl.</sub> - *Usnea philippina* Vainio (Lichen)
+
 lumuy di kayiw <sub>Ifugao</sub> - *Pseudocyphellaria* sp. Vainio (Lichen)
 
+old man's beard <sub>eng.</sub> - *Usnea* spp. P. Brown ex Adans. (Lichen)
+
 pampaalsa <sub>tl.</sub> - yeast
+
+umeng di kaiw <sub>Kankanaey</sub> - *Usnea* sp. P. Brown ex Adans. (Lichen)
 
 ## sources
 <pre>
