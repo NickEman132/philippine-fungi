@@ -837,6 +837,8 @@ salapia <sub>Mangyan Batangan</sub> - *Polystictus affinis* Nees
 
 salapya <sub>Mangyan Batangan</sub> - *Daedalea palisoti* Fries
 
+salingsingan <sub>???</sub> - (cf. *Chlorophyllum molybdites*)
+
 sandok laban <sub>Hanunóo</sub> - *Ganoderma lucidum* P.A. Karsten
 
 sarumiu <sub>Mangyan Batangan</sub> - *Hydnum* sp. L. ex Fries
