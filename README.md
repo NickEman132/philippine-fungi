@@ -823,7 +823,9 @@ pugad nang ibon <sub>tl.</sub> - *Cyathus striatus* Hoffm.
 
 *quSuŋ <sub>Proto-Austronesian</sub> - mushroom
 
-rámag <sub>???</sub> - bioluminescent mushroom
+ramag <sub>Tagbanwa Sentral</sub> - mold, mildew
+
+rámag <sub>Kinarayʼa</sub> - bioluminescent mushroom
 
 red-cupped mushroom <sub>eng.</sub> - *Peziza tricholoma* mont.
 
