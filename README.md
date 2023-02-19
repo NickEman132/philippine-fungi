@@ -2,6 +2,14 @@
 
 An open source dictionary of Philippine fungi in different languages across the country.
 
+### How to use this dictionary
+
+If you're on PC, press `Control` + `F` then input a specific epithet, a common name or a binomial nomenclature for the term you're looking for.
+
+If you're on a mobile device, press the button with three dots `⋮`, then press `Find in page`. You can then input a specific epithet, a common name or a binomial nomenclature for the term you're looking for.
+
+Otherwise just scroll.
+
 ## contents
 
 [**abbreviations used**](#abbreviations-used)
