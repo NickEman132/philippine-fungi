@@ -89,7 +89,7 @@ alamag <sub>mul.</sub> - mold
 
 álan <sub>xnn.</sub> - a type of inedible red mushroom <sup><a href="#3">[3]</a></sup>
 
-alitaptap <sub>tl.</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus ulmarius* Fries); *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.); *Pleurotus canus* Quel.; *P. cornucopiae* (Pers.) Rol.; *P. flabellatus* (Berk. & Br.) Sacc.; *P. limpidus* Fries; *P. opuntiae* de Durian & Lev.; *P. ostreatus* (Jacq. ex Fries) Kummer; *P. pulmonaris* Fries; *P.* spp. (Fries) Kummer
+alitaptap <sub>tl.</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm.); *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.); *Pleurotus canus* Quel.; *P. cornucopiae* (Pers.) Rol.; *P. flabellatus* (Berk. & Br.) Sacc.; *P. limpidus* Fries; *P. opuntiae* de Durian & Lev.; *P. ostreatus* (Jacq. ex Fries) Kummer; *P. pulmonarius* Fries; *P.* spp. (Fries) Kummer
 
 alitaptap na malaki <sub>tl.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
 
@@ -111,7 +111,7 @@ amelat di halepon <sub>Ifugao</sub> - *Daedalea ambigua* Berk.
 
 amidalán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-anandap <sub>ilo.</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus ulmarius* Fries); *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.); *Pleurotus canus* Quel.; *P. cornucopiae* (Pers.) Rol.; *P. flabellatus* (Berk. & Br.) Sacc.; *P. opuntiae* de Durian & Lev.; *P. ostreatus* (Jacq. ex Fries) Kummer; *P. pulmonaris* Fries; *P.* sp. (Fries) Kummer
+anandap <sub>ilo.</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm); *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.); *Pleurotus canus* Quel.; *P. cornucopiae* (Pers.) Rol.; *P. flabellatus* (Berk. & Br.) Sacc.; *P. opuntiae* de Durian & Lev.; *P. ostreatus* (Jacq. ex Fries) Kummer; *P. pulmonarius* Fries; *P.* sp. (Fries) Kummer
 
 anglóan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -311,9 +311,9 @@ dalugdug <sub>hil.</sub> - *Schizophyllum* sp. Fries ex Fries
 
 damdamayan <sub>Kankanaey</sub>
 
-damminul <sub>Ifugao</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus ulmarius* Fries)
+damminul <sub>Ifugao</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm.)
 
-damminul di lotpeng <sub>Ifugao</sub> - *Lyophyllum ulmarium* (Fries) Kuhn (Syn: *Pleurotus ulmarius* Fries)
+damminul di lotpeng <sub>Ifugao</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm.)
 
 dayami <sub>???</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing. (Syn: *Volvaria esculenta* Bres.)
 
