@@ -471,7 +471,9 @@ kabuting mukhang tinigkal <sub>tl.</sub> - *Boletus castaneus* Bull (Syn: Gyropo
 
 kabuting mulamula <sub>tl.</sub> - *Lepiota americana* Peck
 
-kabuting parang <sub>tl.</sub> - *Agaricus competris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
+kabuting pamaypay <sub>tl.</sub> - (cf. *Pleurotus pulmonarius*; *Lentinus sajor-caju*)
+
+kabuting parang <sub>tl.</sub> - *Agaricus campestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
 
 kabuting parang na bulik <sub>tl.</sub> - *Psalliota merilli* (Copeland); cf. kabuteng-parang na may singsing<sup>*[citation needed]*</sup>
 
@@ -1090,6 +1092,8 @@ bungut di takangaon <sub>Ifugao</sub> - *Usnea endorhodina* Vainio (Lichen)
 lebadura <sub>tl.</sub> - yeast
 
 lumot kahoy <sub>tl.</sub> - *Usnea philippina* Vainio (Lichen)
+
+lumot niyog <sub>tl.</sub> - *Usnea montagnei* Vainio (Lichen)
 
 lumuy di kayiw <sub>Ifugao</sub> - *Pseudocyphellaria* sp. Vainio (Lichen)
 
