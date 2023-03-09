@@ -129,6 +129,8 @@ apiáng <sub>xnn.</sub> - a type of edible red mushroom <sup><a href="#3">[3]</a
 
 aroy <sub>Lanao</sub> - mushroom? <sup><a href="#fpp">FPP</a></sup>
 
+atayan <sub>Sagada</sub> - (cf. *Scleroderma* sp.)
+
 átey di nuáng? <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 baan <sub>xnn.</sub> 
@@ -305,11 +307,17 @@ dadaakan <sub>Sambali</sub> - mushroom
 
 dakdakan <sub>Sambali</sub> - mushroom <sup><a href="#fpp">FPP</a></sup>, also a banana variant
 
+dakino <sub>Sagada</sub>
+
 dakkel nga anandap <sub>ilo.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
+
+dalakan <sub>Sagada</sub> 
 
 dalugdug <sub>hil.</sub> - *Schizophyllum* sp. Fries ex Fries
 
 damdamayan <sub>Kankanaey</sub>
+
+damino <sub>?</sub>
 
 damminul <sub>Ifugao</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm.)
 
@@ -854,6 +862,8 @@ salingsingan <sub>???</sub> - (cf. *Chlorophyllum molybdites*)
 sandok laban <sub>Hanunóo</sub> - *Ganoderma lucidum* P.A. Karsten
 
 sarumiu <sub>Mangyan Batangan</sub> - *Hydnum* sp. L. ex Fries
+
+sedesdem <sub>Sagada</sub>
 
 sigdot <sub>tl.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
