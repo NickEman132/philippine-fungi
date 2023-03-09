@@ -245,6 +245,8 @@ black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (S
 
 blood-red mushroom <sub>eng.</sub> - *Russula sanguinea* Fries
 
+blue meanies <sub>eng.</sub> - *Panaeolus cyanescens* (Berk. & Broome) Sacc.
+
 bobbóo (bobbóon di mágan) <sub>xnn.</sub> - a type of small white toadstool <sup><a href="#3">[3]</a></sup>
 
 bobbóong <sub>xnn.</sub> - = *bobbóo* <sup><a href="#3">[3]</a></sup>
@@ -295,7 +297,7 @@ button mushroom <sub>eng.</sub> - *Agaricus bisporus* (Lange) Sing.
 
 cabbage mushroom <sub>eng.</sub> - *Sparassis crispa* Wulf.
 
-carabao dung mushroom <sub>eng.</sub> - *Copelandia papilonacea* (Bull.) Bres.
+carabao dung mushroom <sub>eng.</sub> - *Copelandia papilionacea* (Bull.) Bres.
 
 chongo <sub>Bontok</sub> - *Agaricus campestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
 
@@ -329,7 +331,7 @@ deadly agaric <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
 
 deadly amanita <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
 
-demonyo *Coprinus cinereus*
+demonyo - *Coprinus cinereus*
 
 dolongan sang kahoy <sub>*Panay*</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. polytricha* (Mont.) Sacc.
 
