@@ -137,7 +137,9 @@ baan <sub>xnn.</sub> 
 
 baen di balluta <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
-baen di habutan <sub>Ifugao</sub> - *Mycena elegans* Fries
+baen di habutan <sub>Ifugao</sub> - *Mycena elegans* Fries; *Naucoria pediades* Fries
+
+baen di kimelat <sub>Ifugao</sub> - *Lopharia* sp. Kalchbr. & McOwen
 
 baen di ulat <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
@@ -423,7 +425,7 @@ kabuting damuhan <sub>tl.</sub> - *Cantarellus aureus* Berk. & Curt.
 
 kabuteng embudo <sub>tl.</sub> - *Clitocybe phyllophylla* Fries
 
-kabuting giniikan <sub>tl.</sub>
+kabuting giniikan <sub>tl.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
 kabuting higante <sub>tl.</sub> - *Collybia reineckeana* P. Henn.; *Tricholoma* sp. (Fries) Staude
 
@@ -442,6 +444,8 @@ kabuting kalawangin <sub>tl.</sub> - *Cortinarius collisteus* Fries
 kabuting kampanilya <sub>tl.</sub> - *Coprinus comatus* (Fries) S.F. Gray
 
 kabuting kawayan <sub>tl.</sub> - *Pleurotus flabellatus* (Berk. & Br.)
+
+kabuting kinalawang <sub>tl.</sub> - *Naucoria semiorbicularis* Fries
 
 kabuting kopang maputiʼputiʼ <sub>tl.</sub> - *Peziza vesiculosa* Fries
 
@@ -497,13 +501,15 @@ kabuting payat ang tangkay <sub>tl.</sub> - *Conocybe tenera* (Fries) Kuhn
 
 kabuting pilipit <sub>tl.</sub> - *Collybia distorta* (Fries) Gillet
 
+kabuting pula na mabahoʼ <sub>tl.</sub> - *Mytenus bambusinus* (Zoll.) Fisch. 
+
 kabuting pulot pukyutan <sub>tl.</sub> - *Armellaria mullea* (Fries) Karst.
 
 kabuting punsoʼ <sub>tl.</sub> - *Collybia albuminosa* (Bres.) Petch.
 
 kabuting putiʼ <sub>tl.</sub> - *Lepiota candida* Copel.
 
-kabuting saging <sub>tl.</sub>
+kabuting saging <sub>tl.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
 kabuting sungsung <sub>tl.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
 
@@ -512,6 +518,8 @@ kabuting taing kabayo <sub>tl.</sub> - *Coprinus confertus* Copel.
 kabuting taing kalabaw <sub>tl.</sub> - *Copelandia papilonacea* (Bull.) Bres.
 
 kabuting tigre <sub>tl.</sub> - *Lepiota cristata* (Fries) Quel.
+
+kabuti sa bulok na kahoy <sub>tl.</sub> - *Volvaria cinerescens* Bres.
 
 kabuti sa punong mangga <sub>tl.</sub> - *Ganoderma mangifirae* Lev.
 
@@ -531,13 +539,13 @@ kamelat an abibillog <sub>Ifugao</sub> - *Trametes corrugata* Pers.
 
 kamiyutan <sub>Samar-Leyte</sub> - *Lentinus sajor-caju*
 
+kaopas <sub>Samar-Leyte</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
+
 kapuʼkapuʼ <sub>Tausug</sub> - mold, mildew (syn. baguʼbuʼ)
 
 karulu <sub>Ibanag</sub> - mushroom
 
 karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
-
-kaupas 
 
 kawkaw manilong <sub>Agta</sub> - *Termitomyces cartilagineus* Heim.
 
@@ -711,7 +719,9 @@ loblobban di linamʼa <sub>Ifugao</sub> - *Calvatia* sp. Fries
 
 loblobban di lumuy <sub>Ifugao</sub> - *Mycena epipterygius*Fries
 
-loblobban di lumuy an kayiw <sub>Ifugai</sub> - *Marasmius rotula* Fries
+loblobban di lumuy an kayiw <sub>Ifugao</sub> - *Marasmius rotula* Fries
+
+loblobban di luta an e-nabuutan <sub>Ifugao</sub> - *Naucoria semiorbicularis* Fries
 
 loblobban di natunut an bitan <sub>Ifugao</sub> - *Clavaria zippelii* Lev. (syn: Ramaria zippelii (Lev.) Cor.)
 
@@ -737,19 +747,27 @@ loblobban di tungod di kayiw an e-innunig <sub>Ifugao</sub> - *Pholidota adiposa
 
 loblobban di unah <sub>Ifugao</sub> - *Collybia confluens* Pers.
 
+loblobban e-innunig <sub>Ifugao</sub> - *Naucoria pediades* Fries
+
 loblobban e-innunig an iitang <sub>Ifugao</sub> - *Mycena immaculata* Fries
 
 loblobban e potelo <sub>Ifugao</sub> - *Scleroderma* sp. Pers.
 
+loblobban iitang <sub>Ifugao</sub> - *Stropharia* sp. (Fries) Quel.
+
 loblobban iitang an mumbola <sub>Ifugao</sub> - *Clavaria fragilis* Fries
 
 loblobban iitang an mumbolah <sub>Ifugao</sub> - *Mycena elegans* Fries
+
+loblobban mangmangetet <sub>Ifugao</sub> - *Stropharia* sp. (Fries) Quel.
 
 loblobban mumbolah <sub>Ifugao</sub> - *Russula nigricans* Fries
 
 loblobban mumpaha <sub>Ifugao</sub> - *Pleurotus* sp. (Fries) Kummer
 
 loblobban mumpaha an nadupdupaya <sub>Ifugao</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
+
+loblobban napadangan <sub>Ifugao</sub> - *Stropharia* sp. (Fries) Quel.
 
 loblobban nagamgamatan <sub>Ifugao</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
 
@@ -758,6 +776,8 @@ loblobban nagaygayut <sub>Ifugao</sub> - *Clavaria zippelii* Lev. (syn: Ramaria 
 loblobban napadangan <sub>Ifugao</sub> - *Lepiota cristata* (Fries) Quel; *L. lilacea* Bres.
 
 loblobban paddangan <sub>Ifugao</sub> - *Lepiota gracilenta* Kromb.
+
+loblobban tungod di kayiw <sub>Ifugao</sub> - *Naucoria pediades* Fries
 
 loblobban umahu <sub>Ifugao</sub> - *Scleroderma verrucosum* Bull. ex Pers.
 
@@ -807,11 +827,13 @@ oong ti bunton <sub>ilo.</sub> - *Collybia albuminosa* (Bres.) Petch.
 
 oong ti takki nuang <sub>ilo.</sub> - *Lepiota chlorospora* Copel.
 
-oong ti uleg <sub>ilo.</sub> - *Dictyophora duplicata* (Bosc.) E. Fisch.; *Dictyophora phalloides* Desv.; *Phallus tenuis* Lloyd
+oong ti uleg <sub>ilo.</sub> - *Dictyophora duplicata* (Bosc.) E. Fisch.; *Dictyophora phalloides* Desv.; *Mytenus bambusinus* (Zoll.) Fisch.; *Phallus tenuis* Lloyd
 
 owong 
 
 oyster mushroom <sub>eng.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
+
+pancyan <sub>eng.</sub> - *Panaeolus cyanescens* (Berk. & Broome) Sacc.
 
 pandong ahas
 
@@ -849,9 +871,13 @@ rámag <sub>Kinarayʼa</sub> - bioluminescent mushroom
 
 red-cupped mushroom <sub>eng.</sub> - *Peziza tricholoma* mont.
 
+red foetid mushroom <sub>eng.</sub> - *Mytenus bambusinus* (Zoll.) Fisch. 
+
 red mushroom <sub>eng.</sub> - *Polyporus sanguinus* L.
 
 reishi <sub>eng.</sub> - *Ganoderma lucidum* (Leys) P.A. Karsten; *Ganoderma tsugae*
+
+rusty mushroom <sub>eng.</sub> - *Naucoria semiorbicularis* Fries
 
 salʼan <sub>Hanunóo</sub> - *Lentinus* sp. Fries
 
@@ -1005,9 +1031,13 @@ uddug di nadupdupingil an adi mihda <sub>Ifugao</sub> - *Hypholoma fasciculare* 
 
 uddug ni natuudan <sub>Ifugao</sub> - *Boletinus* sp. Kalchbr.
 
+udyaping <sub>ceb.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
+
 ugabʼugab <sub>Tausug</sub> - *Stereum* sp. Pers.
 
 uhong <sub>???</sub> - mushroom
+
+ulapting <sub>ceb.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
 ulapting <sub>Samar-Leyte</sub> - mushroom
 
@@ -1026,6 +1056,8 @@ ulat di anablon magaygayut <sub>Ifugao</sub> - *Clavaria stricta* Pers. (Syn: *R
 ulat di anlatip <sub>Ifugao</sub> - *Polyporus pinsitus* Fries
 
 ulat di atelba <sub>Ifugao</sub> - *Mycena hiemalis* Fries
+
+ulat di atingol <sub>Ifugao</sub> - *Lopharia* sp. Kalchbr. & McOwen
 
 ulat di balinghingon <sub>Ifugao</sub> - *Hymenochaete* sp. J.H. Lev.
 
@@ -1073,9 +1105,21 @@ uong dalem <sub>ilo.</sub> - *Boletus edulis* Bull. ex Fries
 
 uong galis <sub>ilo.</sub> - *Boletus elegans* Schum. ex Fries
 
+uong kayo <sub>ilo.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
+
 uong kurad <sub>ilo.</sub> - *Strobilomyces strobilaceous* (Scop. ex Fries) Berk.
 
+uong na dayami <sub>pag.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
+
+uong na punti <sub>pag.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
+
 uong pagay <sub>ilo.</sub> - *Termitomyces cartilagineus* Heim.
+
+uong ti garami <sub>ilo.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
+
+uong ti saba <sub>ilo.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
+
+uong ti saging <sub>ilo.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
 uong tinta <sub>ilo.</sub> - *Boletus tomentosus* Sing.
 
