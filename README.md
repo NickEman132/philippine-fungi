@@ -637,6 +637,8 @@ kulut-ubal <sub>Tasaday</sub> - *Daedalea* sp. Pers. ex Fries
 
 kunas <sub>tl.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
+kuradhop <sub>ceb.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+
 kurakding <sub>*Bikol*</sub> - *Auricularia* spp. Bull. ex Merat
 
 kurapodit <sub>ceb.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
