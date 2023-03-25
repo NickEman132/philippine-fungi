@@ -337,6 +337,8 @@ demonyo - *Coprinus cinereus*
 
 dolongan sang kahoy <sub>*Panay*</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. polytricha* (Mont.) Sacc.
 
+dumagat
+
 earth star <sub>eng.</sub> - *Geastrum hygrometicus* Pers.
 
 fantutung <sub>Mangyan Batangan</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
@@ -799,6 +801,8 @@ malaking alitaptap - *Pleurotus ostreatus* (Jacq. ex Fries)
 
 malakmak <sub>Bikol Central</sub> - fungus
 
+mamánok 
+
 mamarang <sub>tl.</sub> - *Collybia* sp. (Fries) Staude; *Termitomyces cartilagineus* Heim.
 
 mangmangetet <sub>Ifugao</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
@@ -809,15 +813,19 @@ mamuso
 
 mannagado <sub>ilo.</sub> - *Collybia* sp. (Fries) Staude
 
+masrum <sub>mul.</sub> - mushroom spp.
+
 minmin <sub>Mangyan Batangan</sub> - *Irpex flavus* Klotz
 
 mushroom
 
 nadupdupengel <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
 
-ohong <sub>ceb. hil. Panay</sub> - mushroom
+ohong <sub>ceb. hil. Panay</sub> - mushroom spp.
 
-oong <sub>smk. pag. ilo.</sub> - mushroom
+oong <sub>smk. pag. ilo.</sub> - mushroom spp.
+
+oong mangado <sub>pag. (ilo.)</sub> - cf. mamarang 
 
 oong na pongol <sub>pag.</sub> - *Collybia albuminosa* (Bres.) Petch.
 
@@ -865,7 +873,7 @@ poisonous mushroom <sub>eng.</sub> - *Amanita manillensis* Mend. & Leus-Palo
 
 pugad nang ibon <sub>tl.</sub> - *Cyathus striatus* Hoffm.
 
-*quSuŋ <sub>Proto-Austronesian</sub> - mushroom
+*quSuŋ <sub>Proto-Austronesian</sub> - mushroom spp.
 
 ramag <sub>Tagbanwa Sentral</sub> - mold, mildew
 
@@ -959,11 +967,11 @@ talinga-ti-otot
 
 taliña nu kayuh <sub>Itbayaten</sub> - ear-of-tree
 
-taluro <sub>Ibanag</sub> - mushroom 
+taluro <sub>Ibanag</sub> - mushroom spp.
 
 tangolog <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-taruluk <sub>Gaddang</sub> - mushroom
+taruluk <sub>Gaddang</sub> - mushroom spp.
 
 taybo <sub>tl.</sub> - mushroom; *Schizophyllum* sp. Fries ex Fries
 
@@ -989,7 +997,7 @@ tengang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Un
 
 tengang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
-tigbos <sub>Bikol</sub> - mushroom
+tigbos <sub>Bikol</sub> - mushroom spp.
 
 tiger mushroom <sub>eng.</sub> - *Lepiota cristata* (Fries) Quel.
 
@@ -1005,7 +1013,7 @@ tough hairy mushroom <sub>eng.</sub> - *Lentinus fusco-purpureus*
 
 tough scaly mushroom <sub>eng.</sub> - *Lentinus squarrosulus* Berk. & Curt.
 
-tubo <sub>Bikol</sub> - mushroom
+tubo <sub>Bikol</sub> - mushroom spp.
 
 tubo <sub>tl.</sub> - *Scleroderma geaster* Fries
 
@@ -1037,11 +1045,11 @@ udyaping <sub>ceb.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
 ugabʼugab <sub>Tausug</sub> - *Stereum* sp. Pers.
 
-uhong <sub>???</sub> - mushroom
+uhong <sub>???</sub> - mushroom spp.
 
 ulapting <sub>ceb.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
-ulapting <sub>Samar-Leyte</sub> - mushroom
+ulapting <sub>Samar-Leyte</sub> - mushroom spp.
 
 ulat an mihda <sub>Ifugao</sub> - *Lentinus squarrosolus* Berk. & Curt.
 
@@ -1095,7 +1103,7 @@ ulat di ulatton <sub>Ifugao</sub> - *Polyporus versicolor* (L.)
 
 ulat di waal <sub>Ifugao</sub> - *Hygrophorus vigineus*  Fries
 
-uhong <sub>mul.</sub> - mushroom (cf. *quSuŋ)
+uhong <sub>mul.</sub> - mushroom spp. (cf. *quSuŋ)
 
 ulaping
 
