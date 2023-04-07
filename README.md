@@ -339,6 +339,8 @@ demonyo - *Coprinus cinereus*
 
 dolongan sang kahoy <sub>*Panay*</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. polytricha* (Mont.) Sacc.
 
+dongo <sub>Sagada</sub> - (cf. *Russula* sp.6)
+
 dumagat
 
 earth star <sub>eng.</sub> - *Geastrum hygrometicus* Pers.
@@ -410,6 +412,8 @@ honey-bee mushroom <sub>eng.</sub> - *Armellaria mullea* (Fries) Karst.
 ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
 
 inga-inga <sub>tl.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+
+ing-inga <sub>Sagada</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 inga-n di káiw <sub>Kankanaey</sub> - ear-of-tree
 
@@ -825,6 +829,8 @@ mushroom
 
 nadupdupengel <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
 
+ngaan <sub>Sagada</sub> - *Lactarius* sp. Pers.
+
 ohong <sub>ceb. hil. Panay</sub> - mushroom spp.
 
 oong <sub>smk. pag. ilo.</sub> - mushroom spp.
@@ -922,6 +928,8 @@ sulphur-colored mushroom <sub>eng.</sub> - *Lepiota denundata* Rabenhorst
 tabiak <sub>Batangan, Mangyan</sub> - *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.)
 
 tabiák<sup>†</sup> <sub>tl.</sub> - 等<sup> <a href="#updf">UPDF</a> </sup> *cf.* tabyok 
+
+tabillew <sub>Sagada</sub> - specific yellow mushrooms (cf. *Russula* sp., *Amanita javanica*, *Cantharellus* sp.)
 
 tabyak <sub>Hanunóo</sub> - *Pleurotus* sp. (Fries) Kummer
 
