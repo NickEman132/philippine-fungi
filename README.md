@@ -275,6 +275,8 @@ bugátan <sub>xnn.</sub> - a type of edible reddish mushroom <sup><a href="#3">[
 
 bugtán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
+(?, cf. layat)bukni <sub>ceb.</sub> - auricularia/exidia
+
 bulúngan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 bulung an ikkipan <sub>ifugao</sub> - *Collybia* sp. (Fries) Staude
@@ -658,6 +660,8 @@ langgot-langgot <sub>hil.</sub> - *Stereum* sp. Pers.
 laplapayag <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 large firefly mushroom <sub>eng.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
+
+(?)layat <sub>ceb.</sub> - auricularia/exidia
 
 leather-colored mushroom <sub>eng.</sub> - *Marasmius haematocephalus* Mont.
 
