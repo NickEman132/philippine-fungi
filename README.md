@@ -555,7 +555,7 @@ karulu <sub>Ibanag</sub> - mushroom
 
 karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 
-kawkaw manilong <sub>Agta</sub> - *Termitomyces cartilagineus* Heim.
+kawkaw manilong <sub>Agta</sub> - *Termitomyces cartilaginous* Heim.
 
 kayhom di kayiw <sub>Ifugao</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
@@ -655,7 +655,7 @@ kurkur <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. 
 
 kuwát-aníto <sub>*Pinatubo Agta*</sub> - non-edible mushroom; ear-fungi of the spirits
 
-kuyog <sub>tl.</sub> - *Termitomyces cartilagineus* Heim.
+kuyog <sub>tl.</sub> - *Termitomyces cartilaginous* Heim.
 
 kwat <sub>Sambali</sub> - mushroom 
 
@@ -671,7 +671,7 @@ leather-colored mushroom <sub>eng.</sub> - *Marasmius haematocephalus* Mont.
 
 ligat-ligat <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-ligbos <sub>ceb., Samar-Leyte</sub> - *Termitomyces cartilagineus* Heim.
+ligbos <sub>ceb., Samar-Leyte</sub> - *Termitomyces cartilaginous* Heim.
 
 ligbus <sub>Hanunóo</sub> - *Collybia* sp. (Fries) Staude
 
@@ -811,7 +811,7 @@ malakmak <sub>Bikol Central</sub> - fungus
 
 mamánok 
 
-mamarang <sub>tl.</sub> - *Collybia* sp. (Fries) Staude; *Termitomyces cartilagineus* Heim.
+mamarang <sub>tl.</sub> - *Collybia* sp. (Fries) Staude; *Termitomyces cartilaginous* Heim.
 
 mangmangetet <sub>Ifugao</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
 
@@ -1121,7 +1121,9 @@ ulaping
 
 unodʼunod
 
-uong bunton <sub>ilo.</sub> - *Termitomyces eurhizus* (Berk.) Heim.
+uong a managadu <sub>ilo.</sub> - (cf. *Termitomyces cartilaginous* Heim.)
+
+uong [ti] bunton <sub>ilo.</sub> - *Termitomyces eurhizus* (Berk.) Heim.
 
 uong dalem <sub>ilo.</sub> - *Boletus edulis* Bull. ex Fries
 
@@ -1135,9 +1137,13 @@ uong na dayami <sub>pag.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
 uong na punti <sub>pag.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
-uong pagay <sub>ilo.</sub> - *Termitomyces cartilagineus* Heim.
+uong pagay <sub>ilo.</sub> - *Termitomyces cartilaginous* Heim.
 
 uong ti garami <sub>ilo.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
+
+uong ti kalaw <sub>ilo.</sub> - (cf. *Termitomyces cartilaginous* Heim.)
+
+uong ti kimat <sub>ilo.</sub> - (cf. *Termitomyces cartilaginous* Heim.)
 
 uong ti saba <sub>ilo.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
