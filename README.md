@@ -539,7 +539,7 @@ kalahipoy di labu <sub>Ifugao</sub> - *Stereum* sp. Pers.
 
 kalalupoy di halinghungon <sub>Ifugao</sub> - *Pleurotus canus* Quel.
 
-kalaw <sub>South Cotabato???</sub> - *Collybia reinakeana*
+kalaw <sub>ceb.</sub> - *Collybia reinakeana*
 
 kalutiwas <sub>Tboli</sub> - *Daedalea* sp. Pers. ex Fries
 
