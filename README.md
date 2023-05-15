@@ -71,6 +71,8 @@ ab-abó <sub>xnn.</sub> - a type of edible yellow mushroom <sup><a href="#3">[3]
 
 abkálaw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
+ada-an <sub>*Sagada*</sub> - *Termitomyces* sp.
+
 adálan <sub>xnn.</sub> - a type of edible, whitish gray mushroom <sup><a href="#3">[3]</a></sup>
 
 adalan <sub>ilo.</sub> - *Tricholoma* sp. (Fries) Staude
