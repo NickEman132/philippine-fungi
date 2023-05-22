@@ -555,6 +555,8 @@ kaopas <sub>Samar-Leyte</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
 kapuʼkapuʼ <sub>Tausug</sub> - mold, mildew (syn. baguʼbuʼ)
 
+kaputan <sub>xnn.?</sub> - *Russula virescens* (Schaeff.) Fr.
+
 karulu <sub>Ibanag</sub> - mushroom
 
 karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
