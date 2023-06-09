@@ -665,6 +665,8 @@ kuyog <sub>tl.</sub> - *Termitomyces cartilaginous* Heim.
 
 kwat <sub>Sambali</sub> - mushroom 
 
+lamlam-ing <sub>xnn.</sub> - *Cantharellus* spp.
+
 langgot-langgot <sub>hil.</sub> - *Stereum* sp. Pers.
 
 laplapayag <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
@@ -935,7 +937,7 @@ tabiak <sub>Batangan, Mangyan</sub> - *Pleurocybella porrigens* (Fries) Sing. (S
 
 tabiák<sup>†</sup> <sub>tl.</sub> - 等<sup> <a href="#updf">UPDF</a> </sup> *cf.* tabyok 
 
-tabillew <sub>Sagada</sub> - specific yellow mushrooms (cf. *Russula* sp., *Amanita javanica*, *Cantharellus* sp.)
+tabilew <sub>xnn.</sub> - specific yellow mushrooms (*Amanita caesarea*, *A. javanica*, *A. rufoferruginea,* *Cantharellus* sp., *Russula* sp.)
 
 tabyak <sub>Hanunóo</sub> - *Pleurotus* sp. (Fries) Kummer
 
