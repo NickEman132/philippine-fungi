@@ -10,6 +10,12 @@ If you're on a mobile device, press the button with three dots `⋮`, then press
 
 Otherwise just scroll.
 
+## Notices
+
+Some scientific names might be considered inaccurate and/or outdated such as *Auricularia auricula* which should be *A. polytricha*. *A. auricula* does not exist in the Philippines.
+
+Some mushrooms named might not be currently attested in the Philippines and might not have any local names like the *Amanita muscaria*. However, they have been added because of previous instances and imports from the culinary world.
+
 ## contents
 
 [**abbreviations used**](#abbreviations-used)
@@ -937,7 +943,7 @@ tabiak <sub>Batangan, Mangyan</sub> - *Pleurocybella porrigens* (Fries) Sing. (S
 
 tabiák<sup>†</sup> <sub>tl.</sub> - 等<sup> <a href="#updf">UPDF</a> </sup> *cf.* tabyok 
 
-tabilew <sub>xnn.</sub> - specific yellow mushrooms (*Amanita caesarea*, *A. javanica*, *A. rufoferruginea,* *Cantharellus* sp., *Russula* sp.)
+tabilew <sub>xnn.</sub> - specific yellow mushrooms (*Amanita caesarea*, *A. javanica*, *A. rufoferruginea*, *Russula* sp.)
 
 tabyak <sub>Hanunóo</sub> - *Pleurotus* sp. (Fries) Kummer
 
