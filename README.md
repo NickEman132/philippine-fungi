@@ -251,6 +251,8 @@ bird's-nest fungi <sub>eng.</sub> - *Cyathus striatus* Hoffm.
 
 bituinglupaʼ <sub>tl.</sub> - *Geaster hygrometicus* Pers.
 
+black bulgar <sub>eng.</sub> - *Trichaleurina javanica*
+
 black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 blood-red mushroom <sub>eng.</sub> - *Russula sanguinea* Fries
@@ -815,6 +817,8 @@ lumsek <sub>???</sub> - *Hygrophorus ???*
 
 lupik <sub>Hanunóo</sub> - *Geaster sp.*
 
+lusi-lusi <sub>?</sub> - *Trichaleurina javanica*
+
 luyud <sub>Tausug</sub> - mushroom
 
 maapon <sub>tl.</sub> - *Termitomyces striatus* (Beeli) Heim.
@@ -862,6 +866,8 @@ oong ti bunton <sub>ilo.</sub> - *Collybia albuminosa* (Bres.) Petch.
 oong ti takki nuang <sub>ilo.</sub> - *Lepiota chlorospora* Copel.
 
 oong ti uleg <sub>ilo.</sub> - *Dictyophora duplicata* (Bosc.) E. Fisch.; *Dictyophora phalloides* Desv.; *Mytenus bambusinus* (Zoll.) Fisch.; *Phallus tenuis* Lloyd
+
+opey <sub>Sagada</sub>
 
 owong 
 
@@ -935,6 +941,8 @@ sikdot <sub>tl.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
 sikdut <sub>Hanunóo</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
+subsub baboy <sub>ilo.</sub> - *Trichaleurina javanica*
+
 sukoy <sub>Asi</sub>
 
 sulphur-colored mushroom <sub>eng.</sub> - *Lepiota denundata* Rabenhorst
@@ -994,6 +1002,8 @@ talinga-ti-otot
 taliña nu kayuh <sub>Itbayaten</sub> - ear-of-tree
 
 taluro <sub>Ibanag</sub> - mushroom spp.
+
+tambo-tambo <sub>?</sub> - *Trichaleurina javanica*
 
 tangolog <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
@@ -1164,6 +1174,10 @@ uong ti saba <sub>ilo.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 uong ti saging <sub>ilo.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
 uong tinta <sub>ilo.</sub> - *Boletus tomentosus* Sing.
+
+upey <sub>xnn.</sub> - cf. *Amanita tristis*
+
+upoy
 
 xanggarát
 
