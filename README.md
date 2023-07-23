@@ -143,6 +143,8 @@ atayan <sub>Sagada</sub> - (cf. *Scleroderma* sp.)
 
 baan <sub>xnn.</sub> 
 
+badlan <sub>hil.</sub> - cf. *Lentinus squarrosulus* cf. *Pleurotus* sp.
+
 baen di balluta <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
 baen di habutan <sub>Ifugao</sub> - *Mycena elegans* Fries; *Naucoria pediades* Fries
