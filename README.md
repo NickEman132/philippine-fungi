@@ -675,6 +675,9 @@ kuyog <sub>tl.</sub> - *Termitomyces cartilaginous* Heim.
 
 kwat <sub>Sambali</sub> - mushroom 
 
+labit <sub>Waray</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+
+
 lamlam-ing <sub>xnn.</sub> - *Cantharellus* spp.
 
 langgot-langgot <sub>hil.</sub> - *Stereum* sp. Pers.
