@@ -77,7 +77,7 @@ ab-abó <sub>xnn.</sub> - a type of edible yellow mushroom <sup><a href="#3">[3]
 
 abkálaw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-ada-an <sub>*Sagada*</sub> - *Termitomyces* sp.
+ada-an <sub>xnn.</sub> - *Termitomyces* sp.
 
 adálan <sub>xnn.</sub> - a type of edible, whitish gray mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -137,7 +137,7 @@ apiáng <sub>xnn.</sub> - a type of edible red mushroom <sup><a href="#3">[3]</a
 
 aroy <sub>Lanao</sub> - mushroom? <sup><a href="#fpp">FPP</a></sup>
 
-atayan <sub>Sagada</sub> - (cf. *Scleroderma* sp.)
+atayan <sub>xnn.</sub> - (cf. *Scleroderma* sp.)
 
 átey di nuáng? <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -325,11 +325,11 @@ dadaakan <sub>Sambali</sub> - mushroom
 
 dakdakan <sub>Sambali</sub> - mushroom <sup><a href="#fpp">FPP</a></sup>, also a banana variant
 
-dakino <sub>Sagada</sub>
+dakino <sub>xnn.</sub>
 
 dakkel nga anandap <sub>ilo.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
 
-dalakan <sub>Sagada</sub> 
+dalakan <sub>xnn.</sub> 
 
 dalugdug <sub>hil.</sub> - *Schizophyllum* sp. Fries ex Fries
 
@@ -351,11 +351,15 @@ demonyo - *Coprinus cinereus*
 
 dolongan sang kahoy <sub>*Panay*</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. polytricha* (Mont.) Sacc.
 
-dongo <sub>Sagada</sub> - (cf. *Russula* sp.6)
+dongo <sub>xnn.</sub> - (cf. *Russula* sp.6)
 
 dumagat
 
+ears ears - *Auricularia spp.*
+
 earth star <sub>eng.</sub> - *Geastrum hygrometicus* Pers.
+
+elepante <sub>tl.</sub> - *Auricula spp.*
 
 fantutung <sub>Mangyan Batangan</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
 
@@ -425,7 +429,7 @@ ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
 
 inga-inga <sub>tl.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-ing-inga <sub>Sagada</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+ing-inga <sub>xnn.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 inga-n di káiw <sub>Kankanaey</sub> - ear-of-tree
 
@@ -852,7 +856,7 @@ mushroom
 
 nadupdupengel <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
 
-ngaan <sub>Sagada</sub> - *Lactarius* sp. Pers.
+ngaan <sub>xnn.</sub> - *Lactarius* sp. Pers.
 
 ohong <sub>ceb. hil. Panay</sub> - mushroom spp.
 
@@ -872,7 +876,7 @@ oong ti takki nuang <sub>ilo.</sub> - *Lepiota chlorospora* Copel.
 
 oong ti uleg <sub>ilo.</sub> - *Dictyophora duplicata* (Bosc.) E. Fisch.; *Dictyophora phalloides* Desv.; *Mytenus bambusinus* (Zoll.) Fisch.; *Phallus tenuis* Lloyd
 
-opey <sub>Sagada</sub>
+opey <sub>xnn.</sub>
 
 owong 
 
@@ -936,7 +940,7 @@ sandok laban <sub>Hanunóo</sub> - *Ganoderma lucidum* P.A. Karsten
 
 sarumiu <sub>Mangyan Batangan</sub> - *Hydnum* sp. L. ex Fries
 
-sedesdem <sub>Sagada</sub>
+sedesdem <sub>xnn.</sub>
 
 sigdot <sub>tl.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
@@ -976,6 +980,8 @@ taingang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) U
 
 taingang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
+tainga ng unggoy <sub>tl.<sub> 
+
 talinga <sub>*Bng*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
 talinga batan <sub>Hanunóo</sub> - *Polystictus* sp. Fries; *Polyporus* sp. (Mich.) Fries ex Fries
@@ -1002,15 +1008,21 @@ talingan batan lapinyad <sub>Hanunóo</sub> - *Ganoderma* sp. P.A. Karsten
 
 talínga danāg <sub>Isneg</sub> - ear-spirit; a kind of bracket fungus that resembles *xanggarát* but is much larger
 
+talinga ni Aloy <sub>?<sub> -
+
 talinga-ti-otot
 
 taliña nu kayuh <sub>Itbayaten</sub> - ear-of-tree
+
+talungog <sub>bcl.<sub> 
 
 taluro <sub>Ibanag</sub> - mushroom spp.
 
 tambo-tambo <sub>?</sub> - *Trichaleurina javanica*
 
 tangolog <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+
+tangoy-tangoy <sub>bisaya<sub> - *Auricularia sp.*
 
 taruluk <sub>Gaddang</sub> - mushroom spp.
 
