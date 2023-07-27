@@ -980,7 +980,7 @@ taingang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) U
 
 taingang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
-tainga ng unggoy <sub>tl.<sub> 
+tainga ng unggoy <sub>tl.<sub> - *Auricularia spp.*
 
 talinga <sub>*Bng*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
@@ -1008,13 +1008,13 @@ talingan batan lapinyad <sub>Hanunóo</sub> - *Ganoderma* sp. P.A. Karsten
 
 talínga danāg <sub>Isneg</sub> - ear-spirit; a kind of bracket fungus that resembles *xanggarát* but is much larger
 
-talinga ni Aloy <sub>?<sub> -
+talinga ni Aloy <sub>?<sub> - *Auricularia spp.*
 
 talinga-ti-otot
 
 taliña nu kayuh <sub>Itbayaten</sub> - ear-of-tree
 
-talungog <sub>bcl.<sub> 
+talungog <sub>bcl.<sub> - *Auricularia spp.*
 
 taluro <sub>Ibanag</sub> - mushroom spp.
 
@@ -1022,7 +1022,7 @@ tambo-tambo <sub>?</sub> - *Trichaleurina javanica*
 
 tangolog <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-tangoy-tangoy <sub>bisaya<sub> - *Auricularia sp.*
+tangoy-tangoy <sub>bisaya<sub> - *Auricularia spp.*
 
 taruluk <sub>Gaddang</sub> - mushroom spp.
 
