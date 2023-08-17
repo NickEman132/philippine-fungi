@@ -97,7 +97,9 @@ alamag <sub>mul.</sub> - mold
 
 álan <sub>xnn.</sub> - a type of inedible red mushroom <sup><a href="#3">[3]</a></sup>
 
-alitaptap <sub>tl.</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm.); *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.); *Pleurotus canus* Quel.; *P. cornucopiae* (Pers.) Rol.; *P. flabellatus* (Berk. & Br.) Sacc.; *P. limpidus* Fries; *P. opuntiae* de Durian & Lev.; *P. ostreatus* (Jacq. ex Fries) Kummer; *P. pulmonarius* Fries; *P.* spp. (Fries) Kummer
+alitaptap <sub>tl.</sub> - *Hypsizygus ulmarius* ((Bull. ex Fr.) Redhead 1984) (Syn: *Pleurotus ulmarius*) Agaricomycetes: Agaricales; LYOPHYLLACEAE;
+- *Pleurocybella porrigens* ((Pers.) Sing. 1947) (Syn: *Pleurotus porrigens*) Agaricomycetes: Agaricales: PHYLLOTOPSIDACEAE;
+- *Pleurotus canus* (Quel.); *P. cornucopiae* ((Pers.) Rol.); *P. flabellatus* ((Berk. & Br.) Sacc.); *P. limpidus* ((Fr.) Sacc.); *P. opuntiae* ((de Durian & Lev.) Sacc. (1887)); *P. ostreatus* ((Jacq. ex Fr.) Kumm. 1871); *P. pulmonarius* ((Fr.) Quél. 1872); *P.* spp. (Fr.) Kumm. 1871 Agaricomycetes: Agaricales: PLEUROTACEAE
 
 alitaptap na malaki <sub>tl.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
 
