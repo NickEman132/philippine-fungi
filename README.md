@@ -97,11 +97,12 @@ alamag <sub>mul.</sub> - mold
 
 álan <sub>xnn.</sub> - a type of inedible red mushroom <sup><a href="#3">[3]</a></sup>
 
-alitaptap <sub>tl.</sub> - *Hypsizygus ulmarius* ((Bull. ex Fr.) Redhead 1984) (Syn: *Pleurotus ulmarius*) Agaricomycetes: Agaricales; LYOPHYLLACEAE;
+alitaptap <sub>tl.</sub> (lit. firefly)
+- *Hypsizygus ulmarius* ((Bull. ex Fr.) Redhead 1984) (Syn: *Pleurotus ulmarius*) Agaricomycetes: Agaricales: LYOPHYLLACEAE;
 - *Pleurocybella porrigens* ((Pers.) Sing. 1947) (Syn: *Pleurotus porrigens*) Agaricomycetes: Agaricales: PHYLLOTOPSIDACEAE;
-- *Pleurotus canus* (Quel.); *P. cornucopiae* ((Pers.) Rol.); *P. flabellatus* ((Berk. & Br.) Sacc.); *P. limpidus* ((Fr.) Sacc.); *P. opuntiae* ((de Durian & Lev.) Sacc. (1887)); *P. ostreatus* ((Jacq. ex Fr.) Kumm. 1871); *P. pulmonarius* ((Fr.) Quél. 1872); *P.* spp. (Fr.) Kumm. 1871 Agaricomycetes: Agaricales: PLEUROTACEAE
+- *Pleurotus canus* (Quel.); *P. cornucopiae* ((Pers.) Rol.); *P. flabellatus* ((Berk. & Br.) Sacc.); *P. limpidus* ((Fr.) Sacc.); *P. opuntiae* ((de Durian & Lev.) Sacc. 1887); *P. ostreatus* ((Jacq. ex Fr.) Kumm. 1871); *P. pulmonarius* ((Fr.) Quél. 1872); *P.* spp. (Fr.) Kumm. 1871 Agaricomycetes: Agaricales: PLEUROTACEAE
 
-alitaptap na malaki <sub>tl.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
+alitaptap na malaki <sub>tl.</sub> - *Pleurotus ostreatus* (Jacq. ex Fr.)
 
 álug <sub>xnn.</sub> - a type of edible pink mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -111,17 +112,20 @@ amamakol <sub>hil.</sub> - *Volvaria* sp. Bres.; *Volvariella volvacea* (Bull. e
 
 amamakul <sub>Hanunóo</sub> - *Pholidota* sp. (E.M. Fries)
 
-amelat an mumpaha <sub>Ifugao</sub> - *Daedalea repanda* Pers.
+amelat an mumpaha <sub>ifug.</sub> - *Daedalea repanda* Pers.
 
-amelat an natuligongon <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+amelat an natuligongon <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
-amelat di ameleng <sub>Ifugao</sub> - *Poria* sp. Pers. ex S.F. Gray
+amelat di ameleng <sub>ifug.</sub> - *Poria* sp. Pers. ex S.F. Gray
 
-amelat di halepon <sub>Ifugao</sub> - *Daedalea ambigua* Berk.
+amelat di halepon <sub>ifug.</sub> - *Daedalea ambigua* Berk.
 
 amidalán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-anandap <sub>ilo.</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm); *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.); *Pleurotus canus* Quel.; *P. cornucopiae* (Pers.) Rol.; *P. flabellatus* (Berk. & Br.) Sacc.; *P. opuntiae* de Durian & Lev.; *P. ostreatus* (Jacq. ex Fries) Kummer; *P. pulmonarius* Fries; *P.* sp. (Fries) Kummer
+anandap <sub>ilo.</sub>
+- *Hypsizygus ulmarius* ((Bull. ex Fr.) Redhead 1984) (Syn: *Pleurotus ulmarius*) Agaricomycetes: Agaricales: LYOPHYLLACEAE;
+- *Pleurocybella porrigens* ((Pers.) Sing. 1947) (Syn: *Pleurotus porrigens*) Agaricomycetes: Agaricales: PHYLLOTOPSIDACEAE;
+- *Pleurotus canus* (Quel.); *P. cornucopiae* ((Pers.) Rol.); *P. flabellatus* ((Berk. & Br.) Sacc.); *P. limpidus* ((Fr.) Sacc.); *P. opuntiae* ((de Durian & Lev.) Sacc. 1887); *P. ostreatus* ((Jacq. ex Fr.) Kumm. 1871); *P. pulmonarius* ((Fr.) Quél. 1872); *P.* spp. (Fr.) Kumm. 1871 Agaricomycetes: Agaricales: PLEUROTACEAE
 
 anglóan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -147,15 +151,15 @@ baan <sub>xnn.</sub> 
 
 badlan <sub>hil.</sub> - cf. *Lentinus squarrosulus* cf. *Pleurotus* sp.
 
-baen di balluta <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+baen di balluta <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
-baen di habutan <sub>Ifugao</sub> - *Mycena elegans* Fries; *Naucoria pediades* Fries
+baen di habutan <sub>ifug.</sub> - *Mycena elegans* Fries; *Naucoria pediades* Fries
 
-baen di kimelat <sub>Ifugao</sub> - *Lopharia* sp. Kalchbr. & McOwen
+baen di kimelat <sub>ifug.</sub> - *Lopharia* sp. Kalchbr. & McOwen
 
-baen di ulat <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+baen di ulat <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
-baen di ulluli an natuudan <sub>Ifugao</sub> - *Mycena galopus* Pers.
+baen di ulluli an natuudan <sub>ifug.</sub> - *Mycena galopus* Pers.
 
 bagatáas <sub>xnn.</sub> - a type of edible white mushrooom <sup><a href="#3">[3]</a></sup>
 
@@ -171,29 +175,29 @@ balikánaw <sub>xnn.</sub> - a type of edible white mushroom
 
 balikút <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-balluta an iitang <sub>Ifugao</sub> - *Favolus europaeus* Fries
+balluta an iitang <sub>ifug.</sub> - *Favolus europaeus* Fries
 
-balluta an mumpaha <sub>Ifugao</sub> - *Favolus* sp. (Beauv. ex Fries) Fries
+balluta an mumpaha <sub>ifug.</sub> - *Favolus* sp. (Beauv. ex Fries) Fries
 
-balluta an ulat di talanag <sub>Ifugao</sub> - - *Favolus europaeus* Fries
+balluta an ulat di talanag <sub>ifug.</sub> - - *Favolus europaeus* Fries
 
-balluta di bae <sub>Ifugao</sub> - *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.)
+balluta di bae <sub>ifug.</sub> - *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.)
 
-balluta di bangngaan <sub>Ifugao</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
+balluta di bangngaan <sub>ifug.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
 
-balluta di bilhu <sub>Ifugao</sub> - *Pleurotus* sp. (Fries) Kummer
+balluta di bilhu <sub>ifug.</sub> - *Pleurotus* sp. (Fries) Kummer
 
-balluta di boghong <sub>Ifugao</sub> - *Pleurotus pulmonaris* Fries
+balluta di boghong <sub>ifug.</sub> - *Pleurotus pulmonaris* Fries
 
-balluta di bongod <sub>Ifugao</sub> - *Claudopus variabilis* (Pers.) Sm.
+balluta di bongod <sub>ifug.</sub> - *Claudopus variabilis* (Pers.) Sm.
 
-balluta di kayiw gumabillog <sub>Ifugao</sub> - *Hydnum* sp. L. ex Fries
+balluta di kayiw gumabillog <sub>ifug.</sub> - *Hydnum* sp. L. ex Fries
 
-balluta di lotbang <sub>Ifugao</sub> - *Pleurotus opuntiae* de Durian & Lev.; *P. pulmonaris* Fries; *P.* sp. (Fries) Kummer
+balluta di lotbang <sub>ifug.</sub> - *Pleurotus opuntiae* de Durian & Lev.; *P. pulmonaris* Fries; *P.* sp. (Fries) Kummer
 
-balluta di mangalituba <sub>Ifugao</sub> - *Guepinia spathularia* (Schw.) Fries; *Polyporus* sp. (Mich.) Fries ex Fries
+balluta di mangalituba <sub>ifug.</sub> - *Guepinia spathularia* (Schw.) Fries; *Polyporus* sp. (Mich.) Fries ex Fries
 
-balluta di podpod <sub>Ifugao</sub> - *Pleurotus canus* Quel.
+balluta di podpod <sub>ifug.</sub> - *Pleurotus canus* Quel.
 
 balugbug-dagis <sub>pam.</sub> - 等 <sup><a href="#fpp">FPP</a></sup> *= bukui* <sup><a href="#1">[1]:109</a></sup>
 
@@ -213,35 +217,35 @@ bangtán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]
 
 bátang
 
-batang an abibillog <sub>Ifugao</sub> - *Daedalea ambigua* Berk.
+batang an abibillog <sub>ifug.</sub> - *Daedalea ambigua* Berk.
 
-batang an mangmangetet <sub>Ifugao</sub> - *Amauroderma* sp. Murr.
+batang an mangmangetet <sub>ifug.</sub> - *Amauroderma* sp. Murr.
 
-batang an mihda <sub>Ifugao</sub> - *Polystictus versicolor* L. ex Fries
+batang an mihda <sub>ifug.</sub> - *Polystictus versicolor* L. ex Fries
 
-batang an mumbolah <sub>Ifugao</sub> - *Polyporus sanguinus* L.
+batang an mumbolah <sub>ifug.</sub> - *Polyporus sanguinus* L.
 
-batang an mumpaha <sub>Ifugao</sub> - *Polyporus occidentalis* Klotz; *Polyporus sanguinus* L.
+batang an mumpaha <sub>ifug.</sub> - *Polyporus occidentalis* Klotz; *Polyporus sanguinus* L.
 
-batang an na-ok-okep an adi mihda <sub>Ifugao</sub> - *Hydhum adustum* Schwz.
+batang an na-ok-okep an adi mihda <sub>ifug.</sub> - *Hydhum adustum* Schwz.
 
-batang an napagatan <sub>Ifugao</sub> - *Ganoderma* sp. P.A. Karsten
+batang an napagatan <sub>ifug.</sub> - *Ganoderma* sp. P.A. Karsten
 
-batang di anablon <sub>Ifugao</sub> - *Polyporus megaloporus* Mont.
+batang di anablon <sub>ifug.</sub> - *Polyporus megaloporus* Mont.
 
-batang di buluh <sub>Ifugao</sub> - *Polystictus affinis* Nees
+batang di buluh <sub>ifug.</sub> - *Polystictus affinis* Nees
 
-batang di kagiw <sub>Ifugao</sub> - *Ganoderma* sp. P.A. Karsten
+batang di kagiw <sub>ifug.</sub> - *Ganoderma* sp. P.A. Karsten
 
-batang di kayiw an namuol <sub>Ifugao</sub> - *Xylaria* sp. Hill. ex Grev.
+batang di kayiw an namuol <sub>ifug.</sub> - *Xylaria* sp. Hill. ex Grev.
 
-batang di kayiw an tumbal <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+batang di kayiw an tumbal <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
-batang di labu <sub>Ifugao</sub> - *Stereum* sp. Pers.; *Polyporus* sp. (Mich.) Fries ex Fries
+batang di labu <sub>ifug.</sub> - *Stereum* sp. Pers.; *Polyporus* sp. (Mich.) Fries ex Fries
 
-batang di tuwol <sub>Ifugao</sub> - *Polystictus versicolor* L. ex Fries
+batang di tuwol <sub>ifug.</sub> - *Polystictus versicolor* L. ex Fries
 
-batung an dunun <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+batung an dunun <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
 beehive-shaped mushroom <sub>eng.</sub> - *Hexagonia apiaria* Pers.
 
@@ -277,7 +281,7 @@ bong di taáw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3
 
 bong di tallábung <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-bonghalla <sub>ifugao</sub> - *Collybia* sp. (Fries) Staude
+bonghalla <sub>ifug.</sub> - *Collybia* sp. (Fries) Staude
 
 bóo <sub>xnn.</sub> - a type of edible, round, white mushroom <sup><a href="#3">[3]</a></sup> (cf. *Scleroderma* sp.)
 
@@ -293,9 +297,9 @@ bugtán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]<
 
 bulúngan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-bulung an ikkipan <sub>ifugao</sub> - *Collybia* sp. (Fries) Staude
+bulung an ikkipan <sub>ifug.</sub> - *Collybia* sp. (Fries) Staude
 
-bulung an oongal <sub>Ifugao</sub> - *Collybia albuminosa* (Bres.) Petch.
+bulung an oongal <sub>ifug.</sub> - *Collybia albuminosa* (Bres.) Petch.
 
 búnug <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -339,9 +343,9 @@ damdamayan <sub>Kankanaey</sub>
 
 damino <sub>?</sub>
 
-damminul <sub>Ifugao</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm.)
+damminul <sub>ifug.</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm.)
 
-damminul di lotpeng <sub>Ifugao</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm.)
+damminul di lotpeng <sub>ifug.</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm.)
 
 dayami <sub>???</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing. (Syn: *Volvaria esculenta* Bres.)
 
@@ -381,49 +385,49 @@ ganga udalo <sub>Mangyan Batangan</sub> - *Daedalea repanda* Pers.
 
 gatad <sub>Mangyan Batangan</sub> - *Gloeoporus* sp. Mont.
 
-gellobo bau manmangetet <sub>Ifugao</sub> - *Hydnum* sp. L. ex Fries
+gellobo bau manmangetet <sub>ifug.</sub> - *Hydnum* sp. L. ex Fries
 
 giant mushroom <sub>eng.</sub> - *Tricholoma* sp. (Fries) Staude
 
-gibgib ti tabangawon <sub>Ifugao</sub> - *Claudopus variabilis* (Pers.) Sm.
+gibgib ti tabangawon <sub>ifug.</sub> - *Claudopus variabilis* (Pers.) Sm.
 
-giggig <sub>Ifugao</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+giggig <sub>ifug.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
-gigi di baang an mangmangetet <sub>Ifugao</sub> - *Pleurotus* sp. (Fries) Kummer
+gigi di baang an mangmangetet <sub>ifug.</sub> - *Pleurotus* sp. (Fries) Kummer
 
-gigi di panyun <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+gigi di panyun <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
 gílgilittán <sub>xnn.</sub> - a type of poisonous mushroom that grows on cow dung 
 
 gisgis salagang <sub>Mangyan Batangan</sub> - *Hexagonia* sp. Poll. ex Fries
 
-golgolan <sub>Ifugao</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
+golgolan <sub>ifug.</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
 
-golgol an iyan di gando <sub>Ifugao</sub> - *Auricularia polytricha* (Mont.) Sacc.
+golgol an iyan di gando <sub>ifug.</sub> - *Auricularia polytricha* (Mont.) Sacc.
 
-golgol an lumabuggut an umahig <sub>Ifugao</sub> - *Calvatia* sp. Fries
+golgol an lumabuggut an umahig <sub>ifug.</sub> - *Calvatia* sp. Fries
 
-golgol an lumamut an umadap <sub>Ifugao</sub> - *Lycoperdon* sp. Tourn.
+golgol an lumamut an umadap <sub>ifug.</sub> - *Lycoperdon* sp. Tourn.
 
-golgol an mihda <sub>Ifugao</sub> - *Corticium* sp. Pers. ex Gray
+golgol an mihda <sub>ifug.</sub> - *Corticium* sp. Pers. ex Gray
 
-golgol an umadap <sub>Ifugao</sub> - *Grandinia* sp. Fries
+golgol an umadap <sub>ifug.</sub> - *Grandinia* sp. Fries
 
-golgol di anablon <sub>Ifugao</sub> - *Auricularia delicata* Lloyd
+golgol di anablon <sub>ifug.</sub> - *Auricularia delicata* Lloyd
 
-golgol di ehet <sub>Ifugao</sub> - *Grandinia* sp. Fries
+golgol di ehet <sub>ifug.</sub> - *Grandinia* sp. Fries
 
-golgol di kayiw <sub>Ifugao</sub> - *Auricularia mesenterica* (Dick.) Pers.
+golgol di kayiw <sub>ifug.</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
-golgol di lubban <sub>Ifugao</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+golgol di lubban <sub>ifug.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
 
-golgol di umug <sub>Ifugao</sub> - *Mycena corticola* Schol.
+golgol di umug <sub>ifug.</sub> - *Mycena corticola* Schol.
 
 guddug <sub>Polystictus parpagamenus</sub> Fries
 
 gwong <sub>Tboli</sub> *Polystictus* sp. Fries
 
-habutan <sub>Ifugao</sub> - *Marasmius erythropus* Fries
+habutan <sub>ifug.</sub> - *Marasmius erythropus* Fries
 
 honey-bee mushroom <sub>eng.</sub> - *Armellaria mullea* (Fries) Karst.
 
@@ -551,11 +555,11 @@ kabuti sa punong mangga <sub>tl.</sub> - *Ganoderma mangifirae* Lev.
 
 kagaw <sub>hil.</sub> - PROTOZOA?
 
-kalahipoy di hangadan <sub>Ifugao</sub> - *Polystictus parpagamenus* Fries
+kalahipoy di hangadan <sub>ifug.</sub> - *Polystictus parpagamenus* Fries
 
-kalahipoy di labu <sub>Ifugao</sub> - *Stereum* sp. Pers.
+kalahipoy di labu <sub>ifug.</sub> - *Stereum* sp. Pers.
 
-kalalupoy di halinghungon <sub>Ifugao</sub> - *Pleurotus canus* Quel.
+kalalupoy di halinghungon <sub>ifug.</sub> - *Pleurotus canus* Quel.
 
 kalaw <sub>ceb.</sub> - *Collybia reinakeana*
 
@@ -563,7 +567,7 @@ kalutiwas <sub>Tboli</sub> - *Daedalea* sp. Pers. ex Fries
 
 kamay nang patay <sub>tl.</sub> - *Anthurus brownii* Mend.
 
-kamelat an abibillog <sub>Ifugao</sub> - *Trametes corrugata* Pers.
+kamelat an abibillog <sub>ifug.</sub> - *Trametes corrugata* Pers.
 
 kamiyutan <sub>Samar-Leyte</sub> - *Lentinus sajor-caju*
 
@@ -579,9 +583,9 @@ karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 
 kawkaw manilong <sub>Agta</sub> - *Termitomyces cartilaginous* Heim.
 
-kayhom di kayiw <sub>Ifugao</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+kayhom di kayiw <sub>ifug.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
-kayhom di luta <sub>Ifugao</sub> - *Pleurotus* sp. (Fries) Kummer
+kayhom di luta <sub>ifug.</sub> - *Pleurotus* sp. (Fries) Kummer
 
 kidyut-kidyot <sub>Samar-Leyte</sub> - *Pleurotus flabellatus* (Berk. & Br.) Sacc.; *Pleurotus ostreatus* (Jacq. ex Fries)
 
@@ -599,7 +603,7 @@ kóleng si ótot <sub>Bontok</sub> - a kind of thin, non-edible bracket fungus w
 
 kuat
 
-kuddug kan natuggudan <sub>Ifugao</sub> - *Lentinus squarrosulus* Berk. & Curt.
+kuddug kan natuggudan <sub>ifug.</sub> - *Lentinus squarrosulus* Berk. & Curt.
 
 kudet <sub>ilo.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
@@ -714,115 +718,115 @@ lilac mushroom <sub>eng.</sub> - *Lepiota lilacea* Bres.
 
 limalima<sup>†</sup> <sub>tl.<sub>
 
-loblobban <sub>Ifugao</sub> - *Craterellus crispus* Fries
+loblobban <sub>ifug.</sub> - *Craterellus crispus* Fries
 
-loblobban adi mihda <sub>Ifugao</sub> - *Entoloma procerum* Stevens.; *Mycena corticola* Schol.
+loblobban adi mihda <sub>ifug.</sub> - *Entoloma procerum* Stevens.; *Mycena corticola* Schol.
 
-loblobban an mumbolah <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
+loblobban an mumbolah <sub>ifug.</sub> - *Clitocybe laccata* Scop.
 
-loblobban di apatpat <sub>Ifugao</sub> - *Cantarellus aureus*  Berk. & Curt.
+loblobban di apatpat <sub>ifug.</sub> - *Cantarellus aureus*  Berk. & Curt.
 
-loblobban di apgod <sub>Ifugao</sub> - *Clitocybe candicans* Pers.
+loblobban di apgod <sub>ifug.</sub> - *Clitocybe candicans* Pers.
 
-loblobban di baginge <sub>Ifugao</sub> - *Hebeloma crustiliformis* Fries
+loblobban di baginge <sub>ifug.</sub> - *Hebeloma crustiliformis* Fries
 
-loblobban di banginge <sub>Ifugao</sub> - *Conocybe tenera* (Fries) Kuhn
+loblobban di banginge <sub>ifug.</sub> - *Conocybe tenera* (Fries) Kuhn
 
-loblobban di bilanun an napadangan <sub>Ifugao</sub> - *Pluteolus copprohilus* Peck
+loblobban di bilanun an napadangan <sub>ifug.</sub> - *Pluteolus copprohilus* Peck
 
-loblobban di gando <sub>Ifugao</sub> - *Stropharia semiglobata* (Fries) Quel
+loblobban di gando <sub>ifug.</sub> - *Stropharia semiglobata* (Fries) Quel
 
-loblobban di gudah di kayiw <sub>Ifugao</sub> - *Hypholoma appendiculatum* Bull.
+loblobban di gudah di kayiw <sub>ifug.</sub> - *Hypholoma appendiculatum* Bull.
 
-loblobban di gulun <sub>Ifugao</sub> - *Mycena octites* Fries
+loblobban di gulun <sub>ifug.</sub> - *Mycena octites* Fries
 
-loblobban di gulun an oongal <sub>Ifugao</sub> - *Pluteolus copprohilus* Peck
+loblobban di gulun an oongal <sub>ifug.</sub> - *Pluteolus copprohilus* Peck
 
-loblobban di halo <sub>Ifugao</sub> - *Collybia* sp. (Fries) Staude
+loblobban di halo <sub>ifug.</sub> - *Collybia* sp. (Fries) Staude
 
-loblobban di huhuyung <sub>Ifugao</sub> - *Cortinarius* sp. S.F. Gray
+loblobban di huhuyung <sub>ifug.</sub> - *Cortinarius* sp. S.F. Gray
 
-loblobban di inado <sub>Ifugao</sub> - *Lycoperdon pyriforme* Schaeff.
+loblobban di inado <sub>ifug.</sub> - *Lycoperdon pyriforme* Schaeff.
 
-loblobban di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius collisteus* Fries
+loblobban di kayiw an innunig <sub>ifug.</sub> - *Cortinarius collisteus* Fries
 
-loblobban di lahaan <sub>Ifugao</sub> - *Marasmius* sp. E.M. Fries
+loblobban di lahaan <sub>ifug.</sub> - *Marasmius* sp. E.M. Fries
 
-loblobban di lampaw <sub>Ifugao</sub> - *Mycena immaculata* Fries
+loblobban di lampaw <sub>ifug.</sub> - *Mycena immaculata* Fries
 
-loblobban di lamut di bilan <sub>Ifugao</sub> - *Guepinia spathularia* (Schw.) Fries
+loblobban di lamut di bilan <sub>ifug.</sub> - *Guepinia spathularia* (Schw.) Fries
 
-loblobban di lamut di kayiw <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+loblobban di lamut di kayiw <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
-loblobban di linamʼa <sub>Ifugao</sub> - *Calvatia* sp. Fries
+loblobban di linamʼa <sub>ifug.</sub> - *Calvatia* sp. Fries
 
-loblobban di lumuy <sub>Ifugao</sub> - *Mycena epipterygius*Fries
+loblobban di lumuy <sub>ifug.</sub> - *Mycena epipterygius*Fries
 
-loblobban di lumuy an kayiw <sub>Ifugao</sub> - *Marasmius rotula* Fries
+loblobban di lumuy an kayiw <sub>ifug.</sub> - *Marasmius rotula* Fries
 
-loblobban di luta an e-nabuutan <sub>Ifugao</sub> - *Naucoria semiorbicularis* Fries
+loblobban di luta an e-nabuutan <sub>ifug.</sub> - *Naucoria semiorbicularis* Fries
 
-loblobban di natunut an bitan <sub>Ifugao</sub> - *Clavaria zippelii* Lev. (syn: Ramaria zippelii (Lev.) Cor.)
+loblobban di natunut an bitan <sub>ifug.</sub> - *Clavaria zippelii* Lev. (syn: Ramaria zippelii (Lev.) Cor.)
 
-loblobban di oldap <sub>Ifugao</sub> - *Geaster* sp. Mich. ex Fries
+loblobban di oldap <sub>ifug.</sub> - *Geaster* sp. Mich. ex Fries
 
-loblobban di page <sub>Ifugao</sub> - *Clitocybe multiceps* Peck
+loblobban di page <sub>ifug.</sub> - *Clitocybe multiceps* Peck
 
-loblobban di palayun <sub>Ifugao</sub> - *Lactarius pallidus* Fries
+loblobban di palayun <sub>ifug.</sub> - *Lactarius pallidus* Fries
 
-loblobban di palayun an mihda <sub>Ifugao</sub> - *Russula* sp. Pers. ex S.F. Gray
+loblobban di palayun an mihda <sub>ifug.</sub> - *Russula* sp. Pers. ex S.F. Gray
 
-loblobban di palunge an oongal <sub>Ifugao</sub> - *Pleurotus coprophilus* Peck
+loblobban di palunge an oongal <sub>ifug.</sub> - *Pleurotus coprophilus* Peck
 
-loblobban di talugtug <sub>Ifugao</sub> - *Mycena galopus* Pers.
+loblobban di talugtug <sub>ifug.</sub> - *Mycena galopus* Pers.
 
-loblobban di tawayan <sub>Ifugao</sub> - *Clavaria cinerea* Fries
+loblobban di tawayan <sub>ifug.</sub> - *Clavaria cinerea* Fries
 
-loblobban di tibbang <sub>Ifugao</sub> - *Galera hyplorum* Fries
+loblobban di tibbang <sub>ifug.</sub> - *Galera hyplorum* Fries
 
-loblobban di tubun di palayun <sub>Ifugao</sub> - *Cortinarius glaucopus* Fries
+loblobban di tubun di palayun <sub>ifug.</sub> - *Cortinarius glaucopus* Fries
 
-loblobban di tungod di kayiw an e-innunig <sub>Ifugao</sub> - *Pholidota adiposa* Fries
+loblobban di tungod di kayiw an e-innunig <sub>ifug.</sub> - *Pholidota adiposa* Fries
 
-loblobban di unah <sub>Ifugao</sub> - *Collybia confluens* Pers.
+loblobban di unah <sub>ifug.</sub> - *Collybia confluens* Pers.
 
-loblobban e-innunig <sub>Ifugao</sub> - *Naucoria pediades* Fries
+loblobban e-innunig <sub>ifug.</sub> - *Naucoria pediades* Fries
 
-loblobban e-innunig an iitang <sub>Ifugao</sub> - *Mycena immaculata* Fries
+loblobban e-innunig an iitang <sub>ifug.</sub> - *Mycena immaculata* Fries
 
-loblobban e potelo <sub>Ifugao</sub> - *Scleroderma* sp. Pers.
+loblobban e potelo <sub>ifug.</sub> - *Scleroderma* sp. Pers.
 
-loblobban iitang <sub>Ifugao</sub> - *Stropharia* sp. (Fries) Quel.
+loblobban iitang <sub>ifug.</sub> - *Stropharia* sp. (Fries) Quel.
 
-loblobban iitang an mumbola <sub>Ifugao</sub> - *Clavaria fragilis* Fries
+loblobban iitang an mumbola <sub>ifug.</sub> - *Clavaria fragilis* Fries
 
-loblobban iitang an mumbolah <sub>Ifugao</sub> - *Mycena elegans* Fries
+loblobban iitang an mumbolah <sub>ifug.</sub> - *Mycena elegans* Fries
 
-loblobban mangmangetet <sub>Ifugao</sub> - *Stropharia* sp. (Fries) Quel.
+loblobban mangmangetet <sub>ifug.</sub> - *Stropharia* sp. (Fries) Quel.
 
-loblobban mumbolah <sub>Ifugao</sub> - *Russula nigricans* Fries
+loblobban mumbolah <sub>ifug.</sub> - *Russula nigricans* Fries
 
-loblobban mumpaha <sub>Ifugao</sub> - *Pleurotus* sp. (Fries) Kummer
+loblobban mumpaha <sub>ifug.</sub> - *Pleurotus* sp. (Fries) Kummer
 
-loblobban mumpaha an nadupdupaya <sub>Ifugao</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
+loblobban mumpaha an nadupdupaya <sub>ifug.</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
 
-loblobban napadangan <sub>Ifugao</sub> - *Stropharia* sp. (Fries) Quel.
+loblobban napadangan <sub>ifug.</sub> - *Stropharia* sp. (Fries) Quel.
 
-loblobban nagamgamatan <sub>Ifugao</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
+loblobban nagamgamatan <sub>ifug.</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
 
-loblobban nagaygayut <sub>Ifugao</sub> - *Clavaria zippelii* Lev. (syn: Ramaria zippelii (Lev.) Cor.)
+loblobban nagaygayut <sub>ifug.</sub> - *Clavaria zippelii* Lev. (syn: Ramaria zippelii (Lev.) Cor.)
 
-loblobban napadangan <sub>Ifugao</sub> - *Lepiota cristata* (Fries) Quel; *L. lilacea* Bres.
+loblobban napadangan <sub>ifug.</sub> - *Lepiota cristata* (Fries) Quel; *L. lilacea* Bres.
 
-loblobban paddangan <sub>Ifugao</sub> - *Lepiota gracilenta* Kromb.
+loblobban paddangan <sub>ifug.</sub> - *Lepiota gracilenta* Kromb.
 
-loblobban tungod di kayiw <sub>Ifugao</sub> - *Naucoria pediades* Fries
+loblobban tungod di kayiw <sub>ifug.</sub> - *Naucoria pediades* Fries
 
-loblobban umahu <sub>Ifugao</sub> - *Scleroderma verrucosum* Bull. ex Pers.
+loblobban umahu <sub>ifug.</sub> - *Scleroderma verrucosum* Bull. ex Pers.
 
 long-rooted mushroom <sub>eng.</sub> - *Oudemansiella radicata* (Fries) Sing. (Syn:*Collybia radicata* Relhan)
 
-lumeng <sub>Ifugao</sub> - *Collybia* sp. (Fries) Staude
+lumeng <sub>ifug.</sub> - *Collybia* sp. (Fries) Staude
 
 lumsek <sub>???</sub> - *Hygrophorus ???*
 
@@ -842,7 +846,7 @@ mamánok
 
 mamarang <sub>tl.</sub> - *Collybia* sp. (Fries) Staude; *Termitomyces cartilaginous* Heim.
 
-mangmangetet <sub>Ifugao</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
+mangmangetet <sub>ifug.</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
 
 makol <sub>hil.</sub>
 
@@ -856,7 +860,7 @@ minmin <sub>Mangyan Batangan</sub> - *Irpex flavus* Klotz
 
 mushroom
 
-nadupdupengel <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
+nadupdupengel <sub>ifug.</sub> - *Clitocybe laccata* Scop.
 
 ngaan <sub>xnn.</sub> - *Lactarius* sp. Pers.
 
@@ -1076,7 +1080,7 @@ tubo-tubo <sub>Samar-Leyte</sub> - *Lentinus sajor-caju*
 
 tugud - <sub>Batangan, Mangyan</sub> - *Marasmius* sp. E.M. Fries
 
-tukukan <sub>Ifugao</sub> - *Marasmius nigripes* Schwz.
+tukukan <sub>ifug.</sub> - *Marasmius nigripes* Schwz.
 
 tuli-amu danlakan <sub>Hanunóo</sub> - *Auricularia* spp. Bull. ex Merat
 
@@ -1086,15 +1090,15 @@ tuputupu <sub>Ivatan</sub>
 
 udalu <sub>Mangyan Batangan</sub> - *Daedalea ambigua* Berk.; *Trametes* sp. Fries
 
-uddudin di amu <sub>Ifugao</sub> - *Mycena vulgaris* Fries
+uddudin di amu <sub>ifug.</sub> - *Mycena vulgaris* Fries
 
-uddudin mihda <sub>Ifugao</sub> - *Pleurotus pulmonaris* Fries
+uddudin mihda <sub>ifug.</sub> - *Pleurotus pulmonaris* Fries
 
-uddug <sub>Ifugao</sub> - *Polystictus parpagamenus* Fries
+uddug <sub>ifug.</sub> - *Polystictus parpagamenus* Fries
 
-uddug di nadupdupingil an adi mihda <sub>Ifugao</sub> - *Hypholoma fasciculare* Fries
+uddug di nadupdupingil an adi mihda <sub>ifug.</sub> - *Hypholoma fasciculare* Fries
 
-uddug ni natuudan <sub>Ifugao</sub> - *Boletinus* sp. Kalchbr.
+uddug ni natuudan <sub>ifug.</sub> - *Boletinus* sp. Kalchbr.
 
 udyaping <sub>ceb.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
@@ -1106,57 +1110,57 @@ ulapting <sub>ceb.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
 ulapting <sub>Samar-Leyte</sub> - mushroom spp.
 
-ulat an mihda <sub>Ifugao</sub> - *Lentinus squarrosolus* Berk. & Curt.
+ulat an mihda <sub>ifug.</sub> - *Lentinus squarrosolus* Berk. & Curt.
 
-ulatan mumpaha <sub>Ifugao</sub> - *Poria* sp. Pers. ex S.F. Gray
+ulatan mumpaha <sub>ifug.</sub> - *Poria* sp. Pers. ex S.F. Gray
 
-ulat an natuudan <sub>Ifugao</sub> - *Boletinus* sp. Kalchbr.; *Lentinus sajor-caju* Fries; *L. squarrosulus* Berk. & Curt.; *Polyporus arcularius* Fries
+ulat an natuudan <sub>ifug.</sub> - *Boletinus* sp. Kalchbr.; *Lentinus sajor-caju* Fries; *L. squarrosulus* Berk. & Curt.; *Polyporus arcularius* Fries
 
-ulat an ngumitit <sub>Ifugao</sub> - *Polyporus megaloporus* Mont.
+ulat an ngumitit <sub>ifug.</sub> - *Polyporus megaloporus* Mont.
 
-ulat di anablon <sub>Ifugao</sub> - *Cymatoderma infundibuliformis* (Klotz) Fries; *Polyporus* sp. (Mich.) Fries ex Fries
+ulat di anablon <sub>ifug.</sub> - *Cymatoderma infundibuliformis* (Klotz) Fries; *Polyporus* sp. (Mich.) Fries ex Fries
 
-ulat di anablon magaygayut <sub>Ifugao</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
+ulat di anablon magaygayut <sub>ifug.</sub> - *Clavaria stricta* Pers. (Syn: *Ramaria stricta* (Pers. ex Fries) Quel.)
 
-ulat di anlatip <sub>Ifugao</sub> - *Polyporus pinsitus* Fries
+ulat di anlatip <sub>ifug.</sub> - *Polyporus pinsitus* Fries
 
-ulat di atelba <sub>Ifugao</sub> - *Mycena hiemalis* Fries
+ulat di atelba <sub>ifug.</sub> - *Mycena hiemalis* Fries
 
-ulat di atingol <sub>Ifugao</sub> - *Lopharia* sp. Kalchbr. & McOwen
+ulat di atingol <sub>ifug.</sub> - *Lopharia* sp. Kalchbr. & McOwen
 
-ulat di balinghingon <sub>Ifugao</sub> - *Hymenochaete* sp. J.H. Lev.
+ulat di balinghingon <sub>ifug.</sub> - *Hymenochaete* sp. J.H. Lev.
 
-ulat di butgi <sub>Ifugao</sub> - *Polystictus affinis* Nees
+ulat di butgi <sub>ifug.</sub> - *Polystictus affinis* Nees
 
-ulat di kayiw <sub>Ifugao</sub> - *Thelophora* sp. Ehrhart ex Fries
+ulat di kayiw <sub>ifug.</sub> - *Thelophora* sp. Ehrhart ex Fries
 
-ulat di kayiw an innunig <sub>Ifugao</sub> - *Cortinarius cinnamomeus* Fries
+ulat di kayiw an innunig <sub>ifug.</sub> - *Cortinarius cinnamomeus* Fries
 
-ulat di lahaan <sub>Ifugao</sub> - *Mycena hiemalis* Fries
+ulat di lahaan <sub>ifug.</sub> - *Mycena hiemalis* Fries
 
-ulat di lahaan an mumpaha <sub>Ifugao</sub> - *Pleurotus canus* Quel.
+ulat di lahaan an mumpaha <sub>ifug.</sub> - *Pleurotus canus* Quel.
 
-ulat di lamut di kayiw an uungal <sub>Ifugao</sub> - *Lentinus exilis*
+ulat di lamut di kayiw an uungal <sub>ifug.</sub> - *Lentinus exilis*
 
-ulat di lapidokan <sub>Ifugao</sub> - *Clitocybe cyathiformis* Fries
+ulat di lapidokan <sub>ifug.</sub> - *Clitocybe cyathiformis* Fries
 
-ulat di lapidokan an natudan <sub>Ifugao</sub> - *Clitocybe laccata* Scop.
+ulat di lapidokan an natudan <sub>ifug.</sub> - *Clitocybe laccata* Scop.
 
-ulat di luta <sub>Ifugao</sub> - *Thelophora* sp. Ehrhart ex Fries
+ulat di luta <sub>ifug.</sub> - *Thelophora* sp. Ehrhart ex Fries
 
-ulat di mangalituba <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+ulat di mangalituba <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
-ulat di palayun <sub>Ifugao</sub> - *Thelophora laciniata* Pers.; *Polyporus* sp. (Mich.) Fries ex Fries
+ulat di palayun <sub>ifug.</sub> - *Thelophora laciniata* Pers.; *Polyporus* sp. (Mich.) Fries ex Fries
 
-ulat di hinaphap <sub>Ifugao</sub> - *Cyathus striatus* Hoffm.
+ulat di hinaphap <sub>ifug.</sub> - *Cyathus striatus* Hoffm.
 
-ulat di talana <sub>Ifugao</sub> - *Stereum* sp. Pers.; *Cymatoderma infundibuliformis* (Klotz) Fries
+ulat di talana <sub>ifug.</sub> - *Stereum* sp. Pers.; *Cymatoderma infundibuliformis* (Klotz) Fries
 
-ulat di te-om <sub>Ifugao</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+ulat di te-om <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
-ulat di ulatton <sub>Ifugao</sub> - *Polyporus versicolor* (L.)
+ulat di ulatton <sub>ifug.</sub> - *Polyporus versicolor* (L.)
 
-ulat di waal <sub>Ifugao</sub> - *Hygrophorus vigineus*  Fries
+ulat di waal <sub>ifug.</sub> - *Hygrophorus vigineus*  Fries
 
 uhong <sub>mul.</sub> - mushroom spp. (cf. *quSuŋ)
 
@@ -1218,7 +1222,7 @@ batu kulat <sub>Iban</sub> - mushroom stone; noxious talisman
 
 beard moss <sub>eng.</sub> - *Usnea* spp. P. Brown ex Adans. (Lichen)
 
-bungut di takangaon <sub>Ifugao</sub> - *Usnea endorhodina* Vainio (Lichen)
+bungut di takangaon <sub>ifug.</sub> - *Usnea endorhodina* Vainio (Lichen)
 
 lebadura <sub>tl.</sub> - yeast
 
@@ -1226,7 +1230,7 @@ lumot kahoy <sub>tl.</sub> - *Usnea philippina* Vainio (Lichen)
 
 lumot niyog <sub>tl.</sub> - *Usnea montagnei* Vainio (Lichen)
 
-lumuy di kayiw <sub>Ifugao</sub> - *Pseudocyphellaria* sp. Vainio (Lichen)
+lumuy di kayiw <sub>ifug.</sub> - *Pseudocyphellaria* sp. Vainio (Lichen)
 
 old man's beard <sub>eng.</sub> - *Usnea* spp. P. Brown ex Adans. (Lichen)
 
