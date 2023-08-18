@@ -42,7 +42,15 @@ Abbreviations of languages here are based on ISO-639
 	 
 	eng. - English, Philippine English
 	
+	hnn. - Hanunóo
+	 
 	hil. - Hiligaynon, Ilonggo
+	 
+	ifug. - Ifugao
+	 
+	ifb. - Batad Ifugao
+	 
+	krj. - Karay-a, Kinaray-a
 	 
 	pag. - Pangasinan 
 	
@@ -52,6 +60,8 @@ Abbreviations of languages here are based on ISO-639
 	
 	smk. - Bolinao
 	
+	tgt. - Tagbanwa Sentral
+	 
 	xnn. - Northern Kankanay, Lepanto Igorot, Sagada Igorot
 	
 	mul. - Many languages, multilingual
@@ -110,7 +120,7 @@ amag <sub>tl.</sub> - mold; mildew 
 
 amamakol <sub>hil.</sub> - *Volvaria* sp. Bres.; *Volvariella volvacea* (Bull. ex Fries) Sing. (Syn: *Volvaria esculenta* Bres.)
 
-amamakul <sub>Hanunóo</sub> - *Pholidota* sp. (E.M. Fries)
+amamakul <sub>hnn.</sub> - *Pholidota* sp. (E.M. Fries)
 
 amelat an mumpaha <sub>ifug.</sub> - *Daedalea repanda* Pers.
 
@@ -261,7 +271,7 @@ bituinglupaʼ <sub>tl.</sub> - *Geaster hygrometicus* Pers.
 
 black bulgar <sub>eng.</sub> - *Trichaleurina javanica*
 
-black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
 blood-red mushroom <sub>eng.</sub> - *Russula sanguinea* Fries
 
@@ -419,7 +429,7 @@ golgol di ehet <sub>ifug.</sub> - *Grandinia* sp. Fries
 
 golgol di kayiw <sub>ifug.</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
-golgol di lubban <sub>ifug.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+golgol di lubban <sub>ifug.</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
 golgol di umug <sub>ifug.</sub> - *Mycena corticola* Schol.
 
@@ -433,9 +443,9 @@ honey-bee mushroom <sub>eng.</sub> - *Armellaria mullea* (Fries) Karst.
 
 ihiʼ nang aso <sub>tl.</sub> - (small inedible mushrooms)
 
-inga-inga <sub>tl.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+inga-inga <sub>tl.</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
-ing-inga <sub>xnn.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+ing-inga <sub>xnn.</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
 inga-n di káiw <sub>Kankanaey</sub> - ear-of-tree
 
@@ -665,7 +675,7 @@ kulot-batong <sub>Tboli</sub> - *Ganoderma* sp. P.A. Karsten
 
 kulot koti <sub>Blit Manobo</sub> - *Ganoderma* sp. P.A. Karsten
 
-kulut tangulu <sub>Tasaday</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+kulut tangulu <sub>Tasaday</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
 kulut-ubal <sub>Tasaday</sub> - *Daedalea* sp. Pers. ex Fries
 
@@ -677,7 +687,7 @@ kurakding <sub>*Bikol*</sub> - *Auricularia* spp. Bull. ex Merat
 
 kurapodit <sub>ceb.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
-kurkur <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+kurkur <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
 kuwát-aníto <sub>*Pinatubo Agta*</sub> - non-edible mushroom; ear-fungi of the spirits
 
@@ -685,14 +695,14 @@ kuyog <sub>tl.</sub> - *Termitomyces cartilaginous* Heim.
 
 kwat <sub>Sambali</sub> - mushroom 
 
-labit <sub>Waray</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+labit <sub>Waray</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
 
 lamlam-ing <sub>xnn.</sub> - *Cantharellus* spp.
 
 langgot-langgot <sub>hil.</sub> - *Stereum* sp. Pers.
 
-laplapayag <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+laplapayag <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
 large firefly mushroom <sub>eng.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
 
@@ -700,11 +710,11 @@ large firefly mushroom <sub>eng.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
 
 leather-colored mushroom <sub>eng.</sub> - *Marasmius haematocephalus* Mont.
 
-ligat-ligat <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+ligat-ligat <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
 ligbos <sub>ceb., Samar-Leyte</sub> - *Termitomyces cartilaginous* Heim.
 
-ligbus <sub>Hanunóo</sub> - *Collybia* sp. (Fries) Staude
+ligbus <sub>hnn.</sub> - *Collybia* sp. (Fries) Staude
 
 ligbus <sub>*Bagobo*</sub> - *Coprinus concolor* Copel.
 
@@ -830,7 +840,7 @@ lumeng <sub>ifug.</sub> - *Collybia* sp. (Fries) Staude
 
 lumsek <sub>???</sub> - *Hygrophorus ???*
 
-lupik <sub>Hanunóo</sub> - *Geaster sp.*
+lupik <sub>hnn.</sub> - *Geaster sp.*
 
 lusi-lusi <sub>?</sub> - *Trichaleurina javanica*
 
@@ -908,7 +918,7 @@ payung-payungan kulog <sub>Kapampangan</sub> - *Collybia albuminosa* (Bres.) Pe
 
 payung na nipay
 
-piruk-digaw <sub>Hanunóo</sub> - *Lentinus* sp. Fries
+piruk-digaw <sub>hnn.</sub> - *Lentinus* sp. Fries
 
 plicated mushroom <sub>eng.</sub> - *Coprinus plicatilis* (Fries) Fries
 
@@ -920,9 +930,9 @@ pugad nang ibon <sub>tl.</sub> - *Cyathus striatus* Hoffm.
 
 *quSuŋ <sub>Proto-Austronesian</sub> - mushroom spp.
 
-ramag <sub>Tagbanwa Sentral</sub> - mold, mildew
+ramag <sub>tgt.</sub> - mold, mildew
 
-rámag <sub>Kinarayʼa</sub> - bioluminescent mushroom
+rámag <sub>krj.</sub> - bioluminescent mushroom
 
 red-cupped mushroom <sub>eng.</sub> - *Peziza tricholoma* mont.
 
@@ -934,7 +944,7 @@ reishi <sub>eng.</sub> - *Ganoderma lucidum* (Leys) P.A. Karsten; *Ganoderma tsu
 
 rusty mushroom <sub>eng.</sub> - *Naucoria semiorbicularis* Fries
 
-salʼan <sub>Hanunóo</sub> - *Lentinus* sp. Fries
+salʼan <sub>hnn.</sub> - *Lentinus* sp. Fries
 
 salapia <sub>Mangyan Batangan</sub> - *Polystictus affinis* Nees
 
@@ -942,7 +952,7 @@ salapya <sub>Mangyan Batangan</sub> - *Daedalea palisoti* Fries
 
 salingsingan <sub>???</sub> - (cf. *Chlorophyllum molybdites*)
 
-sandok laban <sub>Hanunóo</sub> - *Ganoderma lucidum* P.A. Karsten
+sandok laban <sub>hnn.</sub> - *Ganoderma lucidum* P.A. Karsten
 
 sarumiu <sub>Mangyan Batangan</sub> - *Hydnum* sp. L. ex Fries
 
@@ -954,7 +964,7 @@ shell mushroom <sub>eng.</sub> - *Daedalea flavida* Lev.
 
 sikdot <sub>tl.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
-sikdut <sub>Hanunóo</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
+sikdut <sub>hnn.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
 subsub baboy <sub>ilo.</sub> - *Trichaleurina javanica*
 
@@ -968,49 +978,49 @@ tabiák<sup>†</sup> <sub>tl.</sub> - 等<sup> <a href="#updf">UPDF</a> </sup> 
 
 tabilew <sub>xnn.</sub> - specific yellow mushrooms (*Amanita caesarea*, *A. javanica*, *A. rufoferruginea*, *Russula* sp.)
 
-tabyak <sub>Hanunóo</sub> - *Pleurotus* sp. (Fries) Kummer
+tabyak <sub>hnn.</sub> - *Pleurotus* sp. (Fries) Kummer
 
 tabyok - -
 
-tabyus <sub>Hanunóo</sub> - *Lentinus* sp. Fries
+tabyus <sub>hnn.</sub> - *Lentinus* sp. Fries
 
-taganlit <sub>Hanunóo</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
+taganlit <sub>hnn.</sub> - *Daldinia concentrica* (Bolt.) Ces. & de Not.
 
 tagulamín <sub>tl.</sub> - mildew; mold (especially that formed on dirty clothes left unwashed for a long time)
 
-takulaw <sub>Hanunóo</sub> - *Clitocybe* sp. (Fries) Staude
+takulaw <sub>hnn.</sub> - *Clitocybe* sp. (Fries) Staude
 
-taingandagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+taingandagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw.
 
-taingang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.); *Auricularia affinis* Lev.; *Auricularia delicata* Lloyd; *Auricularia polytricha* (Mont.) Sacc.; *Auricularia* spp. Bull. ex Merat
+taingang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw.; *Auricularia affinis* Lev.; *Auricularia delicata* Lloyd; *Auricularia polytricha* (Mont.) Sacc.; *Auricularia* spp. Bull. ex Merat
 
 taingang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
 tainga ng unggoy <sub>tl.<sub> - *Auricularia spp.*
 
-talinga <sub>*Bng*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+talinga <sub>*Bng*</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
-talinga batan <sub>Hanunóo</sub> - *Polystictus* sp. Fries; *Polyporus* sp. (Mich.) Fries ex Fries
+talinga batan <sub>hnn.</sub> - *Polystictus* sp. Fries; *Polyporus* sp. (Mich.) Fries ex Fries
 
-talinga batan bayu-ad <sub>Hanunóo</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+talinga batan bayu-ad <sub>hnn.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
-talinga batan bayudʼad <sub>Hanunóo</sub> - *Daedalea repanda* Pers.
+talinga batan bayudʼad <sub>hnn.</sub> - *Daedalea repanda* Pers.
 
-talinga batan lapinyad <sub>Hanunóo</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+talinga batan lapinyad <sub>hnn.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
-talinga batan masiku-un <sub>Hanunóo</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+talinga batan masiku-un <sub>hnn.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
 
-talinga batan panlunaw <sub>Hanunóo</sub> - *Hexagonia* sp. Poll. ex Fries
+talinga batan panlunaw <sub>hnn.</sub> - *Hexagonia* sp. Poll. ex Fries
 
-talingabátang <sub>Hanunóo</sub> - ear-log
+talingabátang <sub>hnn.</sub> - ear-log
 
 talinga et ambo <sub>Asi</sub> - rat ear
 
-talinga nang batang <sub>*BisC*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+talinga nang batang <sub>*BisC*</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
 talinga na ulak <sub>Ibanag</sub> - *Auricularia* spp. Bull. ex Merat
 
-talingan batan lapinyad <sub>Hanunóo</sub> - *Ganoderma* sp. P.A. Karsten
+talingan batan lapinyad <sub>hnn.</sub> - *Ganoderma* sp. P.A. Karsten
 
 talínga danāg <sub>Isneg</sub> - ear-spirit; a kind of bracket fungus that resembles *xanggarát* but is much larger
 
@@ -1026,7 +1036,7 @@ taluro <sub>Ibanag</sub> - mushroom spp.
 
 tambo-tambo <sub>?</sub> - *Trichaleurina javanica*
 
-tangolog <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.)
+tangolog <sub>*Tas*</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
 tangoy-tangoy <sub>bisaya<sub> - *Auricularia spp.*
 
@@ -1040,19 +1050,19 @@ taybo manok <sub>Tausug</sub> - *Tricholoma* sp. (Fries) Staude
 
 taybo taikabaw <sub>Tausug</sub> - *Chlorophyllum* sp. Mass.
 
-tayub-kayukus <sub>Hanunóo</sub> - *Laschia* sp. Jungh.
+tayub-kayukus <sub>hnn.</sub> - *Laschia* sp. Jungh.
 
-tayubu-banbanay <sub>Hanunóo</sub> - *Panus* sp. Fries
+tayubu-banbanay <sub>hnn.</sub> - *Panus* sp. Fries
 
 tayubu bang <sub>Mangyan Batangan</sub> - *Dictyophora* sp. Desv.
 
-tayubu-laban <sub>Hanunóo</sub> - *Marasmius* sp. E.M. Fries
+tayubu-laban <sub>hnn.</sub> - *Marasmius* sp. E.M. Fries
 
-tayubu lapitak <sub>Hanunóo</sub> - *Pleurotus* sp. (Fries) Kummer
+tayubu lapitak <sub>hnn.</sub> - *Pleurotus* sp. (Fries) Kummer
 
-tayubu uli an namuk <sub>Hanunóo</sub> - *Favolus* sp. (Beauv. ex Fries) Fries
+tayubu uli an namuk <sub>hnn.</sub> - *Favolus* sp. (Beauv. ex Fries) Fries
 
-tengang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw. (Syn: *A. auricula-judae* L.); *Auricularia affinis* Lev.; *Auricularia delicata* Lloyd; *Auricularia polytricha* (Mont.) Sacc.; *Auricularia* spp. Bull. ex Merat
+tengang dagaʼ <sub>tl.</sub> - rat-ear; *Auricularia auricula* (L. ex Hook.) Underw.; *Auricularia affinis* Lev.; *Auricularia delicata* Lloyd; *Auricularia polytricha* (Mont.) Sacc.; *Auricularia* spp. Bull. ex Merat
 
 tengang dagaʼ na mabalahibo <sub>tl.</sub> - *Auricularia mesenterica* (Dick.) Pers.
 
@@ -1060,9 +1070,9 @@ tigbos <sub>Bikol</sub> - mushroom spp.
 
 tiger mushroom <sub>eng.</sub> - *Lepiota cristata* (Fries) Quel.
 
-tiwtiw diriit <sub>Hanunóo</sub> - *Typhula* sp. (Pers.) Fries
+tiwtiw diriit <sub>hnn.</sub> - *Typhula* sp. (Pers.) Fries
 
-tiwtiw saraka <sub>Hanunóo</sub> - *Xylaria* sp. Hill. ex Grev.
+tiwtiw saraka <sub>hnn.</sub> - *Xylaria* sp. Hill. ex Grev.
 
 tobo <sub>Bikol</sub> - mushroo
 
@@ -1082,7 +1092,7 @@ tugud - <sub>Batangan, Mangyan</sub> - *Marasmius* sp. E.M. Fries
 
 tukukan <sub>ifug.</sub> - *Marasmius nigripes* Schwz.
 
-tuli-amu danlakan <sub>Hanunóo</sub> - *Auricularia* spp. Bull. ex Merat
+tuli-amu danlakan <sub>hnn.</sub> - *Auricularia* spp. Bull. ex Merat
 
 tungang-basin
 
@@ -1216,7 +1226,7 @@ anʼan
 
 apʼap 
 
-bagiw di kayiw <sub>IfugaoBt</sub> - *Usnea endorhodina* Vainio (Lichen)
+bagiw di kayiw <sub>ifb.</sub> - *Usnea endorhodina* Vainio (Lichen)
 
 batu kulat <sub>Iban</sub> - mushroom stone; noxious talisman
 
