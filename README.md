@@ -47,8 +47,8 @@ Abbreviations of languages here are based on ISO-639
 	hil. - Hiligaynon, Ilonggo
 	 
 	ifug. - Ifugao
-	 
-	ifb. - Batad Ifugao
+	
+		ifb. - Batad Ifugao
 	 
 	krj. - Karay-a, Kinaray-a
 	 
@@ -118,17 +118,22 @@ alitaptap na malaki <sub>tl.</sub> - *Pleurotus ostreatus* (Jacq. ex Fr.)
 
 amag <sub>tl.</sub> - mold; mildew 
 
-amamakol <sub>hil.</sub> - *Volvaria* sp. Bres.; *Volvariella volvacea* (Bull. ex Fries) Sing. (Syn: *Volvaria esculenta* Bres.)
+amamakol <sub>hil.</sub> - *Volvaria* sp. Bres. ???; *Volvariella volvacea* (Bull. ex Fries) Sing. (Syn: *Volvaria esculenta*)
 
-amamakul <sub>hnn.</sub> - *Pholidota* sp. (E.M. Fries)
+amamakul <sub>hnn.</sub>
+- *Pholiota* sp. (E.M. Fries)
 
-amelat an mumpaha <sub>ifug.</sub> - *Daedalea repanda* Pers.
+amelat an mumpaha <sub>ifug.</sub>
+- *Daedalea repanda* Pers.
 
-amelat an natuligongon <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+amelat an natuligongon <sub>ifug.</sub>
+- *Polyporus* sp. (Mich.) Fr. ex Fr.
 
-amelat di ameleng <sub>ifug.</sub> - *Poria* sp. Pers. ex S.F. Gray
+amelat di ameleng <sub>ifug.</sub>
+- *Poria* sp. Pers. ex S.F. Gray
 
-amelat di halepon <sub>ifug.</sub> - *Daedalea ambigua* Berk.
+amelat di halepon <sub>ifug.</sub>
+- *Daedalea ambigua* Berk.
 
 amidalán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
