@@ -42,6 +42,8 @@ Abbreviations of languages here are based on ISO-639
 	 
 	eng. - English, Philippine English
 	
+	bnc. - Bontoc, Bontok, Finallig
+			
 	hnn. - Hanunóo
 	 
 	hil. - Hiligaynon, Ilonggo
@@ -81,21 +83,25 @@ Abbreviations of languages here are based on ISO-639
 	
 	syn. - synonymous with, synonym
 
+	lit. - literally, literal definition
+
 ## [dictionary](#contents)
 
 ab-abó <sub>xnn.</sub> - a type of edible yellow mushroom <sup><a href="#3">[3]</a></sup>
 
 abkálaw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-ada-an <sub>xnn.</sub> - *Termitomyces* sp.
+ada-an <sub>xnn.</sub>
+- *Termitomyces* sp. (Heim 1942) Agaricomycetes: Agaricales: LYOPHYLLACEAE
 
 adálan <sub>xnn.</sub> - a type of edible, whitish gray mushroom <sup><a href="#3">[3]</a></sup>
 
-adalan <sub>ilo.</sub> - *Tricholoma* sp. (Fries) Staude
+adalan <sub>ilo.</sub>
+- *Tricholoma* sp. (Fries) Staude Agaricomycetes: Agaricales: TRICHOLOMATACEAE
 
 adán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-agubʼub <sub>ceb.</sub> - mushroom
+agubʼub <sub>ceb.</sub> mushroom
 
 agupʼup <sub>ceb.</sub> - cf. *agubʼub*
 
@@ -110,41 +116,51 @@ alamag <sub>mul.</sub> - mold
 alitaptap <sub>tl.</sub> (lit. firefly)
 - *Hypsizygus ulmarius* ((Bull. ex Fr.) Redhead 1984) (Syn: *Pleurotus ulmarius*) Agaricomycetes: Agaricales: LYOPHYLLACEAE;
 - *Pleurocybella porrigens* ((Pers.) Sing. 1947) (Syn: *Pleurotus porrigens*) Agaricomycetes: Agaricales: PHYLLOTOPSIDACEAE;
-- *Pleurotus canus* (Quel.); *P. cornucopiae* ((Pers.) Rol.); *P. flabellatus* ((Berk. & Br.) Sacc.); *P. limpidus* ((Fr.) Sacc.); *P. opuntiae* ((de Durian & Lev.) Sacc. 1887); *P. ostreatus* ((Jacq. ex Fr.) Kumm. 1871); *P. pulmonarius* ((Fr.) Quél. 1872); *P.* spp. (Fr.) Kumm. 1871 Agaricomycetes: Agaricales: PLEUROTACEAE
+- *Pleurotus canus* (Quel.); *P. cornucopiae* ((Paul.) Quél. 1885); *P. flabellatus* ((Berk. & Br.) Sacc. 1887); *P. limpidus* ((Fr.) Sacc.); *P. opuntiae* ((de Durian & Lev.) Sacc. 1887); *P. ostreatus* ((Jacq. ex Fr.) Kumm. 1871); *P. pulmonarius* ((Fr.) Quél. 1872); *P.* spp. ((Fr.) Kumm. 1871) Agaricomycetes: Agaricales: PLEUROTACEAE
 
-alitaptap na malaki <sub>tl.</sub> - *Pleurotus ostreatus* (Jacq. ex Fr.)
+alitaptap na malaki <sub>tl.</sub>
+- *Pleurotus ostreatus* (Jacq. ex Fr.) Agaricomycetes: Agaricales: PLEUROTACEAE
 
 álug <sub>xnn.</sub> - a type of edible pink mushroom <sup><a href="#3">[3]</a></sup>
 
 amag <sub>tl.</sub> - mold; mildew 
 
-amamakol <sub>hil.</sub> - *Volvaria* sp. Bres. ???; *Volvariella volvacea* (Bull. ex Fries) Sing. (Syn: *Volvaria esculenta*)
+amamakol <sub>hil.</sub> - cf. *Volvariella* sp.; *Volvariella volvacea* (Bull.) Sing. 1951); *Volvariella esculenta* ((Mass.) Sing. 1951) Agaricomycetes: Agaricales: PLUTEACEAE
+
+amamakol <sub>tl-mdu.</sub>
+- *Termitomyces* sp. (Heim 1942) Agaricomycetes: Agaricales: LYOPHYLLACEAE
 
 amamakul <sub>hnn.</sub>
-- *Pholiota* sp. (E.M. Fries)
+- *Pholiota* sp. (Fr. 1871)
+Agaricomycetes: Agaricales: STROPHARIACEAE
 
 amelat an mumpaha <sub>ifug.</sub>
-- *Daedalea repanda* Pers.
+- *Trametes repanda* ((Pers.) Justo 2014) (syn. *Daedalea repanda* Pers.) Agaricomycetes: Polyporales: POLYPORACEAE
 
 amelat an natuligongon <sub>ifug.</sub>
-- *Polyporus* sp. (Mich.) Fr. ex Fr.
+- *Polyporus* sp. ((Mich.) ex Adan. 1763) Agaricomycetes: Polyporales: POLYPORACEAE
 
 amelat di ameleng <sub>ifug.</sub>
-- *Poria* sp. Pers. ex S.F. Gray
+- *Poria* sp. (Pers. ex S.F. Gray) Agaricomycetes: Polyporales;
+- cf. ulatan mumpaha
 
 amelat di halepon <sub>ifug.</sub>
-- *Daedalea ambigua* Berk.
+- *Daedalea ambigua* (Berk. 1845) Agaricomycetes: Polyporales: FOMITOPSIDACEAE
 
 amidalán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
+
+amurong <sub>tl.-Palawan</sub>
+- *Termitomyces* sp. (Heim 1942) Agaricomycetes: Agaricales: LYOPHYLLACEAE
 
 anandap <sub>ilo.</sub>
 - *Hypsizygus ulmarius* ((Bull. ex Fr.) Redhead 1984) (Syn: *Pleurotus ulmarius*) Agaricomycetes: Agaricales: LYOPHYLLACEAE;
 - *Pleurocybella porrigens* ((Pers.) Sing. 1947) (Syn: *Pleurotus porrigens*) Agaricomycetes: Agaricales: PHYLLOTOPSIDACEAE;
-- *Pleurotus canus* (Quel.); *P. cornucopiae* ((Pers.) Rol.); *P. flabellatus* ((Berk. & Br.) Sacc.); *P. limpidus* ((Fr.) Sacc.); *P. opuntiae* ((de Durian & Lev.) Sacc. 1887); *P. ostreatus* ((Jacq. ex Fr.) Kumm. 1871); *P. pulmonarius* ((Fr.) Quél. 1872); *P.* spp. (Fr.) Kumm. 1871 Agaricomycetes: Agaricales: PLEUROTACEAE
+- *Pleurotus canus* (Quel.); *P. cornucopiae* ((Paul.) Quél. 1885); *P. flabellatus* ((Berk. & Br.) Sacc. 1887); *P. limpidus* ((Fr.) Sacc.); *P. opuntiae* ((de Durian & Lev.) Sacc. 1887); *P. ostreatus* ((Jacq. ex Fr.) Kumm. 1871); *P. pulmonarius* ((Fr.) Quél. 1872); *P.* spp. ((Fr.) Kumm. 1871) Agaricomycetes: Agaricales: PLEUROTACEAE
 
 anglóan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-ant-hill mushroom <sub>eng.</sub> - *Collybia albuminosa* (Bres.) Petch.
+ant-hill mushroom <sub>eng.</sub>
+- *Macrolepiota albuminosa* ((Berk.) Pegler 1972) (syn. *Collybia albuminosa*) Agaricomycetes: Agaricales: AGARICACEAE
 
 apakáw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -154,27 +170,36 @@ apáwan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]<
 
 apaya <sub>tl.</sub> - bread mold
 
-apiáng <sub>xnn.</sub> - a type of edible red mushroom <sup><a href="#3">[3]</a></sup> (cf. *Amanita sect. Caesareae stirps Hemibapha*)
+apiáng <sub>xnn.</sub> - a type of edible red mushroom <sup><a href="#3">[3]</a></sup>
+- (cf. *Amanita sect. Caesareae stirps Hemibapha* Agaricomycetes: Agaricales: AMANITACEAE)
 
 aroy <sub>Lanao</sub> - mushroom? <sup><a href="#fpp">FPP</a></sup>
 
-atayan <sub>xnn.</sub> - (cf. *Scleroderma* sp.)
+atayan <sub>xnn.</sub> - (cf. *Scleroderma* sp. Pers. Agaricomycetes: Boletales: SCLERODERMATACEAE)
 
 átey di nuáng? <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
 baan <sub>xnn.</sub> 
 
-badlan <sub>hil.</sub> - cf. *Lentinus squarrosulus* cf. *Pleurotus* sp.
+badlan <sub>hil.</sub>
+- cf. *Lentinus squarrosulus* (Mont. 1842) Agaricomycetes: Polyporales: POLYPORACEAE;
+- cf. *Pleurotus* sp. ((Fr.) Kumm. 1871) Agaricomycetes: Agaricales: PLEUROTACEAE
 
-baen di balluta <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+baen di balluta <sub>ifug.</sub>
+- *Polyporus* sp. ((Mich.) ex Adan. 1763) Agaricomycetes: Polyporales: POLYPORACEAE
 
-baen di habutan <sub>ifug.</sub> - *Mycena elegans* Fries; *Naucoria pediades* Fries
+baen di habutan <sub>ifug.</sub>
+- *Mycena elegans* sensu Fr. Agaricomycetes: Agaricales: MYCENACEAE;
+- *Agrocybe pediades* ((Fr.) Fayod 1889) (syn. *Naucoria pediades*) Agaricomycetes: Agaricales: STROPHARIACEAE
 
-baen di kimelat <sub>ifug.</sub> - *Lopharia* sp. Kalchbr. & McOwen
+baen di kimelat <sub>ifug.</sub>
+- *Lopharia* sp. "HYDNACEAE"
 
-baen di ulat <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+baen di ulat <sub>ifug.</sub>
+- *Polyporus* sp. ((Mich.) ex Adan. 1763) Agaricomycetes: Polyporales: POLYPORACEAE
 
-baen di ulluli an natuudan <sub>ifug.</sub> - *Mycena galopus* Pers.
+baen di ulluli an natuudan <sub>ifug.</sub>
+- *Mycena galopus* ((Pers.) P. Kumm. 1871) Agaricomycetes: Agaricales: MYCENACEAE
 
 bagatáas <sub>xnn.</sub> - a type of edible white mushrooom <sup><a href="#3">[3]</a></sup>
 
@@ -190,29 +215,46 @@ balikánaw <sub>xnn.</sub> - a type of edible white mushroom
 
 balikút <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-balluta an iitang <sub>ifug.</sub> - *Favolus europaeus* Fries
+balluta an iitang <sub>ifug.</sub>
+- *Neofavolus alveolaris* ((DC.) Sotome & T. Hatt. 2012) (syn. *Favolus europaeus* (Fr. 1838)) Agaricomycetes: Polyporales: POLYPORACEAE
 
-balluta an mumpaha <sub>ifug.</sub> - *Favolus* sp. (Beauv. ex Fries) Fries
+balluta an mumpaha <sub>ifug.</sub>
+- *Favolus* sp. (Fr. 1828) Agaricomycetes: Polyporales: POLYPORACEAE
 
-balluta an ulat di talanag <sub>ifug.</sub> - - *Favolus europaeus* Fries
+balluta an ulat di talanag <sub>ifug.</sub>
+- *Neofavolus alveolaris* ((DC.) Sotome & T. Hatt. 2012) (syn. *Favolus europaeus* (Fr. 1838)) Agaricomycetes: Polyporales: POLYPORACEAE
 
-balluta di bae <sub>ifug.</sub> - *Pleurocybella porrigens* (Fries) Sing. (Syn: *Pleurotus porrigens* (Fries) Sing.)
+balluta di bae <sub>ifug.</sub>
+- *Pleurocybella porrigens* ((Pers.) Sing. 1947) (Syn: *Pleurotus porrigens*) Agaricomycetes: Agaricales: PHYLLOTOPSIDACEAE;
 
-balluta di bangngaan <sub>ifug.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
+- *Hypsizygus ulmarius* ((Bull. ex Fr.) Redhead 1984) (Syn: *Pleurotus ulmarius*) Agaricomycetes: Agaricales: LYOPHYLLACEAE;
+- *Pleurocybella porrigens* ((Pers.) Sing. 1947) (Syn: *Pleurotus porrigens*) Agaricomycetes: Agaricales: PHYLLOTOPSIDACEAE;
+- *Pleurotus canus* (Quel.); *P. cornucopiae* ((Paul.) Quél. 1885); *P. flabellatus* ((Berk. & Br.) Sacc. 1887); *P. limpidus* ((Fr.) Sacc.); *P. opuntiae* ((de Durian & Lev.) Sacc. 1887); *P. ostreatus* ((Jacq. ex Fr.) Kumm. 1871); *P. pulmonarius* ((Fr.) Quél. 1872); *P.* spp. ((Fr.) Kumm. 1871) Agaricomycetes: Agaricales: PLEUROTACEAE
 
-balluta di bilhu <sub>ifug.</sub> - *Pleurotus* sp. (Fries) Kummer
+balluta di bangngaan <sub>ifug.</sub>
+- *Pleurotus ostreatus* ((Jacq. ex Fr.) Kumm. 1871) Agaricomycetes: Agaricales: PLEUROTACEAE
 
-balluta di boghong <sub>ifug.</sub> - *Pleurotus pulmonaris* Fries
+balluta di bilhu <sub>ifug.</sub>
+- *Pleurotus* sp. ((Fr.) Kumm. 1871) Agaricomycetes: Agaricales: PLEUROTACEAE
 
-balluta di bongod <sub>ifug.</sub> - *Claudopus variabilis* (Pers.) Sm.
+balluta di boghong <sub>ifug.</sub>
+- *Pleurotus pulmonaris* ((Fr.) Quél. 1872) Agaricomycetes: Agaricales: PLEUROTACEAE
 
-balluta di kayiw gumabillog <sub>ifug.</sub> - *Hydnum* sp. L. ex Fries
+balluta di bongod <sub>ifug.</sub>
+- *Crepidotus variabilis* ((Pers.) P. Kumm. 1871) (syn. *Claudopus variabilis*) Agaricomycetes: Agaricales: CREPIDOTACEAE
 
-balluta di lotbang <sub>ifug.</sub> - *Pleurotus opuntiae* de Durian & Lev.; *P. pulmonaris* Fries; *P.* sp. (Fries) Kummer
+balluta di kayiw gumabillog <sub>ifug.</sub>
+- *Hydnum* sp. (L. 1753) Agaricomycetes: Cantharellales: HYDNACEAE
 
-balluta di mangalituba <sub>ifug.</sub> - *Guepinia spathularia* (Schw.) Fries; *Polyporus* sp. (Mich.) Fries ex Fries
+balluta di lotbang <sub>ifug.</sub>
+- *Pleurotus opuntiae* ((de Durian & Lev.) Sacc. 1887); *P. pulmonaris*  ((Fr.) Quél. 1872); *P.* sp. ((Fr.) Kumm. 1871) Agaricomycetes: Agaricales: PLEUROTACEAE
 
-balluta di podpod <sub>ifug.</sub> - *Pleurotus canus* Quel.
+balluta di mangalituba <sub>ifug.</sub>
+- *Dacryopinax spathularia* ((Schwein.) G.W. Martin 1948) Dacrymycetes; Dacrymycetales; DACRYMYCETACEAE
+- *Polyporus* sp. ((Mich.) ex Adan. 1763) Agaricomycetes: Polyporales: POLYPORACEAE
+
+balluta di podpod <sub>ifug.</sub>
+- *Pleurotus canus* Quel. Agaricomycetes: Agaricales: PLEUROTACEAE
 
 balugbug-dagis <sub>pam.</sub> - 等 <sup><a href="#fpp">FPP</a></sup> *= bukui* <sup><a href="#1">[1]:109</a></sup>
 
@@ -232,61 +274,87 @@ bangtán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]
 
 bátang
 
-batang an abibillog <sub>ifug.</sub> - *Daedalea ambigua* Berk.
+batang an abibillog <sub>ifug.</sub>
+- *Daedalea ambigua* (Berk. 1845) Agaricomycetes: Polyporales: FOMITOPSIDACEAE
 
-batang an mangmangetet <sub>ifug.</sub> - *Amauroderma* sp. Murr.
+batang an mangmangetet <sub>ifug.</sub>
+- *Amauroderma* sp. (Murr. 1905) Agaricomycetes: Polyporales: GANODERMATACEAE
 
-batang an mihda <sub>ifug.</sub> - *Polystictus versicolor* L. ex Fries
+batang an mihda <sub>ifug.</sub>
+- *Trametes versicolor* ((L.) Lloyd 1921) Agaricomycetes: Polyporales: POLYPORACEAE
 
-batang an mumbolah <sub>ifug.</sub> - *Polyporus sanguinus* L.
+batang an mumbolah <sub>ifug.</sub>
+- *Fabisporus sanguineus* ((L.) Zmitr. 2001) (syn. *Pycnoporus sanguineus*) Agaricomycetes: Polyporales
 
-batang an mumpaha <sub>ifug.</sub> - *Polyporus occidentalis* Klotz; *Polyporus sanguinus* L.
+batang an mumpaha <sub>ifug.</sub>
+- *Coriolopsis occidentalis* ((Klot.) Murr. 1905) (syn. *Polyporus occidentalis*) Agaricomycetes: Polyporales: POLYPORACEAE;
+- *Fabisporus sanguineus* ((L.) Zmitr. 2001) (syn. *Pycnoporus sanguineus*) Agaricomycetes: Polyporales
 
-batang an na-ok-okep an adi mihda <sub>ifug.</sub> - *Hydhum adustum* Schwz.
+batang an na-ok-okep an adi mihda <sub>ifug.</sub>
+- *Mycorrhaphium adustum* ((Schw.) Maas Geest. 1962) (syn. *Hydnum adustum*) Agaricomycetes: Polyporales: STECCHERINACEAE
 
-batang an napagatan <sub>ifug.</sub> - *Ganoderma* sp. P.A. Karsten
+batang an napagatan <sub>ifug.</sub>
+- *Ganoderma* sp. (Karst. 1881) Agaricomycetes: Polyporales: GANODERMATACEAE
 
-batang di anablon <sub>ifug.</sub> - *Polyporus megaloporus* Mont.
+batang di anablon <sub>ifug.</sub>
+- *Echinochaete brachypora* ((Mont.) Ryvarden 1978) (syn. *Polyporus megaloporus* sensu Mont.) Agaricomycetes: Polyporales: POLYPORACEAE
 
-batang di buluh <sub>ifug.</sub> - *Polystictus affinis* Nees
+batang di buluh <sub>ifug.</sub>
+- *Microporus affinis* ((Blum. & Nees) Kunt. 1898) (syn. *Polystictus affinis*)
 
-batang di kagiw <sub>ifug.</sub> - *Ganoderma* sp. P.A. Karsten
+batang di kagiw <sub>ifug.</sub>
+- *Ganoderma* sp. (Karst. 1881) Agaricomycetes: Polyporales: GANODERMATACEAE
 
-batang di kayiw an namuol <sub>ifug.</sub> - *Xylaria* sp. Hill. ex Grev.
+batang di kayiw an namuol <sub>ifug.</sub>
+- *Xylaria* sp. (Hill ex Schr. 1789) Sordariomycetes: Xylariales: XYLARIACEAE
 
-batang di kayiw an tumbal <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+batang di kayiw an tumbal <sub>ifug.</sub>
+- *Polyporus* sp. ((Mich.) ex Adan. 1763) Agaricomycetes: Polyporales: POLYPORACEAE
 
-batang di labu <sub>ifug.</sub> - *Stereum* sp. Pers.; *Polyporus* sp. (Mich.) Fries ex Fries
+batang di labu <sub>ifug.</sub>
+- *Stereum* sp. (Hill ex Pers. 1794) Agaricomycetes: Russulales: STEREACEAE;
+- *Polyporus* sp. ((Mich.) ex Adan. 1763) Agaricomycetes: Polyporales: POLYPORACEAE
 
-batang di tuwol <sub>ifug.</sub> - *Polystictus versicolor* L. ex Fries
+batang di tuwol <sub>ifug.</sub>
+- *Trametes versicolor* ((L.) Lloyd 1921) Agaricomycetes: Polyporales: POLYPORACEAE
 
-batung an dunun <sub>ifug.</sub> - *Polyporus* sp. (Mich.) Fries ex Fries
+batung an dunun <sub>ifug.</sub>
+- *Polyporus* sp. ((Mich.) ex Adan. 1763) Agaricomycetes: Polyporales: POLYPORACEAE
 
-beehive-shaped mushroom <sub>eng.</sub> - *Hexagonia apiaria* Pers.
+beehive-shaped mushroom <sub>eng.</sub>
+- *Trametes apiaria* ((Pers.) Zmitr., Wass. & Ezhov 2012) (syn. *Hexagonia apiaria*) Agaricomycetes: Polyporales: POLYPORACEAE
 
 bélak <sub>xnn.</sub> - a type of white toadstool <sup><a href="#3">[3]</a></sup>
 
-bell-shaped mushroom <sub>eng.</sub> - *Coprinus comatus* (Fries) S.F. Gray
+bell-shaped mushroom <sub>eng.</sub>
+- *Coprinus comatus* ((O.F. Müll.) Pers. 1797) Agaricomycetes: Agaricales: AGARICACEAE
 
 bílis <sub>xnn.</sub> - a type of white toadstool <sup><a href="#3">[3]</a></sup>
 
-bird's-nest fungi <sub>eng.</sub> - *Cyathus striatus* Hoffm.
+bird's-nest fungi <sub>eng.</sub>
+- *Cyathus striatus* (Willd. 1787) Agaricomycetes: Agaricales: NIDULARIACEAE
 
-bituinglupaʼ <sub>tl.</sub> - *Geaster hygrometicus* Pers.
+bituinglupaʼ <sub>tl.</sub>
+- *Astraeus hygrometricus* ((Pers.) Morgan 1889) (syn. *Geastrum hygrometricum*) Agaricomycetes: Boletales: DIPLOCYSTIDACEAE/DIPLOCYSTACEAE
 
-black bulgar <sub>eng.</sub> - *Trichaleurina javanica*
+???black bulgar <sub>eng.</sub>
+- *Trichaleurina javanica* ((Rehm) M. Carbone et al. 2013) Pezizomycetes: Pezizales: PYRONEMATACEAE/CHORIOACTIDACEAE
 
-black wood ear <sub>eng.</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
+black wood ear <sub>eng.</sub>
+- *Auricularia nigricans* (Sw.) (Birkebak et al. 2013) (syn. *A. polytricha*) Agaricomycetes: Auriculariales: AURICULARIACEAE
 
-blood-red mushroom <sub>eng.</sub> - *Russula sanguinea* Fries
+blood-red mushroom <sub>eng.</sub>
+- *Russula sanguinea* (Fr. 1838) Agaricomycetes: Russulales: RUSSULACEAE
 
-blue meanies <sub>eng.</sub> - *Panaeolus cyanescens* (Berk. & Broome) Sacc.
+blue meanies <sub>eng.</sub>
+- *Panaeolus cyanescens* (Sacc. 1887) Agaricomycetes: Agaricales: GALEROPSIDACEAE
 
 bobbóo (bobbóon di mágan) <sub>xnn.</sub> - a type of small white toadstool <sup><a href="#3">[3]</a></sup>
 
 bobbóong <sub>xnn.</sub> - = *bobbóo* <sup><a href="#3">[3]</a></sup>
 
-bola-bola <sub>ilo.</sub> - *Calvatia lilacina* Fries
+bola-bola <sub>ilo.</sub>
+- *Calvatia lilacina* ((Mont. & Berk.) Henn. 1904) Agaricomycetes: Agaricales: LYCOPERDACEAE
 
 bong <sub>xnn.</sub> - a type of edible grayish white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -296,7 +364,8 @@ bong di taáw <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3
 
 bong di tallábung <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-bonghalla <sub>ifug.</sub> - *Collybia* sp. (Fries) Staude
+bonghalla <sub>ifug.</sub>
+- *Collybia* sp. ((Fr.) Staude 1857) Agaricomycetes: Agaricales: TRICHOLOMATACEAE
 
 bóo <sub>xnn.</sub> - a type of edible, round, white mushroom <sup><a href="#3">[3]</a></sup> (cf. *Scleroderma* sp.)
 
@@ -312,9 +381,11 @@ bugtán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]<
 
 bulúngan <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
-bulung an ikkipan <sub>ifug.</sub> - *Collybia* sp. (Fries) Staude
+bulung an ikkipan <sub>ifug.</sub>
+- *Collybia* sp. ((Fr.) Staude 1857) Agaricomycetes: Agaricales: TRICHOLOMATACEAE
 
-bulung an oongal <sub>ifug.</sub> - *Collybia albuminosa* (Bres.) Petch.
+bulung an oongal <sub>ifug.</sub>
+- *Macrolepiota albuminosa* ((Berk.) Pegler 1972) (syn. *Collybia albuminosa*) Agaricomycetes: Agaricales: AGARICACEAE
 
 búnug <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
 
@@ -330,13 +401,18 @@ buttatáy <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3
 
 butingginiikan <sub>tl.</sub> - cf. *kabuting-giniikan*
 
-button mushroom <sub>eng.</sub> - *Agaricus bisporus* (Lange) Sing.
+button mushroom <sub>eng.</sub>
+- *Agaricus bisporus* ((Lang.) Imbach 1946) Agaricomycetes: Agaricales: AGARIGACEAE
 
-cabbage mushroom <sub>eng.</sub> - *Sparassis crispa* Wulf.
+cabbage mushroom <sub>eng.</sub>
+- *Sparassis crispa* ((Wulfen) Fr. 1821) Agaricomycetes: Polyporales: SPARASSIDACEAE
 
-carabao dung mushroom <sub>eng.</sub> - *Copelandia papilionacea* (Bull.) Bres.
+carabao dung mushroom <sub>eng.</sub> - *Panaeolus papilionaceus* ((Bull.) Quél. 1872) (syn. *Copelandia papilionacea*) Agaricomycetes: Agaricales: GALEROPSIDACEAE
 
-chongo <sub>Bontok</sub> - *Agaricus campestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
+§
+
+chongo <sub>bnc.</sub>
+- *Agaricus campestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
 
 combab <sub>ilo.</sub> - *Tricholoma matsutake* (S. Ito & Mai) Sing.
 
