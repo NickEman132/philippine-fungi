@@ -125,7 +125,8 @@ alitaptap na malaki <sub>tl.</sub>
 
 amag <sub>tl.</sub> - mold; mildew 
 
-amamakol <sub>hil.</sub> - cf. *Volvariella* sp.; *Volvariella volvacea* (Bull.) Sing. 1951); *Volvariella esculenta* ((Mass.) Sing. 1951) Agaricomycetes: Agaricales: PLUTEACEAE
+amamakol <sub>hil.</sub>
+- cf. *Volvariella* sp.; *Volvariella volvacea* (Bull.) Sing. 1951); *Volvariella esculenta* ((Mass.) Sing. 1951) Agaricomycetes: Agaricales: PLUTEACEAE
 
 amamakol <sub>tl-mdu.</sub>
 - *Termitomyces* sp. (Heim 1942) Agaricomycetes: Agaricales: LYOPHYLLACEAE
@@ -226,10 +227,6 @@ balluta an ulat di talanag <sub>ifug.</sub>
 
 balluta di bae <sub>ifug.</sub>
 - *Pleurocybella porrigens* ((Pers.) Sing. 1947) (Syn: *Pleurotus porrigens*) Agaricomycetes: Agaricales: PHYLLOTOPSIDACEAE;
-
-- *Hypsizygus ulmarius* ((Bull. ex Fr.) Redhead 1984) (Syn: *Pleurotus ulmarius*) Agaricomycetes: Agaricales: LYOPHYLLACEAE;
-- *Pleurocybella porrigens* ((Pers.) Sing. 1947) (Syn: *Pleurotus porrigens*) Agaricomycetes: Agaricales: PHYLLOTOPSIDACEAE;
-- *Pleurotus canus* (Quel.); *P. cornucopiae* ((Paul.) Quél. 1885); *P. flabellatus* ((Berk. & Br.) Sacc. 1887); *P. limpidus* ((Fr.) Sacc.); *P. opuntiae* ((de Durian & Lev.) Sacc. 1887); *P. ostreatus* ((Jacq. ex Fr.) Kumm. 1871); *P. pulmonarius* ((Fr.) Quél. 1872); *P.* spp. ((Fr.) Kumm. 1871) Agaricomycetes: Agaricales: PLEUROTACEAE
 
 balluta di bangngaan <sub>ifug.</sub>
 - *Pleurotus ostreatus* ((Jacq. ex Fr.) Kumm. 1871) Agaricomycetes: Agaricales: PLEUROTACEAE
