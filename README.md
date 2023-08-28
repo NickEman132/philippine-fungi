@@ -58,6 +58,8 @@ Abbreviations of languages here are based on ISO-639
 	
 	pam. - Kapampangan, Pampangan
 	
+	sgd. - Surigaonon
+	
 	ilo. - Ilokano, Iloko
 	
 	smk. - Bolinao
@@ -669,6 +671,8 @@ karulu <sub>Ibanag</sub> - mushroom
 
 karupdup <sub>hil.</sub> - (small mushrooms, substrate: dead trees)
 
+kaupas <sub>sgd.</sub> - Termitomyces sp.
+
 kawkaw manilong <sub>Agta</sub> - *Termitomyces cartilaginous* Heim.
 
 kayhom di kayiw <sub>ifug.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
@@ -775,6 +779,7 @@ kwat <sub>Sambali</sub> - mushroom 
 
 labit <sub>Waray</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
+lambakan <sub>Yakan</sub> - *Termitomyces* sp. (brown caps)
 
 lamlam-ing <sub>xnn.</sub> - *Cantharellus* spp.
 
@@ -921,6 +926,8 @@ lumsek <sub>???</sub> - *Hygrophorus ???*
 lupik <sub>hnn.</sub> - *Geaster sp.*
 
 lusi-lusi <sub>?</sub> - *Trichaleurina javanica*
+
+luyód <sub>Yakan</sub> - *Termitomyces* sp. grey/black caps
 
 luyud <sub>Tausug</sub> - mushroom
 
