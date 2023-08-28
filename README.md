@@ -771,11 +771,12 @@ kurapodit <sub>ceb.</sub> - *Schizophyllum commune* Fries (Syn: *S. alneum* L.)
 
 kurkur <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
+kuwat <sub>Sambali</sub> (lit. mushroom)
+ - *Termitomyces* sp.
+
 kuwát-aníto <sub>*Pinatubo Agta*</sub> - non-edible mushroom; ear-fungi of the spirits
 
 kuyog <sub>tl.</sub> - *Termitomyces cartilaginous* Heim.
-
-kwat <sub>Sambali</sub> - mushroom 
 
 labit <sub>Waray</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
@@ -963,7 +964,7 @@ ohong <sub>ceb. hil. Panay</sub> - mushroom spp.
 
 oong <sub>smk. pag. ilo.</sub> - mushroom spp.
 
-oong mangado <sub>pag. (ilo.)</sub> - cf. mamarang 
+oong mangado <sub>pag. ilo.</sub> - *Termitomyces* sp.
 
 oong na pongol <sub>pag.</sub> - *Collybia albuminosa* (Bres.) Petch.
 
@@ -1274,6 +1275,9 @@ uong galis <sub>ilo.</sub> - *Boletus elegans* Schum. ex Fries
 uong kayo <sub>ilo.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
 uong kurad <sub>ilo.</sub> - *Strobilomyces strobilaceous* (Scop. ex Fries) Berk.
+
+uong mannagado <sub>ilo.</sub> (lit. mushroom plural) 
+- *Termitomyces* sp.
 
 uong na dayami <sub>pag.</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing.
 
