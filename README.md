@@ -54,6 +54,8 @@ Abbreviations of languages here are based on ISO-639
 	 
 	krj. - Karay-a, Kinaray-a
 	 
+	mdh. - Maginanaon, Magindanaw
+	
 	pag. - Pangasinan 
 	
 	pam. - Kapampangan, Pampangan
@@ -794,6 +796,8 @@ large firefly mushroom <sub>eng.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
 
 leather-colored mushroom <sub>eng.</sub> - *Marasmius haematocephalus* Mont.
 
+libgos <sub>?</sub> - *Termitomyces* sp. cf. ligbos
+
 ligat-ligat <sub>ilo.</sub> - *Auricularia auricula* (L. ex Hook.) Underw.
 
 ligbos <sub>ceb., Samar-Leyte</sub> - *Termitomyces cartilaginous* Heim.
@@ -960,7 +964,7 @@ nadupdupengel <sub>ifug.</sub> - *Clitocybe laccata* Scop.
 
 ngaan <sub>xnn.</sub> - *Lactarius* sp. Pers.
 
-ohong <sub>ceb. hil. Panay</sub> - mushroom spp.
+ohong <sub>ceb. hil. Panay</sub> - mushroom spp.; *Termitomyces* (description: bigger than libgos)
 
 oong <sub>smk. pag. ilo.</sub> - mushroom spp.
 
@@ -1300,6 +1304,8 @@ uong tinta <sub>ilo.</sub> - *Boletus tomentosus* Sing.
 upey <sub>xnn.</sub> - cf. *Amanita tristis*
 
 upoy
+
+waluy <sub>mdh. Iranun</sub> *Termitomyces* sp.
 
 xanggarát
 
