@@ -133,7 +133,8 @@ amamakol <sub>hil.</sub>
 - cf. *Volvariella* sp.; *Volvariella volvacea* (Bull.) Sing. 1951); *Volvariella esculenta* ((Mass.) Sing. 1951) Agaricomycetes: Agaricales: PLUTEACEAE
 
 amamakol <sub>tl-mdu.</sub>
-- *Termitomyces* sp. (Heim 1942) Agaricomycetes: Agaricales: LYOPHYLLACEAE
+- *Termitomyces* sp. (Heim 1942) 
+Agaricomycetes: Agaricales: LYOPHYLLACEAE
 
 amamakul <sub>hnn.</sub>
 - *Pholiota* sp. (Fr. 1871)
@@ -374,6 +375,9 @@ bóo di núang <sub>xnn.</sub> - a type of mushroom bigger than *bóo*, but can'
 
 bóong <sub>xnn.</sub> - a type of edible pink mushroom <sup><a href="#3">[3]</a></sup>
 
+brain-like mushroom <sub>eng.</sub>
+- *Morchella esculenta* ((L.) Pers. 1794) Pezizomycetes: Pezizales: MORCHELLACEAE
+
 bugátan <sub>xnn.</sub> - a type of edible reddish mushroom <sup><a href="#3">[3]</a></sup>
 
 bugtán <sub>xnn.</sub> - a type of edible white mushroom <sup><a href="#3">[3]</a></sup>
@@ -408,43 +412,59 @@ button mushroom <sub>eng.</sub>
 cabbage mushroom <sub>eng.</sub>
 - *Sparassis crispa* ((Wulfen) Fr. 1821) Agaricomycetes: Polyporales: SPARASSIDACEAE
 
-carabao dung mushroom <sub>eng.</sub> - *Panaeolus papilionaceus* ((Bull.) Quél. 1872) (syn. *Copelandia papilionacea*) Agaricomycetes: Agaricales: GALEROPSIDACEAE
-
-§
+carabao dung mushroom <sub>eng.</sub> - *Panaeolus papilionaceus* ((Bull.) Quél. 1872) (syn. *Copelandia papilionacea*) 
+Agaricomycetes: Agaricales: GALEROPSIDACEAE
 
 chongo <sub>bnc.</sub>
-- *Agaricus campestris* L. ex Fries (Syn: *Psalliota campestris* (Fries) Quel.)
+- *Agaricus campestris* (L. 1753) Agaricomycetes: Agaricales: AGARICACEAE
 
-combab <sub>ilo.</sub> - *Tricholoma matsutake* (S. Ito & Mai) Sing.
+combab <sub>ilo.</sub>
+- *Tricholoma matsutake* ((S. Ito & Mai) Sing. 1943) Agaricomycetes: Agaricales: TRICHOLOMATACEAE
 
-cup-like mushroom <sub>eng.</sub> - *Peziza postulata* (Hedwig) Pers.
+§↓
+
+cup-like mushroom <sub>eng.</sub>
+- *Peziza postulata* (Hedwig) Pers.
 
 dadaakan <sub>Sambali</sub> - mushroom
 
 dakdakan <sub>Sambali</sub> - mushroom <sup><a href="#fpp">FPP</a></sup>, also a banana variant
 
-dakino <sub>xnn.</sub>
+§§↑
 
-dakkel nga anandap <sub>ilo.</sub> - *Pleurotus ostreatus* (Jacq. ex Fries)
+dakino <sub>xnn.</sub>
+- *Suillus* sp. (Gray 1821) Agaricomycetes: Boletales: SUILLACEAE  
+
+dakkel nga anandap <sub>ilo.</sub>
+- *Pleurotus ostreatus* ((Jacq. ex Fr.) Kumm. 1871) Agaricomycetes: Agaricales: PLEUROTACEAE
 
 dalakan <sub>xnn.</sub> 
 
-dalugdug <sub>hil.</sub> - *Schizophyllum* sp. Fries ex Fries
+dalugdug <sub>hil.</sub>
+- *Schizophyllum* sp. Fries ex Fries Agaricomycetes: Agaricales: SCHIZOPHYLLACEAE
 
 damdamayan <sub>Kankanaey</sub>
 
 damino <sub>?</sub>
 
-damminul <sub>ifug.</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm.)
+damminul <sub>ifug.</sub> 
+- *Hypsizygus ulmarius* ((Bull. ex Fr.) Redhead 1984) (Syn: *Pleurotus ulmarius*) Agaricomycetes: Agaricales: LYOPHYLLACEAE
 
-damminul di lotpeng <sub>ifug.</sub> - *Hypsizygus ulmarius* (Bull. ex Fr.) Redhead (Syn: *Pleurotus ulmarius*  (Bull.) P. kumm.)
+damminul di lotpeng <sub>ifug.</sub>
+- *Hypsizygus ulmarius* ((Bull. ex Fr.) Redhead 1984) (Syn: *Pleurotus ulmarius*) Agaricomycetes: Agaricales: LYOPHYLLACEAE
 
-dayami <sub>???</sub> - *Volvariella volvacea* (Bull. ex Fries) Sing. (Syn: *Volvaria esculenta* Bres.)
+dayami <sub>???</sub>
+- *Volvariella volvacea* (Bull.) Sing. 1951); *Volvariella esculenta* ((Mass.) Sing. 1951) Agaricomycetes: Agaricales: PLUTEACEAE
 
-deadly agaric <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
+deadly agaric <sub>eng.</sub>
+- *Amanita phalloides* ((Vaill. ex Fr.) Link 1833) 
+Agaricomycetes: Agaricales: AMANITACEAE
 
-deadly amanita <sub>eng.</sub> - *Amanita phalloides* (Fries) Secr.
+deadly amanita <sub>eng.</sub>
+- *Amanita phalloides* ((Vaill. ex Fr.) Link 1833) 
+Agaricomycetes: Agaricales: AMANITACEAE
 
+§§
 demonyo - *Coprinus cinereus*
 
 dolongan sang kahoy <sub>*Panay*</sub> - *Auricularia affinis* Lev.; *A. delicata* Lloyd.; *A. polytricha* (Mont.) Sacc.
