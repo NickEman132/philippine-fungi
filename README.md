@@ -10,9 +10,13 @@ If you're on a mobile device, press the button with three dots `⋮`, then press
 
 Otherwise just scroll.
 
-## Notices
+## Notice
 
-Some scientific names might be considered inaccurate and/or outdated such as *Auricularia auricula* which should be *A. polytricha*. *A. auricula* does not exist in the Philippines.
+There are issues that need be brought up when using this dictionary.
+
+Some scientific names might be considered inaccurate and/or outdated such as *Auricularia auricula* which should be *A. nigrica*. *A. auricula* does not exist in the Philippines. These will be updated continuously as new information and discussions rise.
+
+The way authorship is written in these is inaccurate and does not subscribe to the correct way of writing binomial nomenclature. This will be corrected in the future.
 
 Some mushrooms named might not be currently attested in the Philippines and might not have any local names like the *Amanita muscaria*. However, they have been added because of previous instances and imports from the culinary world.
 
