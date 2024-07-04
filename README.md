@@ -16,7 +16,7 @@ There are issues that need be brought up when using this dictionary.
 
 First, the linguistic diversity of the Philippines is vast. Variations in pronunciation and spelling will varry across tribes, hillsides, barrios and even clans. Therefore this dictionary will also be writing the localities to accompany language codes from ISO 639. In the case where these variations may occur too many, we might have to keep it in one entry.
 
-The entries in this dictionary follows the format in which the local name comes first, followed by the language and/or locality the entries are present. As much as possible, the meaning and/or etymology of the word will be written, even when a scientific name is already provided. In a case where many words from many languages can be traced to a proto-language, the words will be written under the proto-word following the same formal under the first section of the dictionary.
+The entries in this dictionary follows the format in which the local name comes first, followed by the language and/or locality the entries are present. As much as possible, the meaning and/or etymology of the word will be written, even when a scientific name is already provided. In a case where many words from many languages can be traced to a proto-language, the reflexes will be written under the proto-word following the same formal under the first section of the dictionary. However, if words with these reflexes are bound to an adjective, they may be sectioned into their own entries.
 
 Status of scientific names will be hyperlinked in which you can find the author and the publication. In a case where the publication can not be traced and/or a generic epithet was used to signify many genera, the paper that used the scientific name will be cited.
 
@@ -100,6 +100,16 @@ Abbreviations of languages here are based on ISO-639
 	lit. - literally, literal definition
 
 ## [proto-dictionary](#contents)
+
+*bataŋ: (PMP) trunk; bracket fungus
+
+*kulat₂: (PMP) polypore; bracket fungus; PAn ***kulaC**
+
+→ kulát: (kne) *Schizophyllum commune*
+
+→ kúlat: (ilo) bracket fungus
+
+*taliŋa: (PMP) ear; bracket fungus; PAn ***Caliŋa**
 
 *[Section intentionally left blank]*
 
