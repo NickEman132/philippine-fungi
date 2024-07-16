@@ -32,6 +32,8 @@ Some mushrooms named might not be currently attested in the Philippines and migh
 
 [**dictionary**](#dictionary)
 
+[**lichen-dictionary**](#lichen-dictionary)
+
 道 
 
 [meta info](#meta-info)
@@ -111,9 +113,59 @@ Abbreviations of languages here are based on ISO-639
 
 *taliŋa: (PMP) ear; bracket fungus; PAn ***Caliŋa**
 
-*[Section intentionally left blank]*
+*[Section WIP]*
 
 ## [dictionary](#contents)
+
+ada-an: (kne) *Termitomyces* cf. *albuminosa*
+
+akipan: (ibl) termite mushrooms, *Termitomyces*
+
+ampakaw: (kne) hallucinogenic or poisonous *Amanita*; *Amanita excelsa*
+
+atayan: (kne) edible earth ball, *Scleroderma* cf. *yunnanense*
+
+bo-o: (ibl) edible earth ball, *Scleroderma* cf. *yunnanense*
+
+→ (kne) puffball
+
+botaytay: (ibl) *Suillus*
+
+dakino: (kne) *Suillus*
+
+dalakan: (kne) edible red *Russula*, cf. *Russula rosea*
+
+damino: (bnc) *Suillus*
+
+gikgik: (kne) coral fungi
+
+kankannool: (Abra) edible earth ball, *Scleroderma* cf. *yunnanense*
+
+kaputan: (kne) edible green *Russula*, cf. *Russula virescens*
+
+kudi: (kne) bracket fungi
+
+lamlam-ing: (kne) gregarious mushrooms; *Inocybe*; *Turbinellus*
+
+lumsek: (kne) edible mushroom known to eliminate houseflies, cf. *Hygrophorus*
+
+nga-an: (kne) milkcap, *Lactarius*
+
+ol-oling: (kne) edible grey *Russula*
+
+oong: (mul) *Termitomyces*; mushroom
+
+punek: (kne) edible *Amanita*; cf. *A vaginata*, grisette
+
+sabsasbotan: (kne) small *Termitomyces*, cf *T. microcarpus*
+
+sedesdem: (kne) bolete
+
+tabilew: (kne) *Amanita* spp.
+
+uppey: (kne) edible *Amanita* sp.; cf. *A. pyramidifera*, *A. sinensis*
+
+## [lichen-dictionary](#contents)
 
 *[Section intentionally left blank]*
 
