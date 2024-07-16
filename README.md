@@ -123,6 +123,8 @@ akipan: (ibl) termite mushrooms, *Termitomyces*
 
 ampakaw: (kne) hallucinogenic or poisonous *Amanita*; *Amanita excelsa*
 
+amurong: (tl, Palawan) edible mushroom; *Termitomyces cartilaginous*
+
 atayan: (kne) edible earth ball, *Scleroderma* cf. *yunnanense*
 
 bo-o: (ibl) edible earth ball, *Scleroderma* cf. *yunnanense*
@@ -139,15 +141,29 @@ damino: (bnc) *Suillus*
 
 gikgik: (kne) coral fungi
 
+kabute: (tl) mushroom
+
 kankannool: (Abra) edible earth ball, *Scleroderma* cf. *yunnanense*
 
 kaputan: (kne) edible green *Russula*, cf. *Russula virescens*
 
+kaupas: (ceb) *Volvariella volvacea*
+
 kudi: (kne) bracket fungi
 
-lamlam-ing: (kne) gregarious mushrooms; *Inocybe*; *Turbinellus*
+kuliktop: (Subanen) *Schizophyllum*
+
+kurakding: (blk) *Schizophyllum*
+
+kuyayi: (ceb) *Schizophyllum*
+
+lam-lam-ing: (kne) gregarious mushrooms; *Inocybe*; *Turbinellus*
+
+libgos: (ceb) gregarious edible mushrooms
 
 lumsek: (kne) edible mushroom known to eliminate houseflies, cf. *Hygrophorus*
+
+mamarang: (tl) edible mushroom; *Termitomyces*
 
 nga-an: (kne) milkcap, *Lactarius*
 
@@ -162,6 +178,8 @@ sabsasbotan: (kne) small *Termitomyces*, cf *T. microcarpus*
 sedesdem: (kne) bolete
 
 tabilew: (kne) *Amanita* spp.
+
+uhong: (ceb) edible mushroom
 
 uppey: (kne) edible *Amanita* sp.; cf. *A. pyramidifera*, *A. sinensis*
 
